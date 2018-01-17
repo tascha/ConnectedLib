@@ -1,0 +1,4 @@
+# Appendix 3 - Case Studies {#appendix-3-case-studies}
+
+| For a program about 1920’s fashion, [Providence Public Library](http://www.provlib.org) partnered with the [Rhode Island School of Design](http://www.risd.edu), a prestigious institution located only a few blocks away. An instructor from the school’s [Young Artist program](https://ce.risd.edu/teens/) provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a [professional designer](https://www.facebook.com/CandaceFrenchDesign/) gave teens an experience that would not have been possible with the library’s resources alone. |
+| --- |
