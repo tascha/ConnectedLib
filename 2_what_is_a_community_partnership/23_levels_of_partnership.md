@@ -24,14 +24,7 @@ Different characteristics of the partnership may also vary from less to more int
 </li></ul></div>
 <br>
 
-*   YALSA’s [**Partnering to Increase Your Impact**](http://www.ala.org/yalsa/partnering-toolkit)toolkit (2017) is full of tips and resources to help you form partnerships and obtain funding, including sample partnership letters. [http://www.ala.org/yalsa/partnering-toolkit](http://www.ala.org/yalsa/partnering-toolkit)
-*   The [**Community Toolbox**](http://ctb.ku.edu/) provides extensive resources for [**Starting a Coalition**](http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main) in your community. [http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main](http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main)
-*   FSG has resources and a short video overview of [**Collective Impact**](http://www.fsg.org/ideas-in-action/collective-impact)[**.** ](http://www.fsg.org/ideas-in-action/collective-impact)http://www.fsg.org/ideas-in-action/collective-impact
-*   The [**Collective Impact Forum**](http://collectiveimpactforum.org/)****is a community of practice for collective impact; includes news, resources, and case studies. [http://collectiveimpactforum.org/](http://collectiveimpactforum.org/)
-*   The [**Strive Partnership**](http://www.strivepartnership.org) is an example of a collective impact program to improve education in the Cincinnati area. [http://www.strivepartnership.org](http://www.strivepartnership.org)
-
- |
-| --- |
+___________________________________________________________________
 
 [^9]: McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.
 
