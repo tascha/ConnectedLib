@@ -19,7 +19,7 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 <table class="heading-cell no-common-style"><tr>
 <th colspan="2">Connected Learning and Community Partnerships</th></tr>
 <tr>
-<th>Multiple Pathways</td>
+<th>Multiple Pathways</th>
 <td>Partners can help create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners.</td>
 </tr>
 <tr>
