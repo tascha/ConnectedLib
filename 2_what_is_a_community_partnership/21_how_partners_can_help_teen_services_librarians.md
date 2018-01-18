@@ -7,15 +7,15 @@ There are many ways that community partnerships can benefit libraries. Partners 
 
 <table class="heading-cell no-common-style"><tr>
 <th>PARTNERS CAN EXPOSE TEENS TO NEW CAREERS, OPPORTUNITIES, AND INTERESTS</td>
-<td>One of the most powerful ways partners can help libraries is by letting teens experience a diverse range of careers, opportunities, and interests. A professional can share **expertise and real-world insight** beyond what even the most accomplished teen services librarian can provide. Partners can mentor youth or library staff, and can be resources for programming.<br><a href="#">CASE STUDY: PROVIDENCE PUBLIC LIBRARY & RHODE ISLAND SCHOOL OF DESIGN</a></td>
+<td>One of the most powerful ways partners can help libraries is by letting teens experience a diverse range of careers, opportunities, and interests. A professional can share **expertise and real-world insight** beyond what even the most accomplished teen services librarian can provide. Partners can mentor youth or library staff, and can be resources for programming.<br><br><a href="#">CASE STUDY: PROVIDENCE PUBLIC LIBRARY & RHODE ISLAND SCHOOL OF DESIGN</a></td>
 </tr>
 <tr>
 <th>PARTNERS CAN BRING NEW AUDIENCES TO THE LIBRARY</th>
-<td>Partners who have already built a youth community can introduce them to the library and its resources. Organizations with established audiences might include: scouts or 4-H clubs; YMCA/YWCA; schools; school clubs (e.g. the robotics club or Lego Mindstorm club), other youth-serving organizations; and city facilities like rec centers.<br><a href="#"></a></td>
+<td>Partners who have already built a youth community can introduce them to the library and its resources. Organizations with established audiences might include: scouts or 4-H clubs; YMCA/YWCA; schools; school clubs (e.g. the robotics club or Lego Mindstorm club), other youth-serving organizations; and city facilities like rec centers.<br><br><a href="#">CASE STUDY: BRINGING NEW AUDIENCES TO THE LIBRARY</a></td>
 </tr>
 <tr>
 <th>PARTNERS CAN BRING THE LIBRARY TO NEW AUDIENCES</th>
-<td>Youth services librarians need to get out of the library building and go to teens “where they are, rather than waiting for teens to to find a way to get to the physical library space.”[6] Partners might have spaces that youth are already using where you can bring programs. Look back at the list in the previous section—these same organizations might have spaces where you can take your programming. [**CASE STUDY: CHARLOTTE MECKLENBURG LIBRARY AND THE MECKLENBURG COUNTY SHERIFF’S OFFICE**](../appendix_3_-_case_studies/.2.md)<br><a href="#"></a></td>
+<td>Youth services librarians need to get out of the library building and go to teens “where they are, rather than waiting for teens to to find a way to get to the physical library space.”[6] Partners might have spaces that youth are already using where you can bring programs. Look back at the list in the previous section—these same organizations might have spaces where you can take your programming.<br><br><a href="#">CASE STUDY: CHARLOTTE MECKLENBURG LIBRARY AND THE MECKLENBURG COUNTY SHERIFF’S OFFICE</a></td>
 </tr>
 <tr>
 <th>A FULLER PERSPECTIVE ON THE COMMUNITY</th>
