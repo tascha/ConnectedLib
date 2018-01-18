@@ -20,10 +20,6 @@ There are many ways that community partnerships can benefit libraries. Partners 
 <td>Partners can help youth learn more about areas of interest and even new career options related to those areas.</td>
 </tr>
 <tr>
-<th>Production Centered</th>
-<td>By providing access to materials, equipment, or expertise that the library lacks, partners can expose youth to new creative experiences.</td>
-</tr>
-<tr>
 <th>A FULLER PERSPECTIVE ON THE COMMUNITY</th>
 <td>Partners can give teens a chance to contribute to an effort bigger than the kinds of projects that are usually available to them.</td>
 </tr>
