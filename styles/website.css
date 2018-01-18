@@ -4,6 +4,13 @@
     padding: 15px;
 }
 
+.table-format {
+    background: #90EE90;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+
 .title {
     text-align: center;
 }
