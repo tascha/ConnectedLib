@@ -17,15 +17,15 @@ There are many ways that community partnerships can benefit libraries. Partners 
 </tr>
 <tr>
 <th>PARTNERS CAN BRING THE LIBRARY TO NEW AUDIENCES</th>
-<td>Partners can help youth learn more about areas of interest and even new career options related to those areas.</td>
+<td>Youth services librarians need to get out of the library building and go to teens “where they are, rather than waiting for teens to to find a way to get to the physical library space.”[6] Partners might have spaces that youth are already using where you can bring programs. Look back at the list in the previous section—these same organizations might have spaces where you can take your programming.<a href="#">CASE STUDY: CHARLOTTE MECKLENBURG LIBRARY AND THE MECKLENBURG COUNTY SHERIFF’S OFFICE</a></td>
 </tr>
 <tr>
 <th>A FULLER PERSPECTIVE ON THE COMMUNITY</th>
-<td>Partners can give teens a chance to contribute to an effort bigger than the kinds of projects that are usually available to them.</td>
+<td>Even if library staff do a great and thorough job of getting to know the teens that come into the library, understanding the teens who _don’t_ come into the library is a different story. Partners who work with different segments of the youth population can fill the library in on what they’re missing.<div class="text">Working with other community partners who know what's going on in the big picture can help actually bring in more teens to make it more global in terms of that community. -- INTK_002</div><a href="#">CASE STUDY: DENVER PUBLIC LIBRARY</a></td>
 </tr>
 <tr>
 <th>PARTNERS CAN PROVIDE MATERIAL SUPPORT</th>
-<td>Community groups can help bring new audiences to library programs, making new peer connections possible.</td>
+<td>Simply donating money or materials in return for a public “thank you” from the library is an easy entry point to partnership for many organizations, particularly local businesses.<a href="#">CASE STUDY: PARTNERING WITH LOCAL BUSINESSES</a></td>
 </tr>
 
 </table>
