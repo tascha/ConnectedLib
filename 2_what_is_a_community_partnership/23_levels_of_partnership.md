@@ -7,6 +7,12 @@ Partners can have varying levels of engagement and commitment, from simply netwo
 
 Different characteristics of the partnership may also vary from less to more intense along a spectrum.<sup>[16]</sup> For instance, the structure of your relationship may be informal and undefined, or highly structured with well-defined roles. Communication can be once-in-a-while or frequent, decision-making can be one-sided or completely equal, and each partner’s commitment can be high or low. Of course, any given partnership effort can fall somewhere in the middle of those extremes as well. There is no single “correct” configuration—the right combination will depend on you, your partner, your resources, and your goals.
 
+<br>
+<div class="table-format1"><span class="title"><h5>IS THIS A GOOD PARTNERSHIP OPPORTUNITY?</h5></span><p>Before you make bigger and better plans with your partner, here are some things to consider before taking that next step. (Adapted from Squires, Tasha. _Library Partnerships: Making Connections between School and Public Libraries_. Medford, NJ: Information Today, Inc., 2009, 80).</p><ul>❏  Do we have a shared or complementary goal?<br>❏  Will we achieve this goal more easily or more effectively together?<br>❏  What can the library do that the partner cannot do (or cannot do as well)?<br>❏  What can the partner do that the library cannot do (or cannot do as well)?<br>❏  Does this partnership align with the library’s strategic plan?<br>❏  What resources are needed to achieve this goal? Who will provide them?</ul>
+</div>
+<br>
+
+
 | Before you make bigger and better plans with your partner, here are some things to consider before taking that next step. (Adapted from Squires, Tasha. _Library Partnerships: Making Connections between School and Public Libraries_. Medford, NJ: Information Today, Inc., 2009, 80). |
 | --- |
 
