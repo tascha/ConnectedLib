@@ -7,5 +7,5 @@ Although each partnership will be unique and require tailored approaches, the ba
 
 In this section, we will look more closely at four common types of partners: (1) informal learning institutions; (2) individuals, local businesses, and community groups; (3) youth-serving organizations; and (4) schools. You may find some overlap between these categories (for instance, a community group may be formed around serving homeless youth).
 
-| **IDENTIFYING POTENTIAL PARTNERS** |
-| --- |
+<div class="table-format"><span class="title"><h5>IDENTIFYING POTENTIAL PARTNERS</h5></span><h5>You probably already have some potential partners in mind, but a community mapping project can help you identify more. See the Community Mapping Module for more. </h5></div>
+
