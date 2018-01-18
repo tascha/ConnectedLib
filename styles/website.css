@@ -26,11 +26,11 @@
 
 
 .heading-cell tr:nth-child(1) {
-    background: lightblue;
+    background: #F5DEB3;
 }
 
 .markdown-section table tr:nth-child(2) {
-    background-color: lightblue;
+    background-color: 	#F5DEB3;
 }
 
 .markdown-section table tr {
