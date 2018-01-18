@@ -13,7 +13,7 @@ There are many ways that community partnerships can benefit libraries. Partners 
 </tr>
 <tr>
 <th>PARTNERS CAN BRING NEW AUDIENCES TO THE LIBRARY</th>
-<td>A partner can share expertise, provide mentorship, and offer real-world experience to youth that can help them achieve academically or prepare them to start a career.</td>
+<td>Partners who have already built a youth community can introduce them to the library and its resources. Organizations with established audiences might include: scouts or 4-H clubs; YMCA/YWCA; schools; school clubs (e.g. the robotics club or Lego Mindstorm club), other youth-serving organizations; and city facilities like rec centers.<a href="#">CASE STUDY: BRINGING NEW AUDIENCES TO THE LIBRARY</a></td>
 </tr>
 <tr>
 <th>PARTNERS CAN BRING THE LIBRARY TO NEW AUDIENCES</th>
