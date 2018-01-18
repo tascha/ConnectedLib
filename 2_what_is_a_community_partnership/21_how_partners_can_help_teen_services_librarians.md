@@ -8,7 +8,7 @@ There are many ways that community partnerships can benefit libraries. Partners 
 
 <table class="heading-cell no-common-style">
 <tr>
-<th>Multiple Pathways</th>
+<th>PARTNERS CAN EXPOSE TEENS TO NEW CAREERS, OPPORTUNITIES, AND INTERESTS</th>
 <td>Partners can help create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners.</td>
 </tr>
 <tr>
