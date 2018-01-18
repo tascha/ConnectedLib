@@ -1,6 +1,6 @@
 ## 2.1 How Partners Can Help Teen Services Librarians {#2-1-how-partners-can-help-teen-services-librarians}
 
-**_“We believe that being the best we can at what we do means not trying to be all things to all people by not trying to do it alone.” — Ali Turner<sup><sup id="281255367986520-footnote-ref-4"><a href="#281255367986520-footnote-4">[5]</a></sup></sup>_**
+<div class="text">“We believe that being the best we can at what we do means not trying to be all things to all people by not trying to do it alone.” — Ali Turner[5]</div>
 
 There are many ways that community partnerships can benefit libraries. Partners can broaden the opportunities available to youth and can even increase the youth audience of the library by bringing the library and its services to youth who might not have experienced them otherwise.
 
