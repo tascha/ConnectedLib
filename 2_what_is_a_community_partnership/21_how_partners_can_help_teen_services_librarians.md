@@ -12,7 +12,7 @@ There are many ways that community partnerships can benefit libraries. Partners 
 </tr>
 
 </table>
-<br>
+
 ___________________________________________________________________
 
 [^5]: Turner, Ali. “Bring Your Dreams to the Library.” _Young Adult Library Services_, 2013.
