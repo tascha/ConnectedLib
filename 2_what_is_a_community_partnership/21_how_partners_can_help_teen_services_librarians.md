@@ -19,7 +19,7 @@ There are many ways that community partnerships can benefit libraries. Partners 
 </tr>
 <tr>
 <th>A FULLER PERSPECTIVE ON THE COMMUNITY</th>
-<td>Even if library staff do a great and thorough job of getting to know the teens that come into the library, understanding the teens who _don’t_ come into the library is a different story. Partners who work with different segments of the youth population can fill the library in on what they’re missing.<br>_Working with other community partners who know what's going on in the big picture can help actually bring in more teens to make it more global in terms of that community. -- INTK_002_<br><br><a href="#">CASE STUDY: DENVER PUBLIC LIBRARY</a></td>
+<td>Even if library staff do a great and thorough job of getting to know the teens that come into the library, understanding the teens who _don’t_ come into the library is a different story. Partners who work with different segments of the youth population can fill the library in on what they’re missing.<br><br>_**Working with other community partners who know what's going on in the big picture can help actually bring in more teens to make it more global in terms of that community. -- INTK_002**_<br><br><a href="#">CASE STUDY: DENVER PUBLIC LIBRARY</a></td>
 </tr>
 <tr>
 <th>PARTNERS CAN PROVIDE MATERIAL SUPPORT</th>
