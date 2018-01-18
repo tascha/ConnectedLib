@@ -28,6 +28,7 @@
 .heading-cell tr:nth-child(1) {
     background: lightblue;
 }
+
 .markdown-section table tr:nth-child(2) {
     background-color: lightblue;
 }
