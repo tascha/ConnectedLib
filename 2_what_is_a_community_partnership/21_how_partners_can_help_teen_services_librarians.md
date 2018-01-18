@@ -6,8 +6,7 @@
 <br>
 There are many ways that community partnerships can benefit libraries. Partners can broaden the opportunities available to youth and can even increase the youth audience of the library by bringing the library and its services to youth who might not have experienced them otherwise.
 
-<table class="heading-cell no-common-style"><tr>
-<th colspan="2">Connected Learning and Community Partnerships</th></tr>
+<table class="heading-cell no-common-style">
 <tr>
 <th>Multiple Pathways</th>
 <td>Partners can help create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners.</td>
