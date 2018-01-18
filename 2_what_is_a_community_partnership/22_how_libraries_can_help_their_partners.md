@@ -11,14 +11,7 @@ The benefits of a partnership to the library are clear, but what about the benef
 
 
 
-
-| **LIBRARIES CAN PROVIDE SPACE FOR PARTNERS** |  |
-| --- | --- |
-| **** | </a></sup></sup> |
-| **** |  |
-| **** |  |
-| **** |  |
-| **** |  |
+___________________________________________________________________
 
 [^7]: Eggers, Dave. _My Wish: Once upon a School_. TED, 2008.
 
