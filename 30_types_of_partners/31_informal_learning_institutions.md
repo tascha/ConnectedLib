@@ -38,7 +38,7 @@ Libraries are centers for informal learning, so other informal learning institut
 
 | **ADDITIONAL RESOURCES** |
 | --- |
-
+<br>
 ___________________________________________________________________
 [^17]: Educopia Institute. _Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations_. Atlanta, GA: Educopia Institute, 2015.
 
