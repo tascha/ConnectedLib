@@ -39,6 +39,7 @@ Libraries are centers for informal learning, so other informal learning institut
 | **ADDITIONAL RESOURCES** |
 | --- |
 
+___________________________________________________________________
 [^17]: Educopia Institute. _Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations_. Atlanta, GA: Educopia Institute, 2015.
 
 [^18]: Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
