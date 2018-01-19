@@ -4,16 +4,35 @@
 
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations often share a library’s mission to empower the public through knowledge and learning.
 
-| **OPPORTUNITIES** |
-| --- |
-| **SIMILAR PROGRAMS AND GOALS** | Since informal learning institutions often share similar missions, the programs they develop and they goals they set are often similar as well, making collaboration easier.<sup><sup id="281255367986520-footnote-ref-16"><a href="#281255367986520-footnote-16">[17]</a></sup></sup>,<sup><sup id="281255367986520-footnote-ref-17"><a href="#281255367986520-footnote-17">[18]</a></sup></sup> |
-| **OUTREACH STAFF** | For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup><sup id="281255367986520-footnote-ref-18"><a href="#281255367986520-footnote-18">[19]</a></sup></sup> |
-| **NEW AUDIENCES** | Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup><sup id="281255367986520-footnote-ref-19"><a href="#281255367986520-footnote-19">[20]</a></sup></sup> |
+<table class="heading-cell no-common-style"><tr>
+<th colspan="2">OPPORTUNITIES</th></tr>
+<tr>
+<th>SIMILAR PROGRAMS AND GOALS</th>
+<td>Since informal learning institutions often share similar missions, the programs they develop and they goals they set are often similar as well, making collaboration easier.<sup>[17]</sup>,<sup>[18]</sup></td>
+</tr>
+<tr>
+<th>OUTREACH STAFF</th>
+<td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>[19]</sup> </td>
+</tr>
+<tr>
+<th>NEW AUDIENCES</th>
+<td>Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup>[20]</sup></td>
+</tr>
+<tr>
+<th colspan="2">CHALLENGES</th>
+</tr>
+<tr>
+<th>SIMILAR RESTRAINTS</th>
+<td>Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.<sup>[21]</sup></td>
+</tr>
+<tr>
+<th>MANAGEMENT APPROVAL</th>
+<td>Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations. </td>
+</tr>
 
-| **CHALLENGES** |
-| --- |
-| **SIMILAR RESTRAINTS** | Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.<sup><sup id="281255367986520-footnote-ref-20"><a href="#281255367986520-footnote-20">[21]</a></sup></sup> |
-| **MANAGEMENT APPROVAL** | Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations. |
+</table>
+
+<br>
 
 | 
 
