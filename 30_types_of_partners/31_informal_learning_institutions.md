@@ -35,6 +35,7 @@ Libraries are centers for informal learning, so other informal learning institut
 <br>
 
 <div class="table-format"><span class="title"><h5>CASE STUDY: CHICAGO PUBLIC LIBRARY AND ADLER PLANETARIUM</h5></span></div>
+<br>
 
 | **ADDITIONAL RESOURCES** |
 | --- |
