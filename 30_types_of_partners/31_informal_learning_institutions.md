@@ -37,8 +37,8 @@ Libraries are centers for informal learning, so other informal learning institut
 <div class="table-format"><span class="title"><h5>CASE STUDY: CHICAGO PUBLIC LIBRARY AND ADLER PLANETARIUM</h5></span></div>
 <br>
 
-| **ADDITIONAL RESOURCES** |
-| --- |
+<div class="text-wrapping1"><h4>ADDITIONAL RESOURCES</h4><ul><li>The Coalition to Advance Learning in Archives, Libraries and Museums has resources and advice for connecting informal learning institutions, including best practices in collaboration.<br><a href="http://www.coalitiontoadvancelearning.org/">http://www.coalitiontoadvancelearning.org/<a></li><li>The free member search of Association of Science-Technology Centers can help you identify potential partners in your area. <br><a href="http://www.astc.org">http://www.cops.usdoj.gov/html/cd_rom/sro/FinalCDPubs/CollaborationToolkit.pdf</a></li><li>The University of Kansas’ <a href="http://ctb.ku.edu">Community Tool</a> contains a toolkit for <a href="http://ctb.ku.edu/en/creating-and-maintaining-partnerships">Creating and Maintaining Partnerships</a>.<br><a href="http://ctb.ku.edu/en/creating-and-maintaining-partnerships">http://ctb.ku.edu/en/creating-and-maintaining-partnerships</a></li><li>The NISE Network's <a href="http://nisenet.org/museum-community-partnerships">Museum & Community Partnerships</a> toolkit was developed for museums, but the tips on collaborations and partnerships between community organizations are useful for libraries as well.<br><a href="http://nisenet.org/museum-community-partnerships">http://nisenet.org/museum-community-partnerships</a></li></ul></div>
+
 <br>
 ___________________________________________________________________
 [^17]: Educopia Institute. _Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations_. Atlanta, GA: Educopia Institute, 2015.
