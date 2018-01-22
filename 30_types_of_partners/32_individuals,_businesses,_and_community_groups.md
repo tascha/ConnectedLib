@@ -1,10 +1,10 @@
 ## 3.2 Individuals, Businesses, and Community Groups {#3-2-individuals-businesses-and-community-groups}
 
-**_We think we can train ourselves to be anything and oftentimes miss the point: brilliant people are coming into our buildings every day.<sup>[22]</sup>_**
+<div class="text"> We think we can train ourselves to be anything and oftentimes miss the point: brilliant people are coming into our buildings every day.<sup>[22]</sup></div>
 
 Private individuals, local businesses, and community groups that are not oriented towards youth or social services may not be obvious potential partners, but they are rich and often untapped assets for a library’s teen services. These types of partnerships are some of the most valuable for providing professional expertise in a variety of areas that teens might be interested in, thus extending the capacity of the library’s youth services without requiring extensive staff training or new hires.
 
-**_The library is considered not only a foundation to the community, but a good community supporter. We say, &quot;How can the library partner with you?&quot; And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We&#039;re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed. -- INTS_047_**
+<div class="text"> The library is considered not only a foundation to the community, but a good community supporter. We say, &quot;How can the library partner with you?&quot; And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We&#039;re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed. -- INTS_047</div>
 
 | **COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT** |
 | --- |
