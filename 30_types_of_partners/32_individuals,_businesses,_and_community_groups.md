@@ -8,6 +8,7 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <div class="text-wrapping1">COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT<div><img src="/assets/20160313ppl_demonstration_jpg.jpeg" width="30" height="30"></div></div>
 
+<br>
 
 | **OPPORTUNITIES** |
 | --- |
