@@ -22,6 +22,7 @@ Libraries are centers for informal learning, so other informal learning institut
 
 </table>
 
+<br>
 <table class="heading-cell no-common-style"><tr>
 <th colspan="2">CHALLENGES</th>
 </tr>
