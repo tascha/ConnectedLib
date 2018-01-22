@@ -18,7 +18,11 @@ Libraries are centers for informal learning, so other informal learning institut
 <th>NEW AUDIENCES</th>
 <td>Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup>[20]</sup></td>
 </tr>
-<tr>
+
+
+</table>
+
+<table class="heading-cell no-common-style"><tr>
 <th colspan="2">CHALLENGES</th>
 </tr>
 <tr>
