@@ -8,7 +8,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <br>
 
 <br>
-<div class="table-format"><span class="title"><h5>COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT<h5><br><img src="/assets/20160313ppl_demonstration_jpg.jpeg" width="100" height="100">
+<div class="table-format"><span class="title"><h5>COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT<h5><br><img src="/assets/20160313ppl_demonstration_jpg.jpeg">
 
 </span></div>
 
