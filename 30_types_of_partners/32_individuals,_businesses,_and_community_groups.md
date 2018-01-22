@@ -5,7 +5,7 @@
 Private individuals, local businesses, and community groups that are not oriented towards youth or social services may not be obvious potential partners, but they are rich and often untapped assets for a library’s teen services. These types of partnerships are some of the most valuable for providing professional expertise in a variety of areas that teens might be interested in, thus extending the capacity of the library’s youth services without requiring extensive staff training or new hires.
 
 <div class="text"> The library is considered not only a foundation to the community, but a good community supporter. We say, &quot;How can the library partner with you?&quot; And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We&#039;re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed. -- INTS_047</div>
-
+<br>
 <br>
 <div class="text-wrapping1">COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT<div><img src="/assets/20160313ppl_demonstration_jpg.jpeg" width="30" height="30"></div>
 </div>
