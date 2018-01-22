@@ -6,7 +6,7 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <div class="text"> The library is considered not only a foundation to the community, but a good community supporter. We say, &quot;How can the library partner with you?&quot; And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We&#039;re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed. -- INTS_047</div>
 
-<div class="text-wrapping1">COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT<div><image src="./assets/20160313ppl_demonstration_jpg.jpeg"></div></div>
+<div class="text-wrapping1">COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT<div>![](/assets/20160313ppl_demonstration_jpg.jpeg)</div></div>
 
 
 | **OPPORTUNITIES** |
