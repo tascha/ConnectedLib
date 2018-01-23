@@ -21,16 +21,17 @@ Partnering with schools is particularly challenging for most of the librarians a
 <th>TOPICAL RESOURCES</th>
 <td>Libraries can provide resources and information literacy programs for students, particularly when the school’s library is under-equipped. Themed presentations or online resources on evergreen subjects like health or history may be valuable to teachers, and library staff can help students learn to use library resources and equipment for science fairs or special projects. Schools with special focuses­—technology, or the arts—may also be receptive to specialized, relevant programming.</td>
 </tr>
+<tr>
+<th>COMMUNITY SERVICE OPPORTUNITIES</th>
+<td>Many schools require students to perform community service. Libraries can offer service opportunities, but can also facilitate connections between students and other community organizations in need of volunteers.</td>
+</tr>
+<tr>
+<th>BOLSTER SERVICES BY COMBINING FORCES</th>
+<td>Partnering with a school or school library can help you provide better services and resources to teens who are underserved, marginalized, at-risk, or otherwise disadvantaged. For instance, one library in Virginia allowed rotating portions of their audiobook collection to be housed at a school for the benefit of blind students.</td>
+</tr>
+
 </table>
 <br>
-
-
-| **OPPORTUNITIES** |
-| --- |
-| **AFTERSCHOOL PARTNERSHIPS** | Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building. |
-| **TOPICAL RESOURCES** | Libraries can provide resources and information literacy programs for students, particularly when the school’s library is under-equipped. Themed presentations or online resources on evergreen subjects like health or history may be valuable to teachers, and library staff can help students learn to use library resources and equipment for science fairs or special projects. Schools with special focuses­—technology, or the arts—may also be receptive to specialized, relevant programming. |
-| **COMMUNITY SERVICE OPPORTUNITIES** | Many schools require students to perform community service. Libraries can offer service opportunities, but can also facilitate connections between students and other community organizations in need of volunteers. |
-| **BOLSTER SERVICES BY COMBINING FORCES** | Partnering with a school or school library can help you provide better services and resources to teens who are underserved, marginalized, at-risk, or otherwise disadvantaged. For instance, one library in Virginia allowed rotating portions of their audiobook collection to be housed at a school for the benefit of blind students. |
 
 | **CHALLENGES** |
 | --- |
