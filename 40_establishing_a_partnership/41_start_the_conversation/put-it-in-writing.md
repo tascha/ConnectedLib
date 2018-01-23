@@ -5,11 +5,22 @@ Depending on the size and formality of your project, a written agreement, **cont
 | Each memorandum of understanding, or MOU, may be a little different, depending on the organizations involved and the nature of the project, but here are some questions that they should usually answer: |
 | --- |
 
-<div class="table-format1"><span class="title"><h5>WHAT GOES INTO A MOU? </h5></span><p>Each memorandum of understanding, or MOU, may be a little different, depending on the organizations involved and the nature of the project, but here are some questions that they should usually answer: </p><ul>❏ How many people do you work with in a typical day (or week, or month)? How many teens? <br>❏ What variation do you see in reading abilities and technical skills among the people and teens you work with? <br>❏	Do you work with many people with learning disabilities? <br>❏ What is your most pressing need in terms of materials, books, technology, or other resources? <br>❏ What kind of budget do you have to work with? What kind of staffing?<br>❏	When does your work occur (or what hours are you open)? <br>❏	Are there things you would like to do, but are unable to because of time, money, space, or other issues? 
-</ul>
+<div class="table-format1"><span class="title"><h5>WHAT GOES INTO A MOU? </h5></span><p>Each memorandum of understanding, or MOU, may be a little different, depending on the organizations involved and the nature of the project, but here are some questions that they should usually answer: </p><ul>❏ Why is the MOU being created? <br>❏ What organizations are involved in the project? What are their roles? Be as specific as possible, and include administrative tasks like schedule meetings and following-up with people about deadlines. <br>❏	What activities are involved in the project? What is the timeline for these activities and the partnership as a whole? <br>❏ How will you communicate during the partnership? 
+ <br>❏ What is the project, and why are your organizations involved? 
+ <br>❏	Who will train staff, if needed?<br>❏	Who will be responsible for maintaining the project or program and any related materials? <br>❏	If changes are needed mid-way through the collaboration, who will decide what changes to make, and when? <br>❏	How will you evaluate the program’s success? What will you measure, and who will do collect that information? Who will receive a copy of the final evaluation report?</ul>
 <br>(Adapted from Squires, T. (2009). Library partnerships: Making connections between school and public libraries. Medford, NJ: Information Today, Inc., page 16).
 </div>
 <br>
+
+❏	Why is the MOU being created? 
+❏	
+❏	 
+❏	
+❏	
+❏	 
+
+
+ 
 
 | **ADDITIONAL RESOURCES** |
 | --- |
