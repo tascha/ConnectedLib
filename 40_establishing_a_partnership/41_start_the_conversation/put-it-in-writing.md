@@ -10,15 +10,6 @@ Depending on the size and formality of your project, a written agreement, **cont
  <br>❏	Who will train staff, if needed?<br>❏	Who will be responsible for maintaining the project or program and any related materials? <br>❏	If changes are needed mid-way through the collaboration, who will decide what changes to make, and when? <br>❏	How will you evaluate the program’s success? What will you measure, and who will do collect that information? Who will receive a copy of the final evaluation report?</ul></div>
 <br>
 
-❏	Why is the MOU being created? 
-❏	
-❏	 
-❏	
-❏	
-❏	 
-
-
- 
 
 | **ADDITIONAL RESOURCES** |
 | --- |
