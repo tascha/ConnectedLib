@@ -36,6 +36,7 @@ New partnerships will always have an element of the unknown for both you and you
 | The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below: |
 | --- |
 
+___________________________________________________________________________________
 [^43]: Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016.
 
 [^44]: Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016.
