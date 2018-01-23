@@ -4,7 +4,6 @@
 
 <table><tr>
 <th colspan="3">What experience do you have with forming or maintaining community partnerships</th>
-<td><br><br><br><br></td>
 <tr>
 <tr>
 <th>Know</th>
