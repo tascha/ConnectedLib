@@ -34,6 +34,12 @@ One of the biggest benefits to come from this relationship building is the exper
 <br>
 
 
+<div class="table-format"><span class="title"><h5>NEW AUDIENCES AT THE LIBRARY</h5></span><p>Partnerships can be a way to introduce new youth to the library when your partner brings their existing audiences to you.</p><ul><li>INTS_063 holds STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>YAL_2015_11_07’s partnership with a high school e-sports club often brings new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring in the Parks and Rec visitors to the library.</li></ul></div>
+
+<br>
+
+
+
 <div class="table-format"><span class="title"><h5>LEARNING ABOUT HISTORY WITH THE LAOTIAN COMMUNITY CENTER</h5></span>The executive director of the Laotian Community Center wanted to capture the stories of the seniors in the Laotian community in Providence, Rhode Island, many of whom came to the United States as refugees. Brainstorming with Providence Public Library led to a project to teach teens how to create oral histories. Librarians at PPL were able to adapt an existing workshop to be suitable for the context and participants and conducted a day-long program at the community center with the help of a third partner: a graduate student from nearby Brown University. The program taught the teens history, interview techniques, and media skills, and led to additional collaborations between some of the partners.
 </div>
 
