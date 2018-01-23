@@ -6,6 +6,7 @@
 <th></th>
 <td></td>
 <tr>
+</table>
 | **What experience do you have with forming or maintaining community partnerships?** |
 | --- |
 | **Know** | **Want** | **Learn** |
