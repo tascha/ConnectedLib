@@ -9,4 +9,4 @@
 </td></tr><tr><td colspan="2">Notes:[Include anything else you know about the partner, questions you have, etc. Update as needed as you get more information.]</td></tr><tr><td colspan="2">Communication record: – [Describe contact here, i.e. E-mail to set up a meeting]<br>
 Date:<input type="text"><br>
 Contact: <input type="text"><br>    	
-Outcome: <input type="text">[e.g., “left voicemail, no one called back” or “Jane Smith responded via e-mail and said…”]</td></tr><tr><td colspan="2">Communication record: Duplicate the section above if you have more communications to keep track of.<br>Previous partnerships<br>· keep a record of previous work together</td></tr></table>
+Outcome: <input type="text">[e.g., “left voicemail, no one called back” or “Jane Smith responded via e-mail and said…”]</td></tr><tr><td colspan="2">Communication record: Duplicate the section above if you have more communications to keep track of Previous partnerships<br>· keep a record of previous work together</td></tr></table>
