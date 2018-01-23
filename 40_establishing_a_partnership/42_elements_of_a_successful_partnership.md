@@ -12,8 +12,7 @@ New partnerships will always have an element of the unknown for both you and you
 
 
 <div class="table-format1"><span class="title"><h5>PARTNERSHIP BEST PRACTICES  </h5></span><p>The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below: </p><ul>❏ Understand each partner’s point of view<br>❏ Learn from each other <br>❏	Commit jointly to excellence and improvement <br>❏ Commit to transparency and information-sharing <br>❏	Look for synergy (making the whole greater than the sum of its parts)<br>❏	Approach all interactions with your partner with a win-win perspective <br>❏ Communicate in all directions <br>❏ Plan together and solve problems together<br>❏ Respect each other’s expertise<br>❏ Communicate in all directions <br>❏ Define roles, standards and limits and agree to respect them<br>❏ Commit to whatever training is needed</ul>
-<p>For the full list and a discussion of each best practice, see Partnership: An operations management handbook for UNHCR’s partners. United Nations High Commissioner for Refugees. (2003). </p>
-</div>
+<p>For the full list and a discussion of each best practice, see Partnership: An operations management handbook for UNHCR’s partners. United Nations High Commissioner for Refugees. (2003). </p></div>
 <br>
 
 ___________________________________________________________________________________
