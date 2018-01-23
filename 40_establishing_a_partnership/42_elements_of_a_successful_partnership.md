@@ -7,30 +7,7 @@
 
 New partnerships will always have an element of the unknown for both you and your partner, which may be stressful for both of you.<sup>[44]</sup> As INTK_005 admitted frankly, “It&#039;s always a bit nerve-wracking the first couple of times that we have a partner in &#039;cause you make your follow-up calls, you do what you can, and then you find out how things go. And either they&#039;re excellent or…” The following strategies will increase the odds of an “excellent” partnership.
 
-<table class="heading-cell no-common-style"><tr>
-<th colspan="2">SUCCESSFUL PARTNERSHIPS RELY ON...</th></tr>
-<tr>
-<th>INVESTMENT</th>
-<td>All partners should be engaged in the collaboration and invested in its success. Some partners may be more or less involved, depending on their resources and what they bring to the project, but they should be committed to the role they have agreed to play.</td>
-</tr>
-<tr>
-<th>TRUST</th>
-<td>Relationships are the connectors between community assets. Building trust takes time but will make future partnerships easier and smoother.<sup>[45]</sup> Starting out with small projects with a new partner can help build the foundation for larger collaborations in the future.</td>
-</tr>
-<tr>
-<th>COMMUNICATION</th>
-<td>Communication is a key element in working successfully with a partner, whether that partner is an individual or an established organization. Make sure roles, expectations, and schedules are clear. Keep in mind that the people you work with may not be familiar with the terms libraries use to describe their programs and patrons, or they may use the same terms in different ways. Cross-training between organizations can help each understand and learn from each other’s unique perspectives and experiences. </td>
-</tr>
-<tr>
-<th>UNDERSTANDING</th>
-<td>Establish clear roles, responsibilities, and requirements for each partner. Include details like who will organize project meetings, provide staff for events, or develop the marketing campaign. For instance, co-marketing is valuable to both partners, but make sure you agree on which materials will be branded or co-branded early on in the process.<sup>[46]</sup></td>
-</tr>
-<tr>
-<th>SHARED VISION AND GOALS</th>
-<td>Whether your joint effort is big or small, you and your partner should agree on what the collaboration is meant to achieve. Determine and what success looks like by planning your evaluation strategy together (see the module on Evaluation and Assessment). If you are not pulling in the same direction, the partnership may fail.</td>
-</tr>
-
-</table>
+<table class="heading-cell no-common-style"><tr><th colspan="2">SUCCESSFUL PARTNERSHIPS RELY ON...</th></tr><tr><th>INVESTMENT</th><td>All partners should be engaged in the collaboration and invested in its success. Some partners may be more or less involved, depending on their resources and what they bring to the project, but they should be committed to the role they have agreed to play.</td></tr><tr><th>TRUST</th><td>Relationships are the connectors between community assets. Building trust takes time but will make future partnerships easier and smoother.<sup>[45]</sup> Starting out with small projects with a new partner can help build the foundation for larger collaborations in the future.</td></tr><tr><th>COMMUNICATION</th><td>Communication is a key element in working successfully with a partner, whether that partner is an individual or an established organization. Make sure roles, expectations, and schedules are clear. Keep in mind that the people you work with may not be familiar with the terms libraries use to describe their programs and patrons, or they may use the same terms in different ways. Cross-training between organizations can help each understand and learn from each other’s unique perspectives and experiences. </td></tr><tr><th>UNDERSTANDING</th><td>Establish clear roles, responsibilities, and requirements for each partner. Include details like who will organize project meetings, provide staff for events, or develop the marketing campaign. For instance, co-marketing is valuable to both partners, but make sure you agree on which materials will be branded or co-branded early on in the process.<sup>[46]</sup></td></tr><tr><th>SHARED VISION AND GOALS</th><td>Whether your joint effort is big or small, you and your partner should agree on what the collaboration is meant to achieve. Determine and what success looks like by planning your evaluation strategy together (see the module on Evaluation and Assessment). If you are not pulling in the same direction, the partnership may fail.</td></tr></table>
 <br>
 
 
