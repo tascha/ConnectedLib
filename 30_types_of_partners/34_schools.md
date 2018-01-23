@@ -50,7 +50,6 @@ Partnering with schools is particularly challenging for most of the librarians a
 <th>DAILY SCHEDULES CONFLICT</th>
 <td>Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can. </td>
 </tr>
-
 </table>
 <br>
 
