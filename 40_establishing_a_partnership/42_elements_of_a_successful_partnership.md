@@ -33,12 +33,10 @@ New partnerships will always have an element of the unknown for both you and you
 <br>
 
 
-<div class="table-format1"><span class="title"><h5>PARTNERSHIP BEST PRACTICES  </h5></span><p>The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below: </p><ul>❏ Why is the MOU being created? <br>❏ What organizations are involved in the project? What are their roles? Be as specific as possible, and include administrative tasks like schedule meetings and following-up with people about deadlines. <br>❏	What activities are involved in the project? What is the timeline for these activities and the partnership as a whole? <br>❏ How will you communicate during the partnership? 
- <br>❏ What is the project, and why are your organizations involved? 
- <br>❏	Who will train staff, if needed?<br>❏	Who will be responsible for maintaining the project or program and any related materials? <br>❏	If changes are needed mid-way through the collaboration, who will decide what changes to make, and when? <br>❏	How will you evaluate the program’s success? What will you measure, and who will do collect that information? Who will receive a copy of the final evaluation report?</ul></div>
+<div class="table-format1"><span class="title"><h5>PARTNERSHIP BEST PRACTICES  </h5></span><p>The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below: </p><ul>❏ Understand each partner’s point of view<br>❏ Learn from each other <br>❏	Commit jointly to excellence and improvement <br>❏ Commit to transparency and information-sharing <br>❏	Look for synergy (making the whole greater than the sum of its parts)<br>❏	Approach all interactions with your partner with a win-win perspective <br>❏ Communicate in all directions <br>❏ Plan together and solve problems together<br>❏ Respect each other’s expertise<br>❏ Communicate in all directions <br>❏ Define roles, standards and limits and agree to respect them<br>❏ Commit to whatever training is needed</ul>
+<p>For the full list and a discussion of each best practice, see Partnership: An operations management handbook for UNHCR’s partners. United Nations High Commissioner for Refugees. (2003). </p>
+</div>
 <br>
-
-
 
 ___________________________________________________________________________________
 [^43]: Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016.
