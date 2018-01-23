@@ -15,6 +15,26 @@ Private individuals, local businesses, and community groups that are not oriente
 <table class="heading-cell no-common-style"><tr>
 <th colspan="2">OPPORTUNITIES</th></tr>
 <tr>
+<th>SIMILAR PROGRAMS AND GOALS</th>
+<td>Since informal learning institutions often share similar missions, the programs they develop and they goals they set are often similar as well, making collaboration easier.<sup>[17]</sup>,<sup>[18]</sup></td>
+</tr>
+<tr>
+<th>OUTREACH STAFF</th>
+<td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>[19]</sup> </td>
+</tr>
+<tr>
+<th>NEW AUDIENCES</th>
+<td>Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup>[20]</sup></td>
+</tr>
+
+
+</table>
+
+
+
+<table class="heading-cell no-common-style"><tr>
+<th colspan="2">OPPORTUNITIES</th></tr>
+<tr>
 <th>MATERIALS AND EQUIPMENT</th>
 <td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3-D printers.<sup>[23]</sup>,<sup>[24]</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td>
 </tr>
