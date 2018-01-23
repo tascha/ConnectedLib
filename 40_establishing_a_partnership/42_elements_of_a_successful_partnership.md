@@ -4,9 +4,6 @@
 
 <div class="text">“Communicate often and very far ahead of time.” -- INTS_058</div>
 
-
-**_“Communicate often and very far ahead of time.” -- INTS_058_**
-
 New partnerships will always have an element of the unknown for both you and your partner, which may be stressful for both of you.<sup><sup id="281255367986520-footnote-ref-43"><a href="#281255367986520-footnote-43">[44]</a></sup></sup> As INTK_005 admitted frankly, “It&#039;s always a bit nerve-wracking the first couple of times that we have a partner in &#039;cause you make your follow-up calls, you do what you can, and then you find out how things go. And either they&#039;re excellent or…” The following strategies will increase the odds of an “excellent” partnership.
 
 | **SUCCESSFUL PARTNERSHIPS RELY ON...** |
