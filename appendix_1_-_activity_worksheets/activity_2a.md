@@ -6,6 +6,8 @@ What community organizations, businesses, groups, or people does your youth serv
 
 <table><tr>
 <th>Partner</th>
+<th>Level of Partnership</th>
+<th>Description of collaboration</th>
 <td></td>
 </tr>
 <tr>
