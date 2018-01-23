@@ -27,3 +27,8 @@ One of the biggest benefits to come from this relationship building is the exper
 </div>
 
 <br>
+
+<div class="table-format"><span class="title"><h5>LOCAL BUSINESS</h5></span>Simple partnerships can lead to more extensive collaborations as the relationship develops. In a midwestern town surrounded by rural farmland, INTK_005 has developed a great relationship with a local game store. The owner donates merchandise to be used as trivia prizes and themed snacks for movie nights (“For our Naruto movie, everybody went home with either wasabi candy or ginger candy.”) He shares his expertise by running video game tournaments at the library and judging a game-making contest. In return, the store earns exposure and goodwill with the teens, and the library buys gift cards from the store as additional prizes. 
+</div>
+
+<br>
