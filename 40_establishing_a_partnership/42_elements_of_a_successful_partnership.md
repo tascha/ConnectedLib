@@ -1,6 +1,8 @@
 ## 4.2 Elements of a successful partnership {#4-2-elements-of-a-successful-partnership}
 
-**_Leverage small wins to demonstrate proof of concept and deepen productive relationships. While it’s important to dream big, small successes can go a long way towards making collaboration practiced and easy.<sup><sup id="281255367986520-footnote-ref-42"><a href="#281255367986520-footnote-42">[43]</a></sup></sup>_**
+<div class="text">Leverage small wins to demonstrate proof of concept and deepen productive relationships. While it’s important to dream big, small successes can go a long way towards making collaboration practiced and easy.<sup>[43]</sup></div>
+
+**_Leverage small wins to demonstrate proof of concept and deepen productive relationships. While it’s important to dream big, small successes can go a long way towards making collaboration practiced and easy.<sup>[43]</sup>_**
 
 **_“Communicate often and very far ahead of time.” -- INTS_058_**
 
