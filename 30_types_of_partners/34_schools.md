@@ -38,11 +38,9 @@ Partnering with schools is particularly challenging for most of the librarians a
  |
 | --- |
 
-| 
+<div class="table-format"><span class="title"><h5>CASE STUDY: CHARLOTTE MECKLENBURG LIBRARY</h5></span></div>
+<br>
 
-**CASE STUDY: CHARLOTTE MECKLENBURG LIBRARY**
-
- |
 | --- |
 
 | **ADDITIONAL RESOURCES** |
