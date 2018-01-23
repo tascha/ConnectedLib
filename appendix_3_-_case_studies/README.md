@@ -32,3 +32,20 @@ One of the biggest benefits to come from this relationship building is the exper
 </div>
 
 <br>
+
+
+<div class="table-format"><span class="title"><h5>LOCAL BUSINESS</h5></span>Simple partnerships can lead to more extensive collaborations as the relationship develops. In a midwestern town surrounded by rural farmland, INTK_005 has developed a great relationship with a local game store. The owner donates merchandise to be used as trivia prizes and themed snacks for movie nights (“For our Naruto movie, everybody went home with either wasabi candy or ginger candy.”) He shares his expertise by running video game tournaments at the library and judging a game-making contest. In return, the store earns exposure and goodwill with the teens, and the library buys gift cards from the store as additional prizes. 
+</div>
+
+<br>
+
+
+
+<div class="table-format"><span class="title"><h5>ADLER PLANETARIUM AND CHICAGO PUBLIC LIBRARY</h5></span>Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.<br>
+Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [Adobe Connect recording]. Chicago, IL: YALSA. Retrieved from http://www.ala.org/yalsa/yalsamemonly/webinars/webinars
+</div>
+
+<br>
+
+
+
