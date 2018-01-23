@@ -8,14 +8,10 @@
 <tr>
 <tr>
 <th>Know</th>
-<td></td>
+<td>What do you already know about community partnerships? </td>
 <th>Want</th>
-<td></td>
+<td>What do you want to learn about community partnerships in this module?</td>
 <th>Learn</th>
-<td></td>
+<td>Leave this section blank for now.</td>
 <tr>
 </table>
-| **What experience do you have with forming or maintaining community partnerships?** |
-| --- |
-| **Know** | **Want** | **Learn** |
-| _What do you already know about community partnerships?_ | _What do you want to learn about community partnerships in this module?_ | _Leave this section blank for now._ |
