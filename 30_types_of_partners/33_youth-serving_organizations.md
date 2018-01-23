@@ -7,29 +7,6 @@ There are a wide variety of youth-serving organizations other than the informal 
 <table class="heading-cell no-common-style"><tr><th colspan="2">OPPORTUNITIES</th></tr><tr><th>YOUR PARTNER’S EVENTS AND ACTIVITIES</th><td>Many organizations have regularly scheduled activities with the same group of youth. You may be able to integrate library programming into an existing meeting agenda, either as a one-time event or on a continuing basis.</td></tr><tr><th>YOUR EVENTS AND ACTIVITIES</th><td>A regular newsletter or e-mail with information about upcoming programs can be a good way to maintain relationships with youth-serving partners when you’re not actively working together. INTS_062 also includes information about any scholarships, job or volunteer opportunities, or contests relevant to youth, reinforcing the library’s position as a valuable community resource.</td></tr></table>
 <br>
 
-<table class="heading-cell no-common-style"><tr>
-<th colspan="2">CHALLENGES</th></tr>
-<tr>
-<th>MATERIALS AND EQUIPMENT</th>
-<td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3-D printers.<sup>[23]</sup>,<sup>[24]</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td>
-</tr>
-<tr>
-<th>COMMUNITY GROUPS</th>
-<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>[25]</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>[26]</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>[27]</sup></td>
-</tr>
-<tr>
-<th>PARENTS AND FAMILY MEMBERS</th>
-<td>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant-writing.</td>
-</tr>
-<tr>
-<th>EXCHANGING EXPERTISE</th>
-<td>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant-writing.</td>
-</tr>
-
-
-
-</table>
-
 
 <table class="heading-cell no-common-style"><tr><th colspan="2">CHALLENGES</th></tr><tr><th>UNFAMILIAR AUDIENCES</th><td>If the organization is bringing a new set of patrons into your library, make sure your staff are prepared and equipped to serve them appropriately. This is particularly important if the teens have special abilities or needs, or are in a vulnerable situation. Professional development and training can help staff gain the skills and understanding they need to serve an unfamiliar group of patrons.</td></tr>
 <tr><th>VULNERABLE TEENS</th><td>Organizations that work with vulnerable teens may have policies in place to protect them and their privacy, and you may need to adjust your programs or procedures accordingly. Discuss this with your partner during the planning stage so you won’t be surprised by a policy mid-project.</td></tr><tr><th>TURNOVER</th>
