@@ -2,7 +2,8 @@
 
 <div class="text">Leverage small wins to demonstrate proof of concept and deepen productive relationships. While it’s important to dream big, small successes can go a long way towards making collaboration practiced and easy.<sup>[43]</sup></div>
 
-**_Leverage small wins to demonstrate proof of concept and deepen productive relationships. While it’s important to dream big, small successes can go a long way towards making collaboration practiced and easy.<sup>[43]</sup>_**
+<div class="text">“Communicate often and very far ahead of time.” -- INTS_058</div>
+
 
 **_“Communicate often and very far ahead of time.” -- INTS_058_**
 
