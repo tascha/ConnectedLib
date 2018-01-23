@@ -19,4 +19,4 @@ The most needed programming involved technology literacy, which library staff co
 
 <div class="table-format"><span class="title"><h5>YOUTH-SERVING ORGANIZATIONS</h5></span>To help address the needs of teens in [INTS_009]’s high-poverty area, the library hosts community organizations to make them more accessible to teens. “We work with other youth organizations who are serving youth… We have a mobile legal team who comes in on a monthly basis to provide free legal support to teens who need it. There are LGBTQ organizations for youth whose information we keep on display regularly. We have community partners from various areas kind of come in and do tabling. Because of the nature of our space, no one's giving presentations but they have access to the teens... We have access to youth, they need access to youth, and we provide them with that access and they provide our youth with resources. It's a beautiful relationship where everyone's benefiting. And just making sure that the relationship is always a two-way beneficial relationship is the key to [sustaining the relationship].</div>
 
-
+<br>
