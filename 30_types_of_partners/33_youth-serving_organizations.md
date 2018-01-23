@@ -34,8 +34,6 @@ There are a wide variety of youth-serving organizations other than the informal 
 </table>
 <br>
 
-<br>
-
 <div class="table-format"><span class="title"><h5>CASE STUDY: YOUTH-SERVING ORGANIZATIONS</h5></span></div>
 <br>
 
