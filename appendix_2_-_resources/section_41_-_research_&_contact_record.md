@@ -1,10 +1,6 @@
 ## Section 4.1 - Research &amp; Contact Record {#section-4-1-research-contact-record}
 
-(
-
-back to Section 4.1
-
-)
+(back to Section 4.1)
 
 | **POTENTIAL PARTNER NAME** |
 | --- |
