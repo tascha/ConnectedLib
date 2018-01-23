@@ -4,7 +4,7 @@
 
 <table><tr>
 <th colspan="3">What experience do you have with forming or maintaining community partnerships?</th>
-<input type="text" class="table-input" colspan="3">
+<div><input type="text" class="table-input" colspan="3"></div>
 <tr>
 <tr>
 <th>Know</th>
