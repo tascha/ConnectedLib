@@ -54,11 +54,6 @@ Partnering with schools is particularly challenging for most of the librarians a
 <br>
 
 
-| **THE LIBRARY SHOULDN’T FEEL LIKE SCHOOL** | One of the strengths of the public library as an informal learning space is that it’s not school. As INTK_059 put it, “School comes with a lot of negative feelings oftentimes, and this is a much more open-ended space of imagination and freedom.” A library-school partnership shouldn’t make teens feel like they are spending even more time in school. |
-| **YEARLY SCHEDULES CONFLICT** | “It’s all about the timing,” says Tasha Squires. Teachers and school librarians are particularly busy around the end of the school year, just as public librarians approach a flurry of summer learning activities. Squires recommends discussing potential partnerships around the beginning of the school year, which may be stressful but is a time when “people tend to be fresh and optimistic.” |
-| **DAILY SCHEDULES CONFLICT** | Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can. |
-
-
 ### GETTING STARTED: PARTNERING WITH SCHOOLS {#getting-started-partnering-with-schools}
 
 *   **Brainstorm.** Think of five ideas that you and your library can use in establishing, sustaining, or improving your relationship with local schools. Use the related readings, including [this list of school and public library cooperative activities](http://www.ala.org/alsc/schoolplcoop) from the Association for Library Service to Children (ALSC), for inspiration. Write a few sentences for each idea, describing the concept and how your library might implement it.
