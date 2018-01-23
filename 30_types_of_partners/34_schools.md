@@ -11,6 +11,20 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 **_We have to go looking for the information, and most the time when we do go looking for the information, there are district employees, or teachers, or librarians that will work with us. But we have to do a lot of digging to make that happen, and that once again comes down to the resources at our disposal and also the staff time it takes to make those in-roads. -- INTK_001_**
 
+<table class="heading-cell no-common-style"><tr>
+<th colspan="2">OPPORTUNITIES</th></tr>
+<tr>
+<th>AFTERSCHOOL PARTNERSHIPS</th>
+<td>Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building.</td>
+</tr>
+<tr>
+<th>TOPICAL RESOURCES</th>
+<td>Libraries can provide resources and information literacy programs for students, particularly when the school’s library is under-equipped. Themed presentations or online resources on evergreen subjects like health or history may be valuable to teachers, and library staff can help students learn to use library resources and equipment for science fairs or special projects. Schools with special focuses­—technology, or the arts—may also be receptive to specialized, relevant programming.</td>
+</tr>
+</table>
+<br>
+
+
 | **OPPORTUNITIES** |
 | --- |
 | **AFTERSCHOOL PARTNERSHIPS** | Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building. |
