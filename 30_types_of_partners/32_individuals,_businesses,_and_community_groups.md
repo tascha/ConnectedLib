@@ -37,6 +37,25 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <br>
 
+<table class="heading-cell no-common-style"><tr>
+<th colspan="2">CHALLENGES</th></tr>
+<tr>
+<th>CORPORATE POLICY</th>
+<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>[25]</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>[26]</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>[27]</sup></td>
+</tr>
+<tr>
+<th>INEXPERIENCE WITH TEENS</th>
+<td>The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. INTS_006 says of working with a retired electrical engineer on a regular robotics program, “He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”</td>
+</tr>
+<tr>
+<th>PARENTS AND FAMILY MEMBERS</th>
+<td>Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups.</td>
+</tr>
+
+
+
+</table>
+
 
 
 <table class="heading-cell no-common-style"><tr>
