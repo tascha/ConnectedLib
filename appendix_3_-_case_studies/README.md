@@ -8,5 +8,5 @@ AND THE MECKLENBURG COUNTY SHERIFF’S OFFICE</h5></span>The Mecklenburg County 
 Library staff were able to use existing youth programming modified slightly for the youth at the jail. For instance, they offered single-session versions of some classes, for youth who were about to be released, and they made connections to other youth programs that were available at the jail. <br>
 The most needed programming involved technology literacy, which library staff combined with creativity and social skills to create impactful programs—for example, they incorporate book reports into a podcasting class, and encouraged computer literacy and peer interactions through gaming tournaments. The items the youth created served as evidence of the program's impact.<ul><li><h5>High Impact Partnership:Serving Youth Offenders.</h5> (2010). By Angela Craig. In Young Adult Library Services, 2010(Fall), 20-22. Describes the partnership between the Mecklenburg County Sheriff’s Office and the Charlotte Mecklenburg Library. Available online: <br><a href="http://yalsa.ala.org/yals/yalsarchive/volume9/9n1_fall2010.pdf#page=22">http://yalsa.ala.org/yals/yalsarchive/volume9/9n1_fall2010.pdf#page=22</a></li></ul>
 </div>
-
+<br>
 
