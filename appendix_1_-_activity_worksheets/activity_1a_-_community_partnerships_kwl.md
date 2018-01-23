@@ -3,7 +3,8 @@
 ([back to Section 1](../1_introduction/section_1_activities.md))
 
 <table><tr>
-<th colspan="3">What experience do you have with forming or maintaining community partnerships</th><br><br>
+<th colspan="3">What experience do you have with forming or maintaining community partnerships?</th>
+<input type="text" class="table-input" colspan="3"><br>
 <tr>
 <tr>
 <th>Know</th>
