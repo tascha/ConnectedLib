@@ -28,8 +28,4 @@
 * [Appendix 2 - Resources](appendix_2_-_resources/README.md)
   * [Section 4.1 - Research & Contact Record](appendix_2_-_resources/section_41_-_research_&_contact_record.md)
 * [Appendix 3 - Case Studies](appendix_3_-_case_studies/README.md)
-  * [3.1 Discover Your Community’s Assets](appendix_3_-_case_studies/31_discover_your_communitys_assets.md)
-  * [3](appendix_3_-_case_studies/3.md)
-  * [Activity 4.A - Start With Your Library](appendix_3_-_case_studies/activity_4a_-_start_with_your_library.md)
-  * [Activity 3.A - Assets in Your Community](appendix_3_-_case_studies/activity_3a_-_assets_in_your_community.md)
 

@@ -1,4 +1,6 @@
 # Appendix 3 - Case Studies {#appendix-3-case-studies}
+________________________________________________________________________________________________
 
-| For a program about 1920’s fashion, [Providence Public Library](http://www.provlib.org) partnered with the [Rhode Island School of Design](http://www.risd.edu), a prestigious institution located only a few blocks away. An instructor from the school’s [Young Artist program](https://ce.risd.edu/teens/) provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a [professional designer](https://www.facebook.com/CandaceFrenchDesign/) gave teens an experience that would not have been possible with the library’s resources alone. |
-| --- |
+<div class="table-format"><span class="title"><h5>LEARNING OUTCOMES</h5></span><h5>After completing Section 1: Introduction, you will be able to...</h5><li>Describe how an effective community partnership can support connected learning</li>
+</div>
+
