@@ -7,11 +7,3 @@ Depending on the size and formality of your project, a written agreement, **cont
 
 | **ADDITIONAL RESOURCES** |
 | --- |
-
-
-_____________________________________________________________________________________
-[^40]: McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.
-
-[^41]: Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
-
-[^42]: McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.
