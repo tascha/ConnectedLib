@@ -1,5 +1,5 @@
 # Appendix 3 - Case Studies {#appendix-3-case-studies}
-________________________________________________________________________________________________
+______________________________________________________________________________________________
 
 <div class="table-format"><span class="title"><h5>PROVIDENCE PUBLIC LIBRARY & RHODE ISLAND SCHOOL OF DESIGN</h5></span>For a program about 1920’s fashion, Providence Public Library partnered with the Rhode Island School of Design, a prestigious institution located only a few blocks away. An instructor from the school’s Young Artist program provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a professional designer gave teens an experience that would not have been possible with the library’s resources alone.</div>
 <br>
@@ -14,4 +14,10 @@ The most needed programming involved technology literacy, which library staff co
 <ul><li>Createch (St. Paul Public Library). Online at: <a href="http://www.sppl.org/teens/createch">http://www.sppl.org/teens/createch
 </a></li><li>Science Museum of Minnesota. Online at: <a href="https://www.smm.org">https://www.smm.org</a></li><li>Createch: Take It and Make It Big (Marika Staloch, Peter Kirschmann, and YALSA). Online at: <a href="http://www.ala.org/yalsa/onlinelearning/webinar">http://www.ala.org/yalsa/onlinelearning/webinar</a></li><li>Createch - Saint Paul (2014, Saint Paul Neighborhood Network). Online at:  <a href="https://www.spnn.org/video/createch-saint-paul">https://www.spnn.org/video/createch-saint-paul</a></li><li>A Learning Lab Makes It In St. Paul (2014, Jennifer Larson). Young Adult Library Services, 2014(Winter), 22–24.
 </li></ul></div>
+
+<br>
+
+
+<div class="table-format"><span class="title"><h5>YOUTH-SERVING ORGANIZATIONS</h5></span>To help address the needs of teens in [INTS_009]’s high-poverty area, the library hosts community organizations to make them more accessible to teens. “We work with other youth organizations who are serving youth… We have a mobile legal team who comes in on a monthly basis to provide free legal support to teens who need it. There are LGBTQ organizations for youth whose information we keep on display regularly. We have community partners from various areas kind of come in and do tabling. Because of the nature of our space, no one's giving presentations but they have access to the teens... We have access to youth, they need access to youth, and we provide them with that access and they provide our youth with resources. It's a beautiful relationship where everyone's benefiting. And just making sure that the relationship is always a two-way beneficial relationship is the key to [sustaining the relationship].</div>
+
 
