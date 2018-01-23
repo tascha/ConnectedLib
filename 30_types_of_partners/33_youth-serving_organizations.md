@@ -21,6 +21,7 @@ There are a wide variety of youth-serving organizations other than the informal 
 <th>TURNOVER</th>
 <td>Organizations that work with teens in particularly difficult situations may have a turnover rate that is higher than normal. To avoid “starting over” with each new employee, try to get more than one person at the other organization invested and involved in your partnership.</td>
 </tr>
+
 </table>
 <br>
 
