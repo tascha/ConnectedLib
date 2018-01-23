@@ -38,6 +38,13 @@ One of the biggest benefits to come from this relationship building is the exper
 <br>
 
 
+<div class="table-format"><span class="title"><h5>LEARN TO DJ LAB</h5></span><p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Partnerships with local government agencies and organizations like the Girl Scouts of Nevada provide teens with opportunities to showcase their skills before a public audience, and provide the organizations with entertainment for their events.</p><p>[EMBED VIDEO: https://www.youtube.com/watch?v=ukdUrfo6LVM]</p><ul><li>INTS_063 holds STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>YAL_2015_11_07’s partnership with a high school e-sports club often brings new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring in the Parks and Rec visitors to the library.</li></ul></div>
+
+<br>
+
+
+
+
 <div class="table-format"><span class="title"><h5>NEW AUDIENCES AT THE LIBRARY</h5></span><p>Partnerships can be a way to introduce new youth to the library when your partner brings their existing audiences to you.</p><ul><li>INTS_063 holds STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>YAL_2015_11_07’s partnership with a high school e-sports club often brings new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring in the Parks and Rec visitors to the library.</li></ul></div>
 
 <br>
