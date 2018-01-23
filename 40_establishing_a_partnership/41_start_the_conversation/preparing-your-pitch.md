@@ -12,7 +12,7 @@ You can start building relationships with other organizations without a concrete
 
 **WHAT IF THEY SAY NO?**
 
-<div class="text">“People are afraid of the &quot;no&quot;, and that&#039;s truly the worst that can happen. I have been shut down so many times I&#039;m like, ‘Alright, well, there&#039;s five more ice cream shops on this block, so I&#039;ll find something.’” -- MLAFocusGroup</div>
+<div class="text">“People are afraid of the "no", and that's truly the worst that can happen. I have been shut down so many times I'm like, ‘Alright, well, there's five more ice cream shops on this block, so I'll find something.’” -- MLAFocusGroup</div>
 
 
 **_“People are afraid of the &quot;no&quot;, and that&#039;s truly the worst that can happen. I have been shut down so many times I&#039;m like, ‘Alright, well, there&#039;s five more ice cream shops on this block, so I&#039;ll find something.’” -- MLAFocusGroup_**
