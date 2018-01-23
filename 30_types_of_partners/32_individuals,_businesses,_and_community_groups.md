@@ -12,16 +12,30 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <br>
 
-| **OPPORTUNITIES** |
-| --- |
-| **MATERIALS AND EQUIPMENT** | Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3-D printers.<sup><sup id="281255367986520-footnote-ref-22"><a href="#281255367986520-footnote-22">[23]</a></sup></sup>,<sup><sup id="281255367986520-footnote-ref-23"><a href="#281255367986520-footnote-23">[24]</a></sup></sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night. |
-| **COMMUNITY GROUPS** | Reach out to community groups like Rotary as well as topical organizations or businesses (astronomy clubs, humanities councils, art studios, etc.) to find individuals who would be willing to volunteer their time to work with youth. |
-| **PARENTS AND FAMILY MEMBERS** | Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups. |
-| **EXCHANGING EXPERTISE** | Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant-writing. |
+<table class="heading-cell no-common-style"><tr>
+<th colspan="2">OPPORTUNITIES</th></tr>
+<tr>
+<th>MATERIALS AND EQUIPMENT</th>
+<td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3-D printers.<sup>[23]</sup>,<sup>[24]</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td>
+</tr>
+<tr>
+<th>COMMUNITY GROUPS</th>
+<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>[25]</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>[26]</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>[27]</sup></td>
+</tr>
+<tr>
+<th>PARENTS AND FAMILY MEMBERS</th>
+<td>Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups.</td>
+</tr>
+<tr>
+<th>EXCHANGING EXPERTISE</th>
+<td>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant-writing.</td>
+</tr>
 
-| **CHALLENGES** |
-| --- |
-| **CORPORATE POLICY** | Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup><sup id="281255367986520-footnote-ref-24"><a href="#281255367986520-footnote-24">[25]</a></sup></sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup><sup id="281255367986520-footnote-ref-25"><a href="#281255367986520-footnote-25">[26]</a></sup></sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup><sup id="281255367986520-footnote-ref-26"><a href="#281255367986520-footnote-26">[27]</a></sup></sup> |
+</table>
+
+<br>
+
+| **CORPORATE POLICY** | Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>[25]</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>[26]</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>[27]</sup> |
 | **INEXPERIENCE WITH TEENS** | The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. INTS_006 says of working with a retired electrical engineer on a regular robotics program, “He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we&#039;re able to keep the kids somewhat engaged.” |
 | **PARENTS AND FAMILY MEMBERS** | Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups. |
 
@@ -49,7 +63,7 @@ CASE STUDY: ADULT VOLUNTEERS
 | --- |
 
 ###  {#-0}
-
+_________________________________________________________________
 [^22]: Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. _IMLS Focus: Learning in Libraries_. Kansas City, MO: Institute of Museum and Library Services, 2015, 11.
 
 [^23]: Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008.
