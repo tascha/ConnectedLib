@@ -53,7 +53,6 @@ Partnering with schools is particularly challenging for most of the librarians a
 </table>
 <br>
 
-
 ### GETTING STARTED: PARTNERING WITH SCHOOLS {#getting-started-partnering-with-schools}
 
 *   **Brainstorm.** Think of five ideas that you and your library can use in establishing, sustaining, or improving your relationship with local schools. Use the related readings, including [this list of school and public library cooperative activities](http://www.ala.org/alsc/schoolplcoop) from the Association for Library Service to Children (ALSC), for inspiration. Write a few sentences for each idea, describing the concept and how your library might implement it.
