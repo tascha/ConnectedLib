@@ -33,7 +33,13 @@ New partnerships will always have an element of the unknown for both you and you
 <br>
 
 
-| The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below: |
+<div class="table-format1"><span class="title"><h5>WHAT GOES INTO A MOU? </h5></span><p>The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below: </p><ul>❏ Why is the MOU being created? <br>❏ What organizations are involved in the project? What are their roles? Be as specific as possible, and include administrative tasks like schedule meetings and following-up with people about deadlines. <br>❏	What activities are involved in the project? What is the timeline for these activities and the partnership as a whole? <br>❏ How will you communicate during the partnership? 
+ <br>❏ What is the project, and why are your organizations involved? 
+ <br>❏	Who will train staff, if needed?<br>❏	Who will be responsible for maintaining the project or program and any related materials? <br>❏	If changes are needed mid-way through the collaboration, who will decide what changes to make, and when? <br>❏	How will you evaluate the program’s success? What will you measure, and who will do collect that information? Who will receive a copy of the final evaluation report?</ul></div>
+<br>
+
+
+|  |
 | --- |
 
 ___________________________________________________________________________________
