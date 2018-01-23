@@ -7,7 +7,11 @@
 <td><br><br><br><br></td>
 <tr>
 <tr>
-<th></th>
+<th>Know</th>
+<td></td>
+<th>Want</th>
+<td></td>
+<th>Learn</th>
 <td></td>
 <tr>
 </table>
