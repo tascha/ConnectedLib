@@ -34,7 +34,7 @@ One of the biggest benefits to come from this relationship building is the exper
 <br>
 
 
-<div class="table-format"><span class="title"><h5>NEW AUDIENCES AT THE LIBRARY</h5></span><p>Partnerships can be a way to introduce new youth to the library when your partner brings their existing audiences to you.</p><ul><li>INTS_063 holds STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>YAL_2015_11_07’s partnership with a high school e-sports club often brings new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring in the Parks and Rec visitors to the library.</li></ul></div>
+<div class="table-format"><span class="title"><h5>CHARLOTTE MECKLENBURG LIBRARY AND THE NORTHWEST SCHOOL FOR THE ARTS</h5></span><ul>Partnership Type: Bringing library programming to partner<br>Benefit to Library: Reaching new audiences<br>Benefit to Partner: Benefiting partner's youth<br>Benefit to Community: Providing an educational afterschool experience for youth<br></ul><p>The Charlotte Mecklenburg Library partnered with the Northwest School of the Arts’s library , incorporating tutoring, homework help, and video games in an afterschool program. The public library provided the board games and video game equipment, which the school library lacked. The partnership allowed the library to reach new audiences, and provided a beneficial service to the school’s students. </p><ul><li>Pelman, A. (2009). It takes two: School and public libraries, partnerships that can work! Young Adult Library Services, 2009(Fall), 26.</li><li>Romanek, L. (2014, May). Game on! Retrieved January 12, 2017, from <a href="http://www.lizromanek.com/game-on.html">http://www.lizromanek.com/game-on.html</a></li></ul></div>
 
 <br>
 
@@ -59,6 +59,4 @@ Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local 
 </div>
 
 <br>
-
-
 
