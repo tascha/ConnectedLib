@@ -52,30 +52,15 @@ Private individuals, local businesses, and community groups that are not oriente
 </table>
 <br>
 
-| 
+<br>
 
-**CASE STUDY: LOCAL BUSINESSES**
+<div class="table-format"><span class="title"><h5>CASE STUDY: LOCAL BUSINESSES</h5></span></div>
+<br>
 
- |
-| --- |
+<div class="table-format"><span class="title"><h5>CASE STUDY: ADULT VOLUNTEERS</h5></span></div>
+<br>
 
-| 
 
-### 
-
-CASE STUDY: ADULT VOLUNTEERS
-
- {#case-study-adult-volunteers}
-
- |
-| --- |
-
-### 
-
-| **ADDITIONAL RESOURCES** |
-| --- |
-
-###  {#-0}
 _________________________________________________________________
 [^22]: Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. _IMLS Focus: Learning in Libraries_. Kansas City, MO: Institute of Museum and Library Services, 2015, 11.
 
