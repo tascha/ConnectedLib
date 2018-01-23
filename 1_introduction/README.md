@@ -3,8 +3,8 @@ ___________________________________________________________________
 
 This section looks at the ways community partnerships can support connected learning.
 
-<p class="table-format"><span class="title"><h5>LEARNING OUTCOMES</h5></span><h5>After completing Section 1: Introduction, you will be able to...</h5><li>Describe how an effective community partnership can support connected learning</li>
-</p>
+<div class="table-format"><span class="title"><h5>LEARNING OUTCOMES</h5></span><h5>After completing Section 1: Introduction, you will be able to...</h5><li>Describe how an effective community partnership can support connected learning</li>
+</div>
 
 <br>
 <div class="text">“Working with other community members can expand what a library can provide for teens and create with teens when it comes to media literacy education, and this will give teens the chance to connect to others who can play a valuable educational, informational, and personal role in their lives, especially in relation to workforce preparedness.”[1]</div>
