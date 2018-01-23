@@ -4,8 +4,7 @@
 
 There are a wide variety of youth-serving organizations other than the informal learning institutions we’ve already discussed. Organizations like the Boys and Girls Club of America, the Boy Scouts of America, the Girl Scouts, 4-H, and YMCA and YWCA are well known, but there may be many smaller groups in your community who have programs focused on youth. Government entities may also fall under this category—for instance, many employment services departments have programs for youth.
 
-<table class="heading-cell no-common-style"><tr>
-<th colspan="2">OPPORTUNITIES</th></tr><tr><th>YOUR PARTNER’S EVENTS AND ACTIVITIES</th>
+<table class="heading-cell no-common-style"><tr><th colspan="2">OPPORTUNITIES</th></tr><tr><th>YOUR PARTNER’S EVENTS AND ACTIVITIES</th>
 <td>Many organizations have regularly scheduled activities with the same group of youth. You may be able to integrate library programming into an existing meeting agenda, either as a one-time event or on a continuing basis.</td></tr><tr><th>YOUR EVENTS AND ACTIVITIES</th><td>A regular newsletter or e-mail with information about upcoming programs can be a good way to maintain relationships with youth-serving partners when you’re not actively working together. INTS_062 also includes information about any scholarships, job or volunteer opportunities, or contests relevant to youth, reinforcing the library’s position as a valuable community resource.</td></tr></table>
 <br>
 
