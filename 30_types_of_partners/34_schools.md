@@ -25,7 +25,6 @@ Partnering with schools is particularly challenging for most of the librarians a
 | **YEARLY SCHEDULES CONFLICT** | “It’s all about the timing,” says Tasha Squires. Teachers and school librarians are particularly busy around the end of the school year, just as public librarians approach a flurry of summer learning activities. Squires recommends discussing potential partnerships around the beginning of the school year, which may be stressful but is a time when “people tend to be fresh and optimistic.” |
 | **DAILY SCHEDULES CONFLICT** | Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can. |
 
-| 
 
 ### GETTING STARTED: PARTNERING WITH SCHOOLS {#getting-started-partnering-with-schools}
 
