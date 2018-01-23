@@ -2,7 +2,7 @@
 
 ([back to Section 1](../1_introduction/section_1_activities.md))
 
-<table><tr>
+<table class="table-format1"><tr>
 <th colspan="3">What experience do you have with forming or maintaining community partnerships?</th>
 <tr>
 <tr>
