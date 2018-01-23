@@ -1,6 +1,5 @@
 ## Section 4.1 - Research &amp; Contact Record {#section-4-1-research-contact-record}
 
-(back to Section 4.1)
 ([back to Section 4.1](../40_establishing_a_partnership/41_start_the_conversation.md))
 
 
