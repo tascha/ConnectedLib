@@ -1,6 +1,7 @@
 ## 4.2 Elements of a successful partnership {#4-2-elements-of-a-successful-partnership}
 
 <div class="text">Leverage small wins to demonstrate proof of concept and deepen productive relationships. While it’s important to dream big, small successes can go a long way towards making collaboration practiced and easy.<sup>[43]</sup></div>
+<br>
 
 <div class="text">“Communicate often and very far ahead of time.” -- INTS_058</div>
 
