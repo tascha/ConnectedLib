@@ -53,6 +53,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <th>PARENTS AND FAMILY MEMBERS</th>
 <td>Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups.</td>
 </tr>
+
 </table>
 <br>
 
