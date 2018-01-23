@@ -28,8 +28,8 @@ Private individuals, local businesses, and community groups that are not oriente
 </tr>
 <tr>
 <th>EXCHANGING EXPERTISE</th>
-<td>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant-writing.</td>
-</tr>
+<td>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant-writing.</td></tr>
+
 </table>
 <br>
 
