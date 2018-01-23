@@ -33,14 +33,6 @@ New partnerships will always have an element of the unknown for both you and you
 <br>
 
 
-| **SUCCESSFUL PARTNERSHIPS RELY ON...** |
-| --- |
-| **INVESTMENT** | All partners should be engaged in the collaboration and invested in its success. Some partners may be more or less involved, depending on their resources and what they bring to the project, but they should be committed to the role they have agreed to play. |
-| **TRUST** | Relationships are the connectors between community assets. Building trust takes time but will make future partnerships easier and smoother.<sup>[45]</sup> Starting out with small projects with a new partner can help build the foundation for larger collaborations in the future. |
-| **COMMUNICATION** | Communication is a key element in working successfully with a partner, whether that partner is an individual or an established organization. Make sure roles, expectations, and schedules are clear. Keep in mind that the people you work with may not be familiar with the terms libraries use to describe their programs and patrons, or they may use the same terms in different ways. Cross-training between organizations can help each understand and learn from each other’s unique perspectives and experiences. |
-| **UNDERSTANDING** | Establish clear roles, responsibilities, and requirements for each partner. Include details like who will organize project meetings, provide staff for events, or develop the marketing campaign. For instance, co-marketing is valuable to both partners, but make sure you agree on which materials will be branded or co-branded early on in the process.<sup>[46]</sup> |
-| **SHARED VISION AND GOALS** | Whether your joint effort is big or small, you and your partner should agree on what the collaboration is meant to achieve. Determine and what success looks like by planning your evaluation strategy together (see the module on Evaluation and Assessment). If you are not pulling in the same direction, the partnership may fail. |
-
 | The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below: |
 | --- |
 
