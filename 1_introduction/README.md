@@ -1,5 +1,7 @@
-# 1\. Introduction {#1-introduction}
+<p><h3> 1. Introduction</h3></p>
 _____________________________________________________________________________________________
+
+# 1\. Introduction {#1-introduction}
 
 This section looks at the ways community partnerships can support connected learning.
 
