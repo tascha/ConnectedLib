@@ -37,6 +37,13 @@ One of the biggest benefits to come from this relationship building is the exper
 
 <br>
 
+<div class="table-format"><span class="title"><h5>LEARN TO DJ LAB</h5></span><p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Partnerships with local government agencies and organizations like the Girl Scouts of Nevada provide teens with opportunities to showcase their skills before a public audience, and provide the organizations with entertainment for their events.</p><p>[EMBED VIDEO: <a href="https://www.youtube.com/watch?v=ukdUrfo6LVM">https://www.youtube.com/watch?v=ukdUrfo6LVM]</a></p><ul><li>YALSA Snack Break: Salvador Avila Connecting Teens & Community (date?, YALSA and Salvador Avila). Online at: <a href="https://www.youtube.com/watch?v=9R54-rfBFTg">https://www.youtube.com/watch?v=9R54-rfBFTg </a></li><li>STEM DJs [Instagram account] (2017, Las Vegas-Clark County Library District). Online at: https://www.instagram.com/stemdjs/</li><li>DJing By the Book (2016, Amber Sampson). Vegas Seven. Online at: <a href="http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/">http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/</a></li></ul></div>
+
+<br>
+
+
+
+
 
 <div class="table-format"><span class="title"><h5>LEARN TO DJ LAB</h5></span><p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Partnerships with local government agencies and organizations like the Girl Scouts of Nevada provide teens with opportunities to showcase their skills before a public audience, and provide the organizations with entertainment for their events.</p><p>[EMBED VIDEO: <a href="https://www.youtube.com/watch?v=ukdUrfo6LVM">https://www.youtube.com/watch?v=ukdUrfo6LVM]</a></p><ul><li>YALSA Snack Break: Salvador Avila Connecting Teens & Community (date?, YALSA and Salvador Avila). Online at: <a href="https://www.youtube.com/watch?v=9R54-rfBFTg">https://www.youtube.com/watch?v=9R54-rfBFTg </a></li><li>STEM DJs [Instagram account] (2017, Las Vegas-Clark County Library District). Online at: https://www.instagram.com/stemdjs/</li><li>DJing By the Book (2016, Amber Sampson). Vegas Seven. Online at: <a href="http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/">http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/</a></li></ul></div>
 
