@@ -1,5 +1,5 @@
 # 1\. Introduction {#1-introduction}
-___________________________________________________________________
+_____________________________________________________________________________________________
 
 This section looks at the ways community partnerships can support connected learning.
 
