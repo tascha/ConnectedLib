@@ -12,6 +12,7 @@ Partnering with schools is particularly challenging for most of the librarians a
 <h5><i>We have to go looking for the information, and most the time when we do go looking for the information, there are district employees, or teachers, or librarians that will work with us. But we have to do a lot of digging to make that happen, and that once again comes down to the resources at our disposal and also the staff time it takes to make those in-roads. -- INTK_001<i></h5>
 
 <br>
+<br>
 
 <table class="heading-cell no-common-style"><tr>
 <th colspan="2">OPPORTUNITIES</th></tr>
