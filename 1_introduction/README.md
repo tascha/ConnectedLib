@@ -55,6 +55,7 @@ ___________________________________________________________________
 
 [^2]  Hoffman, Kelly M., Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. “Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future.” College Park, MD: University of Maryland, College Park, and Seattle, WA: University of Washington, 2016. <br><a href="http://connectedlib.ischool.uw.edu/connected-learning-in-libraries.">http://connectedlib.ischool.uw.edu/connected-learning-in-libraries.</a>
 
-[^3]: Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 4.
+[^3] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 4. <br><a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report.">http://www.ala.org/yaforum/future-library-services-and-teens-project-report.</a>
 
-[^4]: Ching, Dixie, Rafi Santo, Chris Hoadley, and Kylie Peppler. “On-Ramps, Lane Changes, Detours and Destinations: Building Connected Learning Pathways in Hive NYC through Brokering Future Learning Opportunities.” Hive Research Lab, 2015.
+[^4] Ching, Dixie, Rafi Santo, Chris Hoadley, and Kylie Peppler. “On-Ramps, Lane Changes, Detours and Destinations: Building Connected Learning Pathways in Hive NYC through Brokering Future Learning Opportunities.” Hive Research Lab, 2015. <br><a href="https://hiveresearchlab.org/2015/04/13/on-ramps-lane-changes-detours-and-destinations-new-community-developed-white-paper-on-supporting-pathways-through-brokering/.">https://hiveresearchlab.org/2015/04/13/on-ramps-lane-changes-detours-and-destinations-new-community-developed-white-paper-on-supporting-pathways-through-brokering/.</a>
+
