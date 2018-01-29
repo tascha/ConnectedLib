@@ -7,7 +7,7 @@ This section looks at the ways community partnerships can support connected lear
 </div>
 
 <br>
-<div class="text">“Working with other community members can expand what a library can provide for teens and create with teens when it comes to media literacy education, and this will give teens the chance to connect to others who can play a valuable educational, informational, and personal role in their lives, especially in relation to workforce preparedness.”[1]</div>
+<div class="text">“Working with other community members can expand what a library can provide for teens and create with teens when it comes to media literacy education, and this will give teens the chance to connect to others who can play a valuable educational, informational, and personal role in their lives, especially in relation to workforce preparedness.”<sup>1</sup></div>
 
 <br>
 A planetarium evaluates library branches locations for stargazing potential. A university provides mentors to work side-by-side with youth services librarians. Public and school librarians work together to provide a dynamic after school experience for students. Professional filmmakers work with teens who go on to win film making awards and teach library workshops of their own.
