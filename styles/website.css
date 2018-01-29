@@ -48,6 +48,11 @@ table-format2 {
     background: #ffffff !important;
 }
 
+.heading-cell1 th:nth-child(1) {
+    background: #ffffff !important;
+}
+
+
 .heading-cell tr:nth-child(1) {
     background: #3399ff;
 }
