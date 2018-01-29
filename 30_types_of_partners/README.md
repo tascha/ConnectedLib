@@ -1,4 +1,5 @@
 # 3.0 Types of Partners {#3-0-types-of-partners}
+<hr>
 
 Although each partnership will be unique and require tailored approaches, the basic process involves identifying potential partners, establishing a partnership by “pitching” the idea and determining an appropriate collaboration, and (hopefully) working together successfully in a way that motivates both of you to maintain the partnership. The rest of this module will guide you through these steps.
 
