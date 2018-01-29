@@ -41,8 +41,28 @@ table-format2 {
 }
 
 .heading-cell tr:nth-child(2) {
-    background-color: 	#F5DEB3 !important;
+    background-color: 	#FFB6C1 !important;
 }
+
+.heading-cell tr:nth-child(3) {
+    background-color: 	#FFB6C1 !important;
+}
+
+.heading-cell tr:nth-child(4) {
+    background-color: 	#FFB6C1 !important;
+}
+
+.heading-cell tr:nth-child(5) {
+    background-color: 	#FFB6C1 !important;
+}
+
+.heading-cell tr:nth-child(6) {
+    background-color: 	#FFB6C1 !important;
+}
+
+
+
+
 
 .text-wrapping1 {
     background: lightyellow;
