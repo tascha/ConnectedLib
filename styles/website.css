@@ -6,15 +6,14 @@
     font-family: arial;
 }
 
-hr { 
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-} 
+.markdown-section hr {
+    height: 2px;
+    padding: 0;
+    margin: 1.7em 0;
+    overflow: hidden;
+    background-color: black;
+    border: none;
+}
 
 .table-format1 {
     background: #90EE90;
