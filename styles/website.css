@@ -41,7 +41,7 @@ table-format2 {
 }
 
 .heading-cell table tr:nth-child(2) {
-    background-color: 	#F5DEB3;
+    background-color: 	#F5DEB3 !important;
 }
 
 .text-wrapping1 {
