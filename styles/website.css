@@ -44,6 +44,9 @@ table-format2 {
     font-weight: bold;
 } 
 
+.heading-cell1 td {
+    background: #ffffff;
+}
 
 .heading-cell tr:nth-child(1) {
     background: #3399ff;
