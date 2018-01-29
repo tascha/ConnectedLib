@@ -53,7 +53,7 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 ___________________________________________________________________
 [^1]: Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 8\.
 
-[^2]: Hoffman, Kelly M., Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. “Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future.” College Park, MD: University of Maryland, College Park, and Seattle, WA: University of Washington, 2016.
+[^2]: Hoffman, Kelly M., Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. “Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future.” College Park, MD: University of Maryland, College Park, and Seattle, WA: University of Washington, 2016. <a href="http://connectedlib.ischool.uw.edu/connected-learning-in-libraries.">http://connectedlib.ischool.uw.edu/connected-learning-in-libraries.</a>
 
 [^3]: Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 4.
 
