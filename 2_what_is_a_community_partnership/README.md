@@ -1,5 +1,5 @@
 # 2\. What is a Community Partnership? {#2-what-is-a-community-partnership}
-___________________________________________________________________
+<hr>
 
 In this section, you’ll learn how community partnerships can benefit the library, and how the library can in turn help partners achieve their goals. We’ll also discuss how community partnerships can be valuable elements of your strategy to promote connected learning in your library.
 
