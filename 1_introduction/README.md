@@ -1,4 +1,4 @@
-# 1\. Introduction {#1-introduction}
+{% raw %}# 1\. Introduction {#1-introduction} {% endraw %}
 <hr>
 
 This section looks at the ways community partnerships can support connected learning.
@@ -45,7 +45,6 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 </tr>
 
 </table>
-{% endraw %}
 
 
 <br>
