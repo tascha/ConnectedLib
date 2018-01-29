@@ -14,4 +14,4 @@ ___________________________________________________________________
 
 [^5] Turner, Ali. “Bring Your Dreams to the Library.” _Young Adult Library Services_, 2013. <a href="http://leonline.com/yals/12n1_fall2013.pdf.">http://leonline.com/yals/12n1_fall2013.pdf.</a>
 
-[^6] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 16.
+[^6] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 16. <a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report.">http://www.ala.org/yaforum/future-library-services-and-teens-project-report.</a>
