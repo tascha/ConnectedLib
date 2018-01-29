@@ -16,6 +16,7 @@ In this module, you will learn more about these examples of community partnershi
 
 In order to prepare youth with the 21st-century skills they need in today’s information-based society, public libraries have become “kitchen[s] for ‘mixing resources’ in order to empower teens to build skills, develop understanding, create and share, and overcome adversity.”<sup>3</sup> To provide teens with a diverse set of “resources” to “mix”, public libraries need to reach beyond their own walls into the community. Community partnerships help libraries connect youth to learning opportunities and enrich their social networks with peers and mentors who will help them learn.<sup>4</sup>
 
+{% raw %}
 <table class="heading-cell no-common-style"><tr>
 <th colspan="2">Connected Learning and Community Partnerships</th></tr>
 <tr>
@@ -44,6 +45,8 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 </tr>
 
 </table>
+{% endraw %}
+
 
 <br>
 <div class="text-wrapping1"><h4>ADDITIONAL RESOURCES</h4><ul><li>YALSA’s <a href="http://www.ala.org/yalsa/partnering-toolkit">[Partnering to Increase Your Impact]</a> toolkit (2017) is full of tips and resources to help you form partnerships and obtain funding, including sample partnership letters. <br><a href="http://www.ala.org/yalsa/partnering-toolkit">http://www.ala.org/yalsa/partnering-toolkit<a></li><li>Although it was developed for the Department of Justice, the<a href="http://www.cops.usdoj.gov/html/cd_rom/sro/FinalCDPubs/CollaborationToolkit.pdf">Collaboration Toolkit: How to Build, Fix, and Sustain Productive Partnerships</a> (2001) contains information about building and maintaining relationships that works for any type of organization.<br><a href="http://www.cops.usdoj.gov/html/cd_rom/sro/FinalCDPubs/CollaborationToolkit.pdf">http://www.cops.usdoj.gov/html/cd_rom/sro/FinalCDPubs/CollaborationToolkit.pdf</a></li><li>The University of Kansas’ <a href="http://ctb.ku.edu">Community Tool</a> contains a toolkit for <a href="http://ctb.ku.edu/en/creating-and-maintaining-partnerships">Creating and Maintaining Partnerships</a>.<br><a href="http://ctb.ku.edu/en/creating-and-maintaining-partnerships">http://ctb.ku.edu/en/creating-and-maintaining-partnerships</a></li><li>The NISE Network's <a href="http://nisenet.org/museum-community-partnerships">Museum & Community Partnerships</a> toolkit was developed for museums, but the tips on collaborations and partnerships between community organizations are useful for libraries as well.<br><a href="http://nisenet.org/museum-community-partnerships">http://nisenet.org/museum-community-partnerships</a></li></ul></div>
