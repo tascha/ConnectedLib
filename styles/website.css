@@ -45,7 +45,7 @@ table-format2 {
 } 
 
 .heading-cell1 td {
-    background: #ffffff;
+    background: #ffffff !important;
 }
 
 .heading-cell tr:nth-child(1) {
