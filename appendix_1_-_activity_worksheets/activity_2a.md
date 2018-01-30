@@ -11,6 +11,6 @@ What community organizations, businesses, groups, or people does your youth serv
 </tr>
 <tr>
 <td><textarea style="width: 100%; border: none;"/></td>
-
+</tr>
 
 </table>
