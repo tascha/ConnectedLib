@@ -11,7 +11,7 @@ The benefits of a partnership to the library are clear, but what about the benef
 
 
 
-___________________________________________________________________
+<hr>
 
 [^7] Eggers, Dave. _My Wish: Once upon a School_. TED, 2008. <a href="https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school">https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school.</a>
 
