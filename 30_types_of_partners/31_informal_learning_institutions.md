@@ -3,7 +3,7 @@
 **_It&#039;s very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation... to take those families from the individual branches to the art museum for a field trip. -- INTK_037_**
 
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations often share a library’s mission to empower the public through knowledge and learning.
-
+<br>
 <table class="heading-cell no-common-style"><tr>
 <th colspan="2">OPPORTUNITIES</th></tr>
 <tr>
