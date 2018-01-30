@@ -15,4 +15,4 @@ ___________________________________________________________________
 
 [^7] Eggers, Dave. _My Wish: Once upon a School_. TED, 2008. <a href="https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school">https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school.</a>
 
-[^8]: Mulder, Natalie. “Encouraging Community Service in the Public Library.” _Young Adult Library Services_, 2011.
+[^8] Mulder, Natalie. “Encouraging Community Service in the Public Library.” _Young Adult Library Services_, 2011. <a href="https://www.questia.com/library/journal/1G1-272078177/encouraging-community-service-in-the-public-library">https://www.questia.com/library/journal/1G1-272078177/encouraging-community-service-in-the-public-library.</a>
