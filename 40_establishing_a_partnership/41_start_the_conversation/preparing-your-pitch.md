@@ -27,12 +27,12 @@ No matter how persuasive and well-crafted your pitch is, you may be turned down.
 <br>
 
 ___________________________________________________________________________________
-[^35]: Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
+[^35] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
 
-[^36]: Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” _American Libraries_, March 2010\.
+[^36] Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” _American Libraries_, March 2010\.
 
-[^37]: Rutherford, Dawn. “Building Strong Community Partnerships: Sno-Isle Libraries and the Teen Project.” _Young Adult Library Services_ 2010, no. Fall (2010): 23–25.
+[^37] Rutherford, Dawn. “Building Strong Community Partnerships: Sno-Isle Libraries and the Teen Project.” _Young Adult Library Services_ 2010, no. Fall (2010): 23–25.
 
-[^38]: American Library Association. “Elevator Speech.” Text. Everyday Advocacy, April 28, 2013.
+[^38] American Library Association. “Elevator Speech.” Text. Everyday Advocacy, April 28, 2013.
 
-[^39]: Baxter, Kathleen, and Susan M. Haggberg. “Ladies Who Lunch.” _School Library Journal_ 46, no. 09 (September 2000): 33.
+[^39] Baxter, Kathleen, and Susan M. Haggberg. “Ladies Who Lunch.” _School Library Journal_ 46, no. 09 (September 2000): 33.
