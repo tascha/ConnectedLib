@@ -9,6 +9,8 @@ What community organizations, businesses, groups, or people does your youth serv
 <th colspan="1">Level of Partnership</th>
 <th colspan="1">Description of collaboration</th>
 </tr>
+<tr>
+<td><textarea style="width: 100%; border: none;"/></td>
 
 
 </table>
