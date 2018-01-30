@@ -6,7 +6,7 @@
 <th colspan="3">What experience do you have with forming or maintaining community partnerships?</th>
 </tr>
 <tr>
-<td><textarea style="width: 100%; border: none;"/></td>
+<td colspan="3"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
 <th>Know</th>
