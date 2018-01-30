@@ -18,10 +18,10 @@
 <td>What do you want to learn about community partnerships in this module?</td>
 <td>Leave this section blank for now.</td>
 </tr>
-<tr rowspan="4">
-<td><textarea style="width: 100%; height: 200%; border: none;"/></td>
-<td><textarea style="width: 100%; border: none;"/></td>
-<td><textarea style="width: 100%; border: none;"/></td>
+<tr>
+<td rowspan="4"><textarea style="width: 100%; height: 200%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 
 </table>
