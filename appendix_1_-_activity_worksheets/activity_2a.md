@@ -17,27 +17,17 @@ What community organizations, businesses, groups, or people does your youth serv
 </tr>
 <tr>
 <td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+</tr>
+<tr>
 <td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
 <td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
 <td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-</tr>
-<tr>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 <td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 
