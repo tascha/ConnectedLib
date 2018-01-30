@@ -31,6 +31,6 @@ ___________________________________________________________________
 
 [^14] Kania, John, and Mark Kramer. “Collective Impact.” _Stanford Social Innovation Review_ 2011, Winter (2011): 36–41\.
 
-[^15]: KnowledgeWorks Foundation. “Strive Partnership.” Strive Partnership, 2017.
+[^15] KnowledgeWorks Foundation. “Strive Partnership.” Strive Partnership, 2017.
 
-[^16]: McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.
+[^16] McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.
