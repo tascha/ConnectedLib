@@ -12,6 +12,7 @@ A community partnership should benefit all stakeholders — the library, the par
 
 You can start building relationships with other organizations without a concrete or even a vague goal in mind. Networking with people who have a different perspective on the youth in your community is valuable in and of itself. It’s also a good idea to have an idea of what other organizations are doing for youth, so you don’t duplicate efforts. Informal relationships are often the catalyst for creative partnership ideas born out of simply chatting with each other about your work.
 
+<br>
 **WHAT IF THEY SAY NO?**
 
 <div class="text">“People are afraid of the "no", and that's truly the worst that can happen. I have been shut down so many times I'm like, ‘Alright, well, there's five more ice cream shops on this block, so I'll find something.’” -- MLAFocusGroup</div>
