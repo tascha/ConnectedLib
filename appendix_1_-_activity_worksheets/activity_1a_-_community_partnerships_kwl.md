@@ -20,8 +20,6 @@
 <td>Leave this section blank for now.</td>
 <tr>
 <tr>
-<td colspan="3"><input type="text"></td>
-<td colspan="3"><input type="text"></td>
 <tr>
 
 </table>
