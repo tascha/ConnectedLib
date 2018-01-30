@@ -10,34 +10,35 @@ What community organizations, businesses, groups, or people does your youth serv
 <th colspan="1">Description of collaboration</th>
 </tr>
 <tr>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+</td>
 <td></td>
-<td></td>
-<td></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 
 
