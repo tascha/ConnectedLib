@@ -4,7 +4,7 @@
 
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations often share a library’s mission to empower the public through knowledge and learning.
 <br>
-<table class="heading-cell no-common-style"><tr>
+<table class="heading-cell4 no-common-style"><tr>
 <th colspan="2">OPPORTUNITIES</th></tr>
 <tr>
 <th>SIMILAR PROGRAMS AND GOALS</th>
