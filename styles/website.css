@@ -246,6 +246,14 @@ table-format2 {
     background-color: #ffff99 !important;
 }
 
+.heading-cell7 td th {
+    background: #ffffff !important;
+}
+
+.heading-cell7 th {
+    background: #ffffff !important;
+}
+
 
 
 
