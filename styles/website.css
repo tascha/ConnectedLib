@@ -202,9 +202,12 @@ background-color: #ffb3be !important;
     background: #ffffff !important;
 }
 
-.heading-cell5 tr.row1 {
-    background-color: #000000 !important;
+.heading-cell5 tr:nth-child(1) {
+    background: #000000;
+    color: white;
 }
+
+
 
 .heading-cell5 tr.row2 th {
     background-color: #80bfff !important;
