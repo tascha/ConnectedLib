@@ -76,10 +76,8 @@ Private individuals, local businesses, and community groups that are not oriente
 
 [^24] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014. <a href="https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services">https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.</a>
 
-
 [^25] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008. <a href="https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week">https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week.</a>
 
 [^26] Engelfried, Steven, and Angela Reynolds. “Sponsorship 101: How Partnerships Can Expand Summer Reading.” _American Libraries_, 2002\.
-
 
 [^27] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008. <a href="https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week">https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week.</a>
