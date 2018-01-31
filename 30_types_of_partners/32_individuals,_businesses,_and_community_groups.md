@@ -72,9 +72,9 @@ Private individuals, local businesses, and community groups that are not oriente
 <hr>
 [^22] Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. _IMLS Focus: Learning in Libraries_. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. <a href="http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf">http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf.</a>
 
-[^23] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008. <a href=""></a>
+[^23] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008. <a href="https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week">https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week.</a>
 
-[^24] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014. <a href=""></a>
+[^24] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014. <a href="https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services">https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.</a>
 
 
 [^25] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008. <a href=""></a>
