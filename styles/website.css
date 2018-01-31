@@ -181,9 +181,12 @@ table-format2 {
     background: #ffffff !important;
 }
 
-.heading-cell4 tr.row1 {
-    background-color: #000000 !important;
+.heading-cell4 tr:nth-child(1) {
+    background: #000000;
+    color: white;
 }
+
+
 
 .heading-cell4 tr.row2 th {
     background-color: #ffcc66 !important;
