@@ -6,10 +6,10 @@ Don’t underestimate the value of starting small, with informal conversations, 
 
 
 <hr>
-[^31] Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” _American Libraries_, March 2010\.
+[^31] Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” _American Libraries_, March 2010\. 
 
 [^32] McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015\. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.
 
-[^33] Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016.
+[^33] Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016.<a href="http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/">http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/.</a>
 
-[^34] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014.
+[^34] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014.<a href="https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services">https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.</a>
