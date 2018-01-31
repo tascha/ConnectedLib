@@ -52,9 +52,10 @@ table-format2 {
     background: #ff9999 !important;
 }
 
-.heading-cell1 th.row2 {
+
+.heading-cell1 table tr:nth-child(1){
     background: #ffcc66 !important;
-}
+} 
 
 
 .heading-cell tr:nth-child(1) {
