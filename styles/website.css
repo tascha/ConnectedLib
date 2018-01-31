@@ -7,12 +7,12 @@
 }
 
 .markdown-section hr {
-height: 1px;
-padding: 0;
-margin-top: 0.5em;
-overflow: hidden;
-background-color: black;
-border: none;
+    height: 1px;
+    padding: 0;
+    margin-top: 0.5em;
+    overflow: hidden;
+    background-color: black;
+    border: none;
 }
 
 .table-format1 {
