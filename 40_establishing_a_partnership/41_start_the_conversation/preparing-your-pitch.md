@@ -1,11 +1,11 @@
 ### PREPARING YOUR PITCH {#preparing-your-pitch}
 
-A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup>[37]</sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to pique the interest of anyone whose ear you’d like to bend about libraries.”<sup>[38]</sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships.
+A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup>37</sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to pique the interest of anyone whose ear you’d like to bend about libraries.”<sup>38</sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships.
 
 <br>
 **BUILDING A RELATIONSHIP**
 
-<div class="text">“It was just a get-to-know-you lunch. Yet, unbeknownst to us, as we sipped soup and ordered sandwiches, we were laying the groundwork for a long, fruitful partnership.” -- Kathleen Baxter and Susan M. Haggberg<sup>[39]</sup>
+<div class="text">“It was just a get-to-know-you lunch. Yet, unbeknownst to us, as we sipped soup and ordered sandwiches, we were laying the groundwork for a long, fruitful partnership.” -- Kathleen Baxter and Susan M. Haggberg<sup>39</sup>
 </div>
 
 <br>
@@ -25,6 +25,7 @@ No matter how persuasive and well-crafted your pitch is, you may be turned down.
 <br>(Adapted from Squires, T. (2009). Library partnerships: Making connections between school and public libraries. Medford, NJ: Information Today, Inc., page 16). 
 </div>
 <br>
+
 <hr>
 [^35] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">http://www.ala.org/yalsa/yalsamemonly/webinars/webinars.</a>
 
