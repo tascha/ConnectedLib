@@ -6,15 +6,15 @@ Libraries are centers for informal learning, so other informal learning institut
 <br>
 <table class="heading-cell4 no-common-style"><tr>
 <th colspan="2">OPPORTUNITIES</th></tr>
-<tr>
+<tr class="row1">
 <th>SIMILAR PROGRAMS AND GOALS</th>
 <td>Since informal learning institutions often share similar missions, the programs they develop and they goals they set are often similar as well, making collaboration easier.<sup>[17]</sup>,<sup>[18]</sup></td>
 </tr>
-<tr>
+<tr class="row2">
 <th>OUTREACH STAFF</th>
 <td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>[19]</sup> </td>
 </tr>
-<tr>
+<tr class="row3">
 <th>NEW AUDIENCES</th>
 <td>Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup>[20]</sup></td>
 </tr>
@@ -23,14 +23,14 @@ Libraries are centers for informal learning, so other informal learning institut
 </table>
 
 <br>
-<table class="heading-cell no-common-style"><tr>
+<table class="heading-cell5 no-common-style"><tr>
 <th colspan="2">CHALLENGES</th>
 </tr>
-<tr>
+<tr class="row1">
 <th>SIMILAR RESTRAINTS</th>
 <td>Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.<sup>[21]</sup></td>
 </tr>
-<tr>
+<tr class="row2">
 <th>MANAGEMENT APPROVAL</th>
 <td>Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations. </td>
 </tr>
