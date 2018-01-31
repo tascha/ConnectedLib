@@ -21,4 +21,4 @@ ________________________________________________________________________________
 
 [^45] Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016. <a href="http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/">http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/.</a>
 
-[^46] Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016. <a href=""></a>
+[^46] Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016. <a href="http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/">http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/.</a>
