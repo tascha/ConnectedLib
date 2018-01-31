@@ -62,7 +62,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <div class="table-format"><span class="title"><a href="../appendix_3_-_case_studies/README.md"><h5>CASE STUDY: LOCAL BUSINESSES</h5></a></span></div>
 <br>
 
-<div class="table-format"><span class="title"><h5>CASE STUDY: ADULT VOLUNTEERS</h5></span></div>
+<div class="table-format"><span class="title"><a href="../appendix_3_-_case_studies/README.md"><h5>CASE STUDY: ADULT VOLUNTEERS</h5></a></span></div>
 <br>
 
 <div class="text-wrapping1"><h4>ADDITIONAL RESOURCES</h4><ul><li>	Sponsorship 101: How Partnerships can Expand Summer Reading (Steven Engelfried & Angela Reynolds, 2002). American Libraries, 2002(February), 49–50.</li><li>Partnerships for Teen Tech Week (Stephanie Iser, 2008). Young Adult Library Services, 2008(Winter), 24.</li><li>Beyond Public Exhibits to Partnerships (Norman Morton, 2005). American Libraries, 2005(November), 42–45.</li><li>A Guide to Building Partnerships Between Science Museums and University-Based Research Centers. (Carol Lynn Alpert, 2013). Advice for working with universities, researchers, and academics. Available online: <br><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers">http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers</a></li></ul></div>
