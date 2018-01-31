@@ -72,12 +72,15 @@ Private individuals, local businesses, and community groups that are not oriente
 <hr>
 [^22] Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. _IMLS Focus: Learning in Libraries_. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. <a href="http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf">http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf.</a>
 
-[^23] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008.
+[^23] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008. <a href=""></a>
 
-[^24] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014.
+[^24] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014. <a href=""></a>
 
-[^25] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008.
 
-[^26] Engelfried, Steven, and Angela Reynolds. “Sponsorship 101: How Partnerships Can Expand Summer Reading.” _American Libraries_, 2002\.
+[^25] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008. <a href=""></a>
 
-[^27] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008.
+
+[^26] Engelfried, Steven, and Angela Reynolds. “Sponsorship 101: How Partnerships Can Expand Summer Reading.” _American Libraries_, 2002\. <a href=""></a>
+
+
+[^27] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008. <a href=""></a>
