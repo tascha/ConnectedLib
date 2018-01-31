@@ -16,11 +16,11 @@ Private individuals, local businesses, and community groups that are not oriente
 <th colspan="2">OPPORTUNITIES</th></tr>
 <tr class="row1">
 <th>MATERIALS AND EQUIPMENT</th>
-<td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3-D printers.<sup>[23]</sup>,<sup>[24]</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td>
+<td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3-D printers.<sup>23</sup>,<sup>[24]</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td>
 </tr>
 <tr class="row2">
 <th>COMMUNITY GROUPS</th>
-<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>[25]</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>[26]</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>[27]</sup></td>
+<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>25</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>[26]</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>[27]</sup></td>
 </tr>
 <tr class="row3">
 <th>PARENTS AND FAMILY MEMBERS</th>
@@ -41,7 +41,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <th colspan="2">CHALLENGES</th></tr>
 <tr class="row1">
 <th>CORPORATE POLICY</th>
-<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>[25]</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>[26]</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>[27]</sup></td>
+<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>[25]</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>26</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>27</sup></td>
 </tr>
 <tr class="row2">
 <th>INEXPERIENCE WITH TEENS</th>
