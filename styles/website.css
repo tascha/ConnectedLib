@@ -83,7 +83,9 @@ table-format2 {
     padding-right: 15px;
 }   
 
- 
+.text-adres {
+    text-align: center;
+}
  .heading-cell1 td {
     background: #ffffff !important;
 }
