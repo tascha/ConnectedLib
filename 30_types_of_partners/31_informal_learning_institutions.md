@@ -46,16 +46,16 @@ Libraries are centers for informal learning, so other informal learning institut
 
 <br>
 <hr>
-[^17] Educopia Institute. _Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations_. Atlanta, GA: Educopia Institute, 2015. <a href=""></a>
+[^17] Educopia Institute. _Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations_. Atlanta, GA: Educopia Institute, 2015. <a href="https://educopia.org/publications/spanning-our-field-boundaries-mindfully-managing-lam-collaborations">https://educopia.org/publications/spanning-our-field-boundaries-mindfully-managing-lam-collaborations.</a>
 
-[^18] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href=""></a>
-
-
-[^19] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href=""></a>
+[^18] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">http://www.ala.org/yalsa/yalsamemonly/webinars/webinars</a>. [Requires YALSA membership.]
 
 
-[^20] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href=""></a>
+[^19] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">http://www.ala.org/yalsa/yalsamemonly/webinars/webinars.</a>
 
 
-[^21] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href=""></a>
+[^20] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">http://www.ala.org/yalsa/yalsamemonly/webinars/webinars.</a>
+
+
+[^21] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">http://www.ala.org/yalsa/yalsamemonly/webinars/webinars.</a>
 
