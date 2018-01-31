@@ -137,3 +137,34 @@ background-color: #80bfff !important;
 .heading-cell2 tr.row6 th {
 background-color: #aa80ff !important;
 }
+
+
+.heading-cell3 td {
+background: #ffffff !important;
+}
+
+.heading-cell3 tr.row1 th {
+background-color: #ffffff !important;
+}
+
+.heading-cell3 tr.row2 th {
+background-color: #d9d9d9 !important;
+}
+
+.heading-cell3 tr.row3 th {
+background-color: #a6a6a6 !important;
+}
+
+.heading-cell3 tr.row4 th {
+background-color: #8c8c8c !important;
+}
+
+.heading-cell3 tr.row5 th {
+background-color: #595959 !important;
+}
+
+ 
+.heading-cell3 tr.row6 th {
+background-color: #000000 !important;
+}
+
