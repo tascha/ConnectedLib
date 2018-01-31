@@ -18,7 +18,7 @@ Different characteristics of the partnership may also vary from less to more int
 
 <br>
 
-___________________________________________________________________
+<hr>
 
 [^9] McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.
 
