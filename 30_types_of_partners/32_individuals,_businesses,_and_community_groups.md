@@ -59,7 +59,7 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <br>
 
-<div class="table-format"><span class="title"><h5>CASE STUDY: LOCAL BUSINESSES</h5></span></div>
+<div class="table-format"><span class="title"><a href="../appendix_3_-_case_studies/README.md"><h5>CASE STUDY: LOCAL BUSINESSES</h5></a></span></div>
 <br>
 
 <div class="table-format"><span class="title"><h5>CASE STUDY: ADULT VOLUNTEERS</h5></span></div>
