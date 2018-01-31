@@ -1,12 +1,12 @@
 ## 3.4 Schools {#3-4-schools}
 
-**_“This is such an obvious avenue for partnership that it is sometimes overlooked.” - Tasha Squires<sup>[28]</sup>_**
+**_“This is such an obvious avenue for partnership that it is sometimes overlooked.” - Tasha Squires<sup>28</sup>_**
 
 Almost all of a community’s youth can be found in local schools at some point. Reaching teens through their schools can get them more involved with the library before the steep drop-off in participation that many librarians have reported with older teens. Partnerships with schools also build bridges between a teen’s formal and informal learning spaces—an important element of connected learning.
 
 Partnering with schools is particularly challenging for most of the librarians and library workers we spoke to. Very few reported having any collaborative relationship at all with their local schools, let alone a thriving partnership.
 
-<div class="table-format"><span class="title"><h5>YALSA SNACK BREAK WITH AUDREY HOPKINS</h5><div>(5m20)</div></span><span class="title"><ul><li>YALSA. (2016). YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success. Retrieved from https://www.youtube.com/watch?v=vJpQJKUoXio</li></span></div>
+<div class="table-format"><span class="title"><h5>YALSA SNACK BREAK WITH AUDREY HOPKINS</h5><div>(5m20)</div></span><span class="title"><ul><li>YALSA. (2016). YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success. Retrieved from <a href="https://www.youtube.com/watch?v=vJpQJKUoXio">https://www.youtube.com/watch?v=vJpQJKUoXio</a></li></span></div>
 <br>
 
 <h5><i>We have to go looking for the information, and most the time when we do go looking for the information, there are district employees, or teachers, or librarians that will work with us. But we have to do a lot of digging to make that happen, and that once again comes down to the resources at our disposal and also the staff time it takes to make those in-roads. -- INTK_001<i></h5>
@@ -58,7 +58,7 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <div class="table-format1"><span class="title"><h5>GETTING STARTED: PARTNERING WITH SCHOOLS </h5></span><ul>❏ Brainstorm. Think of five ideas that you and your library can use in establishing, sustaining, or improving your relationship with local schools. Use the related readings, including this list of school and public library cooperative activities from the Association for Library Service to Children (ALSC), for inspiration. Write a few sentences for each idea, describing the concept and how your library might implement it.   <br>❏ Reach out to someone at the PTA. You can reach out to parent-teacher associations as well. They may be planning events the library can participate in, or have other ideas about how the library and the school can work together. And crucially, they may have more spare time than school employees.
 <br>❏ Develop a way to stay in touch with teachers. Keeping teachers abreast of the latest library resources and programs for youth through a newsletter or e-mail can help remind them to stay in touch with you about upcoming lessons and assignments.
-<br>❏  Start small. Working together on a one-time event can benefit both school and public library, and requires less time commitment than an ongoing partnership.<sup>[29]</sup> (Cooksey, 2017).<br>❏	Be in it for the long haul. If a partnership with the school just doesn’t materialize, consider building that relationship anyway by simply helping out—you could assist with an event, volunteer to help in the library, or support advocacy efforts for the school and the school library.<sup>[30]</sup> This will help you learn more about the school and its needs, and may end up blossoming into a real partnership down the line.
+<br>❏  Start small. Working together on a one-time event can benefit both school and public library, and requires less time commitment than an ongoing partnership.<sup>29</sup> (Cooksey, 2017).<br>❏	Be in it for the long haul. If a partnership with the school just doesn’t materialize, consider building that relationship anyway by simply helping out—you could assist with an event, volunteer to help in the library, or support advocacy efforts for the school and the school library.<sup>30</sup> This will help you learn more about the school and its needs, and may end up blossoming into a real partnership down the line.
 </ul>
 </div>
 <br>
