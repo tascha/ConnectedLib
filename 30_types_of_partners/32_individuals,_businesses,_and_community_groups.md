@@ -41,7 +41,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <th colspan="2">CHALLENGES</th></tr>
 <tr class="row1">
 <th>CORPORATE POLICY</th>
-<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>[25]</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>26</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>27</sup></td>
+<td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>25</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>26</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>27</sup></td>
 </tr>
 <tr class="row2">
 <th>INEXPERIENCE WITH TEENS</th>
