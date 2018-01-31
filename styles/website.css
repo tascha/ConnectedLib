@@ -193,14 +193,19 @@ table-format2 {
 
 .heading-cell4 tr.row2 th {
     background-color: #79d279 !important;
+    width: 30%;
 }
 
 .heading-cell4 tr.row3 th {
 background-color: #cc33ff !important;
+width: 30%;
+
 }
 
 .heading-cell5 td {
     background: #ffffff !important;
+    width: 30%;
+
 }
 
 .heading-cell5 tr:nth-child(1) {
@@ -210,10 +215,14 @@ background-color: #cc33ff !important;
 
 .heading-cell5 tr.row1 th {
     background-color: #ff471a !important;
+    width: 30%;
+
 }
 
 .heading-cell5 tr.row2 th {
     background-color: #ff884d !important;
+    width: 30%;
+
 }
 
 
