@@ -251,9 +251,13 @@ table-format2 {
     color: white;
 }
 
-
 .heading-cell7 td {
     background: #ffffff !important;
+}
+
+.heading-cell7 th {
+    background: #000000;
+    color: white;
 }
 
 
