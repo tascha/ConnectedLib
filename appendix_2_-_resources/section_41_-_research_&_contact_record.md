@@ -7,6 +7,6 @@
 <br>[Jot down some initial ideas for a partnership with this entity. Update these as needed once you learn more about the partner.]</td></tr><tr><td colspan="2">Contacts:
 [Include names, positions phone numbers, e-mails; if you have more than one contact from an organization, indicate the roles they play and what they should be contacted for]
 </td></tr><tr><td colspan="2">Notes:[Include anything else you know about the partner, questions you have, etc. Update as needed as you get more information.]</td></tr><tr><td colspan="2">Communication record: – [Describe contact here, i.e. E-mail to set up a meeting]<br>
-Date:<input type="text" border="none"><br>
+Date:<input type="text"><br>
 Contact: <input type="text"><br>    	
 Outcome: <input type="text">[e.g., “left voicemail, no one called back” or “Jane Smith responded via e-mail and said…”]</td></tr><tr><td colspan="2">Communication record: Duplicate the section above if you have more communications to keep track of Previous partnerships<br>· keep a record of previous work together</td></tr></table>
