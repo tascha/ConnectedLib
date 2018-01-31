@@ -235,8 +235,13 @@ table-format2 {
 }
 
 .heading-cell6 tr.row3 th {
-    background-color: #1affc6 !important;
+    background-color: #99ff99 !important;
 }
+
+.heading-cell6 tr.row3 th {
+    background-color: #ffdd99 !important;
+}
+
 
 
 
