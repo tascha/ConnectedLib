@@ -35,9 +35,9 @@ Partnering with schools is particularly challenging for most of the librarians a
 </table>
 <br>
 
-<table class="heading-cell6 no-common-style"><tr class="row1">
+<table class="heading-cell6 no-common-style"><tr>
 <th colspan="2">CHALLENGES</th></tr>
-<tr>
+<tr class="row1">
 <th>NO TIME FOR EXTRAS</th>
 <td>Teachers and school librarians are notoriously busy. Along with their full daily schedules, their curricula are also “busy”—full of requirements and necessary lessons, activities, and tests. They may not have classroom time to spare for library-related activities. To justify the time and effort required for a library and school to work together, you should be able present a very clear benefit.</td>
 </tr>
