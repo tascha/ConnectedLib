@@ -8,7 +8,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <br>
 
 <br>
-<div class="table-format"><span class="title"><h5>COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT</h5><br><img src=""><p>Edutopia. Community Partners: Making Student Learning Relevant, 2016. <a href="https://www.youtube.com/watch?v=30oAIh5y3gE">https://www.youtube.com/watch?v=30oAIh5y3gE.</a></p></div>
+<div class="table-format"><span class="title"><h5>COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT</h5><br><p>Edutopia. Community Partners: Making Student Learning Relevant, 2016. <a href="https://www.youtube.com/watch?v=30oAIh5y3gE">https://www.youtube.com/watch?v=30oAIh5y3gE.</a></p></div>
 
 <br>
 
