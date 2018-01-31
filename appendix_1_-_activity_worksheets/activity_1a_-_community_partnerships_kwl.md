@@ -19,9 +19,9 @@
 <td>Leave this section blank for now.</td>
 </tr>
 <tr>
-<td><textarea style="width: 100%; height: 349px; border: none;"/></td>
-<td><textarea style="width: 100%; height: 349px; border: none;"/></td>
-<td><textarea style="width: 100%; height: 349px; border: none;"/></td>
+<td><textarea style="width: 279px; height: 349px; border: none;"/></td>
+<td><textarea style="width: 279px; height: 349px; border: none;"/></td>
+<td><textarea style="width: 279px; height: 349px; border: none;"/></td>
 </tr>
 
 </table>
