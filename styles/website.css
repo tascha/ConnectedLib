@@ -48,9 +48,6 @@ table-format2 {
     background: #ffffff !important;
 }
 
-.heading-cell1 table tr:nth-child(2n){
-    background-color: #ffcc66 !important;
-} 
 
 .heading-cell1 tr.row1 th {
     background-color: #ffcc66 !important;
