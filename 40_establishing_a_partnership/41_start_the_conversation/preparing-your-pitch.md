@@ -16,6 +16,7 @@ You can start building relationships with other organizations without a concrete
 **WHAT IF THEY SAY NO?**
 
 <div class="text">“People are afraid of the "no", and that's truly the worst that can happen. I have been shut down so many times I'm like, ‘Alright, well, there's five more ice cream shops on this block, so I'll find something.’” -- MLAFocusGroup</div>
+<br>
 
 No matter how persuasive and well-crafted your pitch is, you may be turned down. Don’t take it personally. Turn it into a learning experience by understanding why the potential partner wasn’t on board. Did you start the conversation with a fully formed concept, without letting them share their input and expertise? Accept critical feedback with grace and an open mind, then determine if it is worth adjusting your approach moving forward. Perhaps you can even re-approach the same partner in the future.
 
