@@ -45,7 +45,7 @@ table-format2 {
 } 
 
 .headingcell1 table {
-    border: 1px solid #ffffff !important;
+    border: 1px solid white !important;
 }
 
 .heading-cell tr:nth-child(1) {
