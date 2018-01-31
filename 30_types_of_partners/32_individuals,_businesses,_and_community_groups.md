@@ -70,7 +70,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <br>
 
 <hr>
-[^22] Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. _IMLS Focus: Learning in Libraries_. Kansas City, MO: Institute of Museum and Library Services, 2015, 11.
+[^22] Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. _IMLS Focus: Learning in Libraries_. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. <a href="http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf">http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf.</a>
 
 [^23] Iser, Stephanie. “Partnerships for Teen Tech Week.” _Young Adult Library Services_, 2008.
 
