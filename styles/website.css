@@ -48,7 +48,7 @@ table-format2 {
     background: #ffffff !important;
 }
 
-.heading-cell1 table tr:nth-child(1){
+.heading-cell1 table tr:nth-child(2n){
     background-color: #ffcc66 !important;
 } 
 
