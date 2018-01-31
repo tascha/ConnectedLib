@@ -46,12 +46,16 @@ Libraries are centers for informal learning, so other informal learning institut
 
 <br>
 <hr>
-[^17] Educopia Institute. _Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations_. Atlanta, GA: Educopia Institute, 2015.
+[^17] Educopia Institute. _Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations_. Atlanta, GA: Educopia Institute, 2015. <a href=""></a>
 
-[^18] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
+[^18] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href=""></a>
 
-[^19] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
 
-[^20] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
+[^19] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href=""></a>
 
-[^21] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
+
+[^20] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href=""></a>
+
+
+[^21] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href=""></a>
+
