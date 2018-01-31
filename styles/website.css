@@ -57,6 +57,17 @@ table-format2 {
     background-color: #ffcc66 !important;
 }
 
+.heading-cell1 tr.row3 th {
+background-color: #ffb3be !important;
+}
+
+.heading-cell1 tr.row4 th {
+background-color: #ffcc66 !important;
+}
+
+.heading-cell1 tr.row5 th {
+background-color: #ffcc66 !important;
+}
 
 
 .heading-cell tr:nth-child(1) {
