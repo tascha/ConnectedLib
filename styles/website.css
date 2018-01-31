@@ -160,13 +160,20 @@ table-format2 {
 }
 
 .heading-cell3 tr.row5 th {
-    background-color: #595959 !important;
+    background-color: #737373 !important;
     color: white !important;
 }
 
  
 .heading-cell3 tr.row6 th {
+    background-color: #595959 !important;
+    color: white !important;
+}
+
+.heading-cell3 tr.row7 th {
     background-color: #000000 !important;
     color: white !important;
 }
+
+
 
