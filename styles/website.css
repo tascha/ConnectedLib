@@ -194,6 +194,10 @@ table-format2 {
     background-color: #ffe6b3 !important;
 }
 
+.heading-cell4 tr.row4 th {
+background-color: #ffb3be !important;
+}
+
 .heading-cell5 td {
     background: #000000 !important;
 }
