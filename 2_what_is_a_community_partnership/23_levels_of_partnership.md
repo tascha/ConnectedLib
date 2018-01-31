@@ -20,18 +20,19 @@ Different characteristics of the partnership may also vary from less to more int
 
 <hr>
 
-[^9] McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.
+[^9] McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015. <a href="http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf">http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.</a>
 
-[^10] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13\.
+[^10] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13\. <a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report">http://www.ala.org/yaforum/future-library-services-and-teens-project-report.</a>
 
-[^11] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13\.
 
-[^12] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13\.
+[^11] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13\. <a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report">http://www.ala.org/yaforum/future-library-services-and-teens-project-report.;</a>and Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014.<a href="https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services">https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.</a>
 
-[^13] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014.
+[^12] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13\.<a href=""></a>
 
-[^14] Kania, John, and Mark Kramer. “Collective Impact.” _Stanford Social Innovation Review_ 2011, Winter (2011): 36–41\.
+[^13] Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” _Young Adult Library Services_, 2014.<a href=""></a>
 
-[^15] KnowledgeWorks Foundation. “Strive Partnership.” Strive Partnership, 2017.
+[^14] Kania, John, and Mark Kramer. “Collective Impact.” _Stanford Social Innovation Review_ 2011, Winter (2011): 36–41\.<a href=""></a>
 
-[^16] McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.
+[^15] KnowledgeWorks Foundation. “Strive Partnership.” Strive Partnership, 2017.<a href=""></a>
+
+[^16] McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015.<a href=""></a>
