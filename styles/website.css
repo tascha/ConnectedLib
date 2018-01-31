@@ -52,7 +52,7 @@ table-format2 {
     background: #ff9999 !important;
 }
 
-.heading-cell1 row2 th {
+.heading-cell1 th.row2 {
     background: #ffcc66 !important;
 }
 
