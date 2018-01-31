@@ -19,9 +19,9 @@
 <td>Leave this section blank for now.</td>
 </tr>
 <tr>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
-<td rowspan="4"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="8"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="8"><textarea style="width: 100%; border: none;"/></td>
+<td rowspan="8"><textarea style="width: 100%; border: none;"/></td>
 </tr>
 
 </table>
