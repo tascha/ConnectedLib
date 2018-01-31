@@ -12,7 +12,7 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <br>
 
-<table class="heading-cell4 no-common-style"><tr>
+<table class="heading-cell6 no-common-style"><tr>
 <th colspan="2">OPPORTUNITIES</th></tr>
 <tr class="row1">
 <th>MATERIALS AND EQUIPMENT</th>
@@ -37,7 +37,7 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <br>
 
-<table class="heading-cell4 no-common-style"><tr>
+<table class="heading-cell6 no-common-style"><tr>
 <th colspan="2">CHALLENGES</th></tr>
 <tr class="row1">
 <th>CORPORATE POLICY</th>
