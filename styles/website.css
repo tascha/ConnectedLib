@@ -186,16 +186,16 @@ table-format2 {
     color: white;
 }
 
-.heading-cell4 tr.row2 th {
+.heading-cell4 tr.row1 th {
     background-color: #ffe6b3 !important;
 }
 
 
-.heading-cell4 tr.row3 th {
+.heading-cell4 tr.row2 th {
     background-color: #79d279 !important;
 }
 
-.heading-cell4 tr.row4 th {
+.heading-cell4 tr.row3 th {
 background-color: #cc33ff !important;
 }
 
@@ -208,11 +208,11 @@ background-color: #cc33ff !important;
     color: white;
 }
 
-.heading-cell5 tr.row2 th {
+.heading-cell5 tr.row1 th {
     background-color: #ff471a !important;
 }
 
-.heading-cell5 tr.row3 th {
+.heading-cell5 tr.row2 th {
     background-color: #ff6600 !important;
 }
 
