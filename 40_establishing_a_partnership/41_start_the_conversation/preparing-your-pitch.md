@@ -27,12 +27,12 @@ No matter how persuasive and well-crafted your pitch is, you may be turned down.
 <br>
 
 ___________________________________________________________________________________
-[^35] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016.
+[^35] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">http://www.ala.org/yalsa/yalsamemonly/webinars/webinars.</a>
 
 [^36] Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” _American Libraries_, March 2010\.
 
-[^37] Rutherford, Dawn. “Building Strong Community Partnerships: Sno-Isle Libraries and the Teen Project.” _Young Adult Library Services_ 2010, no. Fall (2010): 23–25.
+[^37] Rutherford, Dawn. “Building Strong Community Partnerships: Sno-Isle Libraries and the Teen Project.” _Young Adult Library Services_ 2010, no. Fall (2010): 23–25.<a href="https://www.questia.com/library/journal/1G1-240588385/building-strong-community-partnerships-sno-isle-libraries">https://www.questia.com/library/journal/1G1-240588385/building-strong-community-partnerships-sno-isle-libraries.</a>
 
-[^38] American Library Association. “Elevator Speech.” Text. Everyday Advocacy, April 28, 2013.
+[^38] American Library Association. “Elevator Speech.” Text. Everyday Advocacy, April 28, 2013.<a href="http://www.ala.org/everyday-advocacy/speak-out/elevator-speech">http://www.ala.org/everyday-advocacy/speak-out/elevator-speech.</a>
 
-[^39] Baxter, Kathleen, and Susan M. Haggberg. “Ladies Who Lunch.” _School Library Journal_ 46, no. 09 (September 2000): 33.
+[^39] Baxter, Kathleen, and Susan M. Haggberg. “Ladies Who Lunch.” _School Library Journal_ 46, no. 09 (September 2000): 33.<a href="http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=502853040&site=ehost-live">http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=502853040&site=ehost-live.</a>
