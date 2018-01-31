@@ -14,42 +14,42 @@ Partnering with schools is particularly challenging for most of the librarians a
 <br>
 <br>
 
-<table class="heading-cell no-common-style"><tr>
+<table class="heading-cell6 no-common-style"><tr>
 <th colspan="2">OPPORTUNITIES</th></tr>
-<tr>
+<tr class="row1">
 <th>AFTERSCHOOL PARTNERSHIPS</th>
 <td>Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building.</td>
 </tr>
-<tr>
+<tr class="row2">
 <th>TOPICAL RESOURCES</th>
 <td>Libraries can provide resources and information literacy programs for students, particularly when the school’s library is under-equipped. Themed presentations or online resources on evergreen subjects like health or history may be valuable to teachers, and library staff can help students learn to use library resources and equipment for science fairs or special projects. Schools with special focuses­—technology, or the arts—may also be receptive to specialized, relevant programming.</td>
 </tr>
-<tr>
+<tr class="row3">
 <th>COMMUNITY SERVICE OPPORTUNITIES</th>
 <td>Many schools require students to perform community service. Libraries can offer service opportunities, but can also facilitate connections between students and other community organizations in need of volunteers.</td>
 </tr>
-<tr>
+<tr class="row4">
 <th>BOLSTER SERVICES BY COMBINING FORCES</th>
 <td>Partnering with a school or school library can help you provide better services and resources to teens who are underserved, marginalized, at-risk, or otherwise disadvantaged. For instance, one library in Virginia allowed rotating portions of their audiobook collection to be housed at a school for the benefit of blind students.</td>
 </tr>
 </table>
 <br>
 
-<table class="heading-cell no-common-style"><tr>
+<table class="heading-cell6 no-common-style"><tr class="row1">
 <th colspan="2">CHALLENGES</th></tr>
 <tr>
 <th>NO TIME FOR EXTRAS</th>
 <td>Teachers and school librarians are notoriously busy. Along with their full daily schedules, their curricula are also “busy”—full of requirements and necessary lessons, activities, and tests. They may not have classroom time to spare for library-related activities. To justify the time and effort required for a library and school to work together, you should be able present a very clear benefit.</td>
 </tr>
-<tr>
+<tr class="row2">
 <th>THE LIBRARY SHOULDN’T FEEL LIKE SCHOOL</th>
 <td>One of the strengths of the public library as an informal learning space is that it’s not school. As INTK_059 put it, “School comes with a lot of negative feelings oftentimes, and this is a much more open-ended space of imagination and freedom.” A library-school partnership shouldn’t make teens feel like they are spending even more time in school.</td>
 </tr>
-<tr>
+<tr class="row3">
 <th>YEARLY SCHEDULES CONFLICT</th>
 <td>“It’s all about the timing,” says Tasha Squires. Teachers and school librarians are particularly busy around the end of the school year, just as public librarians approach a flurry of summer learning activities. Squires recommends discussing potential partnerships around the beginning of the school year, which may be stressful but is a time when “people tend to be fresh and optimistic.” </td>
 </tr>
-<tr>
+<tr class="row4">
 <th>DAILY SCHEDULES CONFLICT</th>
 <td>Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can. </td>
 </tr>
