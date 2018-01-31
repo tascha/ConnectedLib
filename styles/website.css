@@ -246,6 +246,12 @@ table-format2 {
     background-color: #ffff99 !important;
 }
 
+.heading-cell7 tr:nth-child(1) {
+    background: #000000;
+    color: white;
+}
+
+
 .heading-cell7 td th {
     background: #ffffff !important;
 }
