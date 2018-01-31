@@ -25,8 +25,7 @@ No matter how persuasive and well-crafted your pitch is, you may be turned down.
 <br>(Adapted from Squires, T. (2009). Library partnerships: Making connections between school and public libraries. Medford, NJ: Information Today, Inc., page 16). 
 </div>
 <br>
-
-___________________________________________________________________________________
+<hr>
 [^35] Twiggs, Korie, Christina Freitag, and Michelle Nichols. _Partner with a Local Museum to Reach More Teens!_ Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">http://www.ala.org/yalsa/yalsamemonly/webinars/webinars.</a>
 
 [^36] Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” _American Libraries_, March 2010\.
