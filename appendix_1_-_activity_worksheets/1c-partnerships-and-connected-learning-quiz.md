@@ -55,7 +55,7 @@
 </tr>
 <tr>
 <td>A coffee shop near the high school reserves space for an after-school book discussion group led by a librarian to meet once a week</td>
-<td><input type="checkbox"><label> Interests</label><br>
+<td class="cell-width"><input type="checkbox"><label> Interests</label><br>
 <input type="checkbox"><label> Opportunities</label><br>
 <input type="checkbox"><label> Relationships</label><br>
 <input type="checkbox"><label> Multiple pathways</label><br>
