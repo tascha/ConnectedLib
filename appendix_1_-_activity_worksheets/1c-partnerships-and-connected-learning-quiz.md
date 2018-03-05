@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td>The owner of a local game store helps organize video game tournaments at the library</td>
-<td><td><input type="checkbox"><label> Interests</label><br>
+<td><input type="checkbox"><label> Interests</label><br>
 <input type="checkbox"><label> Opportunities</label><br>
 <input type="checkbox"><label> Relationships</label><br>
 <input type="checkbox"><label> Multiple pathways</label><br>
