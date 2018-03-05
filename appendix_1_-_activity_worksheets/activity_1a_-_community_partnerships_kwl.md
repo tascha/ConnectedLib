@@ -1,4 +1,4 @@
-## Activity 1.A - Community Partnerships KWL {#activity-1-a-community-partnerships-kwl}
+## Activity 1A - Community Partnerships KWL {#activity-1-a-community-partnerships-kwl}
 
 ([back to Section 1](../1_introduction/section_1_activities.md))
 
