@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td>The art department at a college in town hosts a library program for teens in their studio space</td>
-<td><input type="checkbox"><label> Interests</label><br>
+<td style="width: 50%; border: none;"><input type="checkbox"><label> Interests</label><br>
 <input type="checkbox"><label> Opportunities</label><br>
 <input type="checkbox"><label> Relationships</label><br>
 <input type="checkbox"><label> Multiple pathways</label><br>
