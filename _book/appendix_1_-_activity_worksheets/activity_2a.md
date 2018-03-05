@@ -1,4 +1,4 @@
-## Activity 2.A {#activity-2-a}
+## Activity 1B {#activity-2-a}
 
 ([back to Section 2](../2_what_is_a_community_partnership/24_section_2_activities.md))
 
