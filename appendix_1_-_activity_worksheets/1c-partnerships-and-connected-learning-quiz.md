@@ -1,4 +1,4 @@
-1C: Partnerships and Connected Learning Quiz
+## 1C: Partnerships and Connected Learning Quiz
 
 <p>For each of the following examples, indicate which Connected Learning principle(s) is illustrated.</p>
 <br>
