@@ -6,6 +6,11 @@
     font-family: arial;
 }
 
+.cell-width {
+
+    width: 30%;
+}
+
 .markdown-section hr {
     height: 1px;
     padding: 0;
