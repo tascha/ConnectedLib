@@ -5,12 +5,12 @@
 <table>
 <tr>
 <td>The art department at a college in town hosts a library program for teens in their studio space</td>
-<td><input type="checkbox"><label>Interests</label>
-<input type="checkbox"><label>Opportunities</label>
-<input type="checkbox"><label>Relationships</label>
-<input type="checkbox"><label>Multiple pathways</label>
-<input type="checkbox"><label>Production centered</label>
-<input type="checkbox"><label>Shared purpose</label>
+<td><input type="checkbox"><label> Interests</label><br>
+<input type="checkbox"><label> Opportunities</label><br>
+<input type="checkbox"><label> Relationships</label><br>
+<input type="checkbox"><label> Multiple pathways</label><br>
+<input type="checkbox"><label> Production centered</label><br>
+<input type="checkbox"><label> Shared purpose</label><br>
 </td>
 </tr>
 <tr>
