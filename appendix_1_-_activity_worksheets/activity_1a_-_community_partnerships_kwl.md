@@ -6,6 +6,8 @@
 
 <br>
 
+<a href="./docs/readme.docx" target="_blank">Download Me</a>
+
 <table class="table-format2"><tr>
 <th colspan="3">What experience do you have with forming or maintaining community partnerships?</th>
 </tr>
