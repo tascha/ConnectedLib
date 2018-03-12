@@ -4,7 +4,7 @@
 <br>
 <i class="fa fa-cloud"></i><a href="./docs/Activity_1A.docx" target="_blank">Word</a>
 <br>
-<i class="fa fa-cloud"></i><a href="./docs/Activity_1A.pdf" target="_blank">PDF</a>
+<i class="fa fa-file-pdf-o" style="font-size:24px;color:red"></i></i><a href="./docs/Activity_1A.pdf" target="_blank">PDF</a>
 <br>
 
 
