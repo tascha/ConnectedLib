@@ -6,7 +6,7 @@ Almost all of a community’s youth can be found in local schools at some point.
 
 Partnering with schools is particularly challenging for most of the librarians and library workers we spoke to. Very few reported having any collaborative relationship at all with their local schools, let alone a thriving partnership.
 
-<div class="table-format"><span class="title"><h5>YALSA SNACK BREAK WITH AUDREY HOPKINS</h5><iframe width="720" height="400" src="https://www.youtube.com/embed/vJpQJKUoXio">
+<div class="table-format"><span class="title"><h5>YALSA SNACK BREAK WITH AUDREY HOPKINS</h5><iframe width="740" height="400" src="https://www.youtube.com/embed/vJpQJKUoXio">
 </iframe><p>(5m20)</p></span><span class="title"><ul><li>YALSA. (2016). YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success. Retrieved from <a href="https://www.youtube.com/watch?v=vJpQJKUoXio">https://www.youtube.com/watch?v=vJpQJKUoXio</a></li></span></div>
 <br>
 
