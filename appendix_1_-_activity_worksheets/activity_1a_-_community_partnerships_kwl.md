@@ -2,7 +2,8 @@
 
 <p>Complete this worksheet by first describing your experience (if any) with forming or maintaining a community partnership. Then create a list of what you already know (the K in KWL) about community partnerships. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.</p>
 <br>
-<a href="./docs/Activity_1A" download>Word</a><br>
+<a href="./docs/Activity_1A" download>Word</a>
+<br>
 <a href="./docs/Activity_1A.pdf" download>PDF</a>
 <br>
 
