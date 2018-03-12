@@ -5,6 +5,9 @@
 <a href="./docs/Activity_1A.docx" download>Download Me</a>
 
 <br>
+<a href="./docs/Activity_1A.pdf" download>Download Me</a>
+
+
 
 <table class="table-format2"><tr>
 <th colspan="3">What experience do you have with forming or maintaining community partnerships?</th>
