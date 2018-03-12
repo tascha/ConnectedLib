@@ -5,6 +5,7 @@
 <a href="./docs/Activity_1A" download>Word</a>
 <br>
 <a href="./docs/Activity_1A.pdf" target="_blank">PDF</a>
+<a href=".docs/Activity_1A.pdf" target="blank">test</a>
 <br>
 
 
