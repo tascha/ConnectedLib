@@ -24,5 +24,4 @@
 <td><textarea style="width: 100px; height: 349px; border: none;"/></td>
 <td><textarea style="width: 100px; height: 349px; border: none;"/></td>
 </tr>
-
 </table>
