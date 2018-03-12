@@ -4,7 +4,7 @@
 <br>
 <a href="./docs/Activity_1A" download>Word</a>
 <br>
-<a href="./docs/Activity_1A.pdf" download>PDF</a>
+<a href="https://www.gitbook/docs/Activity_1A.pdf" download>PDF</a>
 <br>
 
 
