@@ -1,16 +1,9 @@
 {
-<<<<<<< HEAD
-	"plugins":["video","youtube","page-numbering","insert-logo"],
-    "pluginsConfig": {
-        "insert-logo": {
-            "url": "logo/logo2.png"
-=======
-	"plugins":["video","youtube","page-numbering","insert-logo-link"],
+"plugins":["video","youtube","page-numbering","insert-logo-link"],
 "pluginsConfig": {
         "insert-logo-link": {
             "src": "/logo2.png",
             "url": "https://gitbook.com/book/connectedlib/docs"
->>>>>>> adding insert-logo-link plugin
         }
     }
 }
