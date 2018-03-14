@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/logo2.png" align="middle"></div>
+<div style="text-align:center"><img src="logo/logo2.png" align="middle"></div>
 
 # 1\. Introduction {#1-introduction}
 <hr>
