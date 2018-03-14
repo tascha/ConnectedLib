@@ -1,3 +1,8 @@
 {
-	"plugins":["video","youtube","page-numbering"]
+	"plugins":["video","youtube","page-numbering","insert-logo"],
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "docs/logo1.png"
+        }
+    }
 }
