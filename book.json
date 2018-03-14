@@ -2,7 +2,7 @@
 	"plugins":["video","youtube","page-numbering","insert-logo"],
     "pluginsConfig": {
         "insert-logo": {
-            "url": "./gitbook/logo/logo2.png"
+            "url": "connectedlib/logo/logo2.png"
         }
     }
 }
