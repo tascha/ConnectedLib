@@ -1,4 +1,4 @@
-<img src="/logo1.png" height="200" width="600">
+<img src="/logo1.png" height="200" width="600" style="text-align:center">
 # Community Partnerships {#Community Partnerships}
 
 **DESCRIPTION:** Learn how to expand your programs, your resources, and your audience by partnering with people and organizations in the community.
