@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/logo1.png" height="150" width="600"></div><br>
+<div style="text-align:center"><img src="/logo1.png" height="150" width="600"></div>
 
 # Community Partnerships {#Community Partnerships}
 
