@@ -1,3 +1,5 @@
+<img src="/logo2.png" height="200" width="800" align="middle">
+
 # 1\. Introduction {#1-introduction}
 <hr>
 
