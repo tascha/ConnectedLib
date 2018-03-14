@@ -2,7 +2,7 @@
 	"plugins":["video","youtube","page-numbering","insert-logo"],
     "pluginsConfig": {
         "insert-logo": {
-            "url": "/logo2.png"
+            "url": "logo/logo2.png"
         }
     }
 }
