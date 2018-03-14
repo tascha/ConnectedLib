@@ -2,8 +2,8 @@
 "plugins":["video","youtube","page-numbering","insert-logo-link"],
 "pluginsConfig": {
         "insert-logo-link": {
-            "src": "logo/logo2.png",
-            "url": "https://gitbook.com/book/connectedlib/"
+            "src": "/logo2.png",
+            "url": "/logo"
         }
     }
 }
