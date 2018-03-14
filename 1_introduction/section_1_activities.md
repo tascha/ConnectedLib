@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/logo3.png"></div>
+<div style="text-align:center"><img src="logo/logo3.png"></div>
 
 ## SECTION 1 ACTIVITIES {#section-1-activities}
 
