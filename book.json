@@ -3,7 +3,7 @@
 "pluginsConfig": {
         "insert-logo-link": {
             "src": "logo/logo1.png",
-            "url": "https://www.gitbook.com/book/techandsc/connectedlib/content/"
+            "url": "https://www.gitbook.com/book/techandsc/connectedlib/"
         }
     }
 }
