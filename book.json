@@ -2,7 +2,8 @@
 "plugins":["video","youtube","page-numbering","insert-logo-link"],
 "pluginsConfig": {
         "insert-logo-link": {
-            "url": "https://techandsc.gitbooks.io/connectedlib/content/logo/logo1.png"
+            "src": "https://techandsc.gitbooks.io/connectedlib/content/logo",
+            "url": "/logo1.png"
         }
     }
 }
