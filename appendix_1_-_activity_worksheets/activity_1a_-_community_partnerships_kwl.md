@@ -22,8 +22,8 @@
 <td>Leave this section blank for now.</td>
 </tr>
 <tr>
-<td><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
-<td><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
-<td><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
+<td style="width: 33%;"><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
+<td style="width: 33%;"><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
+<td style="width: 33%;"><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
 </tr>
 </table>
