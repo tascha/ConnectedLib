@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/1_introduction/Connectedlib-Logo-Graph.png"></div>
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
 
 ## SECTION 1 ACTIVITIES {#section-1-activities}
 
