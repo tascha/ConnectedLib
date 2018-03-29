@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 ## 3.2 Individuals, Businesses, and Community Groups {#3-2-individuals-businesses-and-community-groups}
 
 <div class="text"> We think we can train ourselves to be anything and oftentimes miss the point: brilliant people are coming into our buildings every day.<sup>22</sup></div>

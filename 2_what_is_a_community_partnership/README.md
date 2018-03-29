@@ -1,3 +1,4 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
 
 # 2\. What is a Community Partnership? {#2-what-is-a-community-partnership}
 <hr>

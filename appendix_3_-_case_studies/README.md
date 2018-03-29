@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 # Appendix 3 - Case Studies {#appendix-3-case-studies}
 <hr>
 

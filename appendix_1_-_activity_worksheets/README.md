@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 # Appendix 1 - Activity Worksheets {#appendix-1-activity-worksheets}
 <hr>
 

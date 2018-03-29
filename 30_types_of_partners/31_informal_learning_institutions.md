@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 ## 3.1 Informal Learning Institutions {#3-1-informal-learning-institutions}
 
 **_It&#039;s very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation... to take those families from the individual branches to the art museum for a field trip. -- INTK_037_**

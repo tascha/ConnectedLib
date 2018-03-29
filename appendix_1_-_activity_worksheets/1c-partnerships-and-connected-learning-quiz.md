@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 ## 1C: Partnerships and Connected Learning Quiz
 
 <p>For each of the following examples, indicate which Connected Learning principle(s) is illustrated.</p>

@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 # 4.0 Establishing a Partnership {#4-0-establishing-a-partnership}
 <hr>
 

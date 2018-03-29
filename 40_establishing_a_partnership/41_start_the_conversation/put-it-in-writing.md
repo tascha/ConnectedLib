@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 ### PUT IT IN WRITING {#put-it-in-writing}
 
 Depending on the size and formality of your project, a written agreement, **contract**, or **memorandum of understanding** may be useful or even required.<sup>[40]</sup>,<sup>[41]</sup>. Contracts are legally binding and are particularly important in situations that involve money, intellectual property, or other resources of value; a memorandum of understanding is not legally binding, but is useful for clarifying and recording agreements.<sup>[42]</sup>.

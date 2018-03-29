@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 ## 4.1 Start the conversation {#4-1-start-the-conversation}
 
 When you first approach your partner, you can bring a partnership idea to the table, but be flexible — you may not know all their needs and capabilities at first. If possible, get a feel for how they work, what they&#039;re doing, and what their needs are by attending community meetings or events they hold.<sup>31</sup> Make sure you can speak to how the library’s vision is complementary to your potential partner’s mission.<sup>32</sup>

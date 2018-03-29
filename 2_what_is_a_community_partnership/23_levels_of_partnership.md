@@ -1,3 +1,6 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
+
 ## 2.3 Levels of Partnership {#2-3-levels-of-partnership}
 
 Partners can have varying levels of engagement and commitment, from simply networking and sharing ideas to long-term co-management of projects. Different levels of engagement may be appropriate for different partners, depending on your respective goals and resources. Just because the partnership is less intense does not mean it is less valuable to your teens.

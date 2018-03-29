@@ -1,3 +1,6 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
+
 ## 2.1 How Partners Can Help Teen Services Librarians {#2-1-how-partners-can-help-teen-services-librarians}
 
 

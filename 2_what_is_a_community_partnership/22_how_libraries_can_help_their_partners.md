@@ -1,3 +1,6 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
+
 ## 2.2 How Libraries Can Help Their Partners {#2-2-how-libraries-can-help-their-partners}
 
 <div class="text">“I've been most recently working with the Boys &amp; Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.” - INTS_063</div>

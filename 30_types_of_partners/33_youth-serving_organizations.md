@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 ## 3.3 Youth-Serving Organizations {#3-3-youth-serving-organizations}
 
 **_We&#039;ve partnered with a non-profit organization... and they&#039;re local and their focus is to get everyone coding… We&#039;re both really excited. He loves libraries, and wanted to get technology and his organization doesn&#039;t really have a building. They just teach, but they don&#039;t have a site. So libraries are always good for space. So we were able to come together for a Computer Science Education Week_**.** _-- INTK_033_**

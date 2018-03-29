@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 ## 4.3 Sustaining and strengthening partnerships {#4-3-sustaining-and-strengthening-partnerships}
 
 If your collaboration is ongoing, be sure to have check-ins to get feedback from everyone involved in the partnership at regular intervals. Make sure everything is going smoothly and as planned, but don’t stop there. Re-evaluate your collaboration regularly and look for ways to improve or enhance the partnership, perhaps moving to the next level of partnership as outlined in section 2.3,<a href="../2_what_is_a_community_partnership/23_levels_of_partnership.md">Levels of Partnership.</a>

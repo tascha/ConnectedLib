@@ -1,3 +1,6 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
+
 ## 2.4 Section 2 Activities {#2-4-section-2-activities}
 
 *   **REFLECT -** [**_Activity 2.A_**](../appendix_1_-_activity_worksheets/activity_2a.md)**.** What community organizations, businesses, groups, or people does your youth services department partner with already? Who has partnered with your department in the past? Indicate what level of partnership it was. Then provide a short description of each partnership on the worksheet provided, making sure to include 1) what the library contributed to the partnership and 2) what the partner contributed.

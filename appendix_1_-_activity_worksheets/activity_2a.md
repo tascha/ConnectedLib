@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
 ## Activity 1B {#activity-2-a}
 
 ([back to Section 2](../2_what_is_a_community_partnership/24_section_2_activities.md))
