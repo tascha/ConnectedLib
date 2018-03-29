@@ -1,6 +1,6 @@
 # Summary
 
-* [ConnectedLib](README.md)
+* [Community Partnership](README.md)
 * [1. Introduction](1_introduction/README.md)
   * [SECTION 1 ACTIVITIES](1_introduction/section_1_activities.md)
 * [2. What is a Community Partnership? ](2_what_is_a_community_partnership/README.md)
