@@ -2,7 +2,7 @@
 "plugins":["video","youtube","page-numbering","insert-logo-link"],
 "pluginsConfig": {
         "insert-logo-link": {
-            "src": "logo/ConnectedLib-Logo and slogan.png",
+            "src": "logo/ConnectedLib-Logo-Transparent.png",
             "url": "https://www.gitbook.com/book/techandsc/connectedlib/"
         }
     }
