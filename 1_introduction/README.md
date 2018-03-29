@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/logo/logo2.png"></div>
+<div style="text-align:center"><img src="/1_introduction/Connectedlib-Logo-Graph.png"></div>
 
 # 1\. Introduction {#1-introduction}
 <hr>
