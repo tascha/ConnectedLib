@@ -29,4 +29,5 @@
 * [Appendix 2 - Resources](appendix_2_-_resources/README.md)
   * [Section 4.1 - Research & Contact Record](appendix_2_-_resources/section_41_-_research_&_contact_record.md)
 * [Appendix 3 - Case Studies](appendix_3_-_case_studies/README.md)
+  * [Appendix 3.1](appendix_3_-_case_studies/appendix-31.md)
 
