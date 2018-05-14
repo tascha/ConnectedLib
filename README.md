@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/logo/ConnectedLib-Logo and slogan.png" height="150" width="500"></div>
+<div style="text-align:center"><img src="/logo/ConnectedLib-Logo and slogan.png" width="500"></div>
 
 #Community Partnerships {#Community Partnerships}
 
