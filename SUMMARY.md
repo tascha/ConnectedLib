@@ -2,7 +2,8 @@
 
 * [Community Partnership](README.md)
 * [1. Introduction](1_introduction/README.md)
-  * [SECTION 1 ACTIVITIES](1_introduction/section_1_activities.md)
+  * [Section 1 Activities](1_introduction/section_1_activities.md)
+    * [1A. Community Partnerships KWL](1_introduction/section_1_activities/activity-1a-community-partnerships-kwl.md)
 * [2. What is a Community Partnership? ](2_what_is_a_community_partnership/README.md)
   * [2.1 How Partners Can Help Teen Services Librarians](2_what_is_a_community_partnership/21_how_partners_can_help_teen_services_librarians.md)
   * [2.2  How Libraries Can Help Their Partners](2_what_is_a_community_partnership/22_how_libraries_can_help_their_partners.md)

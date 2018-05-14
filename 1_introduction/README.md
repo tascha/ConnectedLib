@@ -16,7 +16,7 @@ A planetarium evaluates library branches locations for stargazing potential. A u
 
 In this module, you will learn more about these examples of community partnerships—important resources for connected learning experiences that help youth services librarians provide their patrons with experiences and opportunities from outside the familiar confines of home, school, and the library itself.<sup>2</sup>
 
-In order to prepare youth with the 21st-century skills they need in today’s information-based society, public libraries have become “kitchen[s] for ‘mixing resources’ in order to empower teens to build skills, develop understanding, create and share, and overcome adversity.”<sup>3</sup> To provide teens with a diverse set of “resources” to “mix”, public libraries need to reach beyond their own walls into the community. Community partnerships help libraries connect youth to learning opportunities and enrich their social networks with peers and mentors who will help them learn.<sup>4</sup>
+In order to prepare youth with the 21st-century skills they need in today’s information-based society, public libraries have become “kitchen[s] for ‘mixing resources’ in order to empower teens to build skills, develop understanding, create and share, and overcome adversity.”<sup>3</sup> To provide teens with a diverse set of “resources” to “mix,” public libraries need to reach beyond their own walls into the community. Community partnerships help libraries connect youth to learning opportunities and enrich their social networks with peers and mentors who will help them learn.<sup>4</sup>
 
 {% raw %}
 <table class="heading-cell no-common-style"><tr>
