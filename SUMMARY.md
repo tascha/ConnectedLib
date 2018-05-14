@@ -5,6 +5,7 @@
   * [Section 1 Activities](1_introduction/section_1_activities.md)
     * [1A. Community Partnerships KWL](1_introduction/section_1_activities/activity-1a-community-partnerships-kwl.md)
     * [1B. Share With the Class](1_introduction/section_1_activities/1b-share-with-the-class.md)
+    * [1C. Test Yourself](1_introduction/section_1_activities/1c-test-yourself.md)
 * [2. What is a Community Partnership? ](2_what_is_a_community_partnership/README.md)
   * [2.1 How Partners Can Help Teen Services Librarians](2_what_is_a_community_partnership/21_how_partners_can_help_teen_services_librarians.md)
   * [2.2  How Libraries Can Help Their Partners](2_what_is_a_community_partnership/22_how_libraries_can_help_their_partners.md)

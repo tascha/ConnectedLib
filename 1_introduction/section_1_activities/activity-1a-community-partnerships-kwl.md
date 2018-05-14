@@ -1,9 +1,11 @@
-<h1>1A. Community Partnerships KWL</h1>
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+
+## 1A. Community Partnerships KWL
 Complete this worksheet by first describing your experience (if any) with forming or maintaining a community partnership. Then create a list of what you already know (the K in KWL) about community partnerships. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.
 
-<i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>[Word](https://techandsc.gitbooks.io/connectedlib/appendix_1_-_activity_worksheets/docs/Activity_1A.docx)
+<i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>Word version TK
 
-<i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>[PDF](https://techandsc.gitbooks.io/connectedlib/appendix_1_-_activity_worksheets/docs/Activity_1A.pdf)
+<i class="fa fa-file-pdf-o" style="font-size:24px;color:blue;"></i>PDF version TK
 
 <br>
 
