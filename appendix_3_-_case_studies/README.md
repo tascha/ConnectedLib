@@ -6,10 +6,11 @@
 
 
 <hr/>
-{#pplRISD}
-| Providence Public Library & Rhode Island School of Design |
+### Providence Public Library & the Rhode Island School of Design {#pplRISD}
+|Fashion Forward|
 |---|
 |For a program about 1920’s fashion, Providence Public Library partnered with the Rhode Island School of Design, a prestigious institution located only a few blocks away. An instructor from the school’s Young Artist program provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a professional designer gave teens an experience that would not have been possible with the library’s resources alone.|
+
 <br>
 <div class="table-format"><span class="title"><h5>CHARLOTTE MECKLENBURG LIBRARY 
 AND THE MECKLENBURG COUNTY SHERIFF’S OFFICE</h5></span>The Mecklenburg County Sheriff's Office had operated a successful library system in the two county jails for years, but administrators saw a need to increase programming for youthful offenders. The jail did not have the staff capacity to handle more specialized programming, so the jail library's director—a former public librarian—reached out to the Charlotte Mecklenburg Library. Administrators at the public library immediately saw the benefits of such a partnership to the jail (better programming for their youth), the library (the ability to reach an audience that was unable to visit the library), and the community (youth would be better prepared for life after release). <br>
