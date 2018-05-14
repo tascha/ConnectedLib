@@ -13,7 +13,7 @@ Complete this worksheet by first describing your experience (if any) with formin
 <th colspan="3">What experience do you have with forming or maintaining community partnerships?</th>
 </tr>
 <tr>
-<td colspan="3"><textarea style="width: 100%; height: 350px; border: none;"/></td>
+<td colspan="3" height="350"></td>
 </tr>
 <tr>
 <th>Know</th>
