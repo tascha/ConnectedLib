@@ -2,11 +2,11 @@
 
 ## 3.2 Individuals, Businesses, and Community Groups {#3-2-individuals-businesses-and-community-groups}
 
-<div class="text"> We think we can train ourselves to be anything and oftentimes miss the point: brilliant people are coming into our buildings every day.<sup>22</sup></div>
+**_"We think we can train ourselves to be anything and oftentimes miss the point: brilliant people are coming into our buildings every day."_**<sup>22</sup></div>
 
 Private individuals, local businesses, and community groups that are not oriented towards youth or social services may not be obvious potential partners, but they are rich and often untapped assets for a library’s teen services. These types of partnerships are some of the most valuable for providing professional expertise in a variety of areas that teens might be interested in, thus extending the capacity of the library’s youth services without requiring extensive staff training or new hires.
 
-<div class="text"> The library is considered not only a foundation to the community, but a good community supporter. We say, &quot;How can the library partner with you?&quot; And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We&#039;re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed. -- INTS_047</div>
+**_"The library is considered not only a foundation to the community, but a good community supporter. We say, &quot;How can the library partner with you?&quot; And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We&#039;re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed." -- Southern Urban Library    _**</div>
 <br>
 
 <br>
@@ -18,7 +18,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <th colspan="2">OPPORTUNITIES</th></tr>
 <tr class="row1">
 <th>MATERIALS AND EQUIPMENT</th>
-<td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3-D printers.<sup>23</sup>,<sup>24</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td>
+<td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3D printers.<sup>23</sup>,<sup>24</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td>
 </tr>
 <tr class="row2">
 <th>COMMUNITY GROUPS</th>
@@ -30,7 +30,7 @@ Private individuals, local businesses, and community groups that are not oriente
 </tr>
 <tr class="row4">
 <th>EXCHANGING EXPERTISE</th>
-<td>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant-writing.</td>
+<td>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant writing.</td>
 </tr>
 
 
@@ -47,14 +47,8 @@ Private individuals, local businesses, and community groups that are not oriente
 </tr>
 <tr class="row2">
 <th>INEXPERIENCE WITH TEENS</th>
-<td>The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. INTS_006 says of working with a retired electrical engineer on a regular robotics program, “He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”</td>
+<td>The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. A rural western library worker says of working with a retired electrical engineer on a regular robotics program: “He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”</td>
 </tr>
-<tr class="row3">
-<th>PARENTS AND FAMILY MEMBERS</th>
-<td>Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups.</td>
-</tr>
-
-
 
 </table>
 

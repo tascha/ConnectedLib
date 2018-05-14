@@ -3,7 +3,7 @@
 
 ## 2.2 How Libraries Can Help Their Partners {#2-2-how-libraries-can-help-their-partners}
 
-<div class="text">“I've been most recently working with the Boys &amp; Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.” - INTS_063</div>
+<div class="text">“I've been most recently working with the Boys &amp; Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.” -- Suburban Midwest Library</div>
 <br>
 <br>
 The benefits of a partnership to the library are clear, but what about the benefit to the partnering organization or individual? Remember that a partnership supports the goals of both organizations, not just the library. When you approach a potential partner you should present the ways they will benefit as well as what the library and the youth stand to gain.

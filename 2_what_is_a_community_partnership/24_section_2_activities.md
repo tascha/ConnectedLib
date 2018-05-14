@@ -1,12 +1,10 @@
 <div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
 
 
-## 2.4 Section 2 Activities {#2-4-section-2-activities}
+## Section 2 Activities {#2-4-section-2-activities}
 
-*   **REFLECT -** [**_Activity 2.A_**](../appendix_1_-_activity_worksheets/activity_2a.md)**.** What community organizations, businesses, groups, or people does your youth services department partner with already? Who has partnered with your department in the past? Indicate what level of partnership it was. Then provide a short description of each partnership on the worksheet provided, making sure to include 1) what the library contributed to the partnership and 2) what the partner contributed.
-*   **SHARE - Activity 2.B.** Take a look at the list you created in Activity 2.A. In your opinion, which of those partnerships is or was the “best?” Describe the partnership to the group in the discussion forum, and explain how you came to the decision that it was the “best.”
-*   **ASSESS - Activity 2.C** - Which of the following scenarios describes a community partnership?
-    *   A public library has received a $5,000 grant from a national corporation to update the technology in the teen space. [Not a community partnership; the corporation is not local and only disseminates funds to the library, not working _with_ the library in a meaningful way.]
-    *   The employee of a national chain of computer stores mentors teens on her own time during a once-a-week learning lab. [Community partnership; the volunteer is from the local community and is fulfilling personal goals by volunteering.]
-    *   The manager of a local store that is part of a national chain donates gift cards to the library to use as prizes for teen competitions [Community partnership; the manager and store are local, and the donation is good PR for his store. In addition, forming relationships through small actions like this can lead to more extensive partnerships in the future.]
-    *   The library has just bought a new 3D printer, and both library staff and teens need to learn how to use it. The library hires a trainer who holds a previously-developed workshop in the library space. [Not a community partnership; this is simply a transactional relationship.]
+[2A. Your Library Partners](/2_what_is_a_community_partnership/24_section_2_activities/2a-your-library-partners.html)
+
+[2B. Your "Best" Partnerships](/2_what_is_a_community_partnership/24_section_2_activities/2b-your-best-partnerships.html)
+
+[2C. Test Yourself](/2_what_is_a_community_partnership/24_section_2_activities/2c-learning-check.html)

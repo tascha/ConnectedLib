@@ -1,11 +1,10 @@
 <div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
 
-### PREPARING YOUR PITCH {#preparing-your-pitch}
+### Preparing Your Pitch {#preparing-your-pitch}
 
 A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup>37</sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to pique the interest of anyone whose ear you’d like to bend about libraries.”<sup>38</sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships.
 
-<br>
-**BUILDING A RELATIONSHIP**
+#### Building a Relationship
 
 <div class="text">“It was just a get-to-know-you lunch. Yet, unbeknownst to us, as we sipped soup and ordered sandwiches, we were laying the groundwork for a long, fruitful partnership.” -- Kathleen Baxter and Susan M. Haggberg<sup>39</sup>
 </div>
@@ -14,10 +13,9 @@ A community partnership should benefit all stakeholders — the library, the par
 
 You can start building relationships with other organizations without a concrete or even a vague goal in mind. Networking with people who have a different perspective on the youth in your community is valuable in and of itself. It’s also a good idea to have an idea of what other organizations are doing for youth, so you don’t duplicate efforts. Informal relationships are often the catalyst for creative partnership ideas born out of simply chatting with each other about your work.
 
-<br>
-**WHAT IF THEY SAY NO?**
+### What If They Say No?
 
-<div class="text">“People are afraid of the "no", and that's truly the worst that can happen. I have been shut down so many times I'm like, ‘Alright, well, there's five more ice cream shops on this block, so I'll find something.’” -- MLAFocusGroup</div>
+<div class="text">“People are afraid of the 'no,' and that's truly the worst that can happen. I have been shut down so many times I'm like, ‘Alright, well, there's five more ice cream shops on this block, so I'll find something.’” -- MLAFocusGroup</div>
 <br>
 
 No matter how persuasive and well-crafted your pitch is, you may be turned down. Don’t take it personally. Turn it into a learning experience by understanding why the potential partner wasn’t on board. Did you start the conversation with a fully formed concept, without letting them share their input and expertise? Accept critical feedback with grace and an open mind, then determine if it is worth adjusting your approach moving forward. Perhaps you can even re-approach the same partner in the future.

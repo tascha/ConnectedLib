@@ -6,5 +6,5 @@
 
 [1B. Share With the Class](/1_introduction/section_1_activities/1b-share-with-the-class.html)
 
-[1C. Test Yourself](/1_introduction/section_1_activities/1c-test-yourself.html)
+[1C. Learning Check](/1_introduction/section_1_activities/1c-test-yourself.html)
 
