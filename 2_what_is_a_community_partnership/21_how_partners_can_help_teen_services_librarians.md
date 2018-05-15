@@ -13,9 +13,9 @@ There are many ways that community partnerships can benefit libraries. Partners 
 
 One of the most powerful ways partners can help libraries is by letting teens experience a diverse range of careers, opportunities, and interests. A professional can share expertise and real-world insight beyond what even the most accomplished teen services librarian can provide. Partners can mentor youth or library staff, and can be resources for programming.
 
-|Providence Public Library and the Rhode Island School of Design|
+|<div class="table-format case-study">Providence Public Library and the Rhode Island School of Design</div>|
 |---|
-|<div style="background:pink;">For a program about 1920’s fashion, Providence Public Library partnered with the Rhode Island School of Design, a prestigious institution located only a few blocks away. An instructor from the school’s Young Artist program provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a professional designer gave teens an experience that would not have been possible with the library’s resources alone.</div>|
+|For a program about 1920’s fashion, Providence Public Library partnered with the Rhode Island School of Design, a prestigious institution located only a few blocks away. An instructor from the school’s Young Artist program provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a professional designer gave teens an experience that would not have been possible with the library’s resources alone.|
 
 
 

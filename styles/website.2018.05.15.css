@@ -1,59 +1,24 @@
 .table-format {
+    background: #80ccff;
     border: 1px solid black;
     padding-left: 15px;
     padding-right: 15px;
-    margin-bottom: 15px;
+    font-family: arial;
 }
-
-/* styles for different callout boxes */
-
-.objectives {
-    background: #C9DAF8;
-}
-
-.sidebar {
-    background: #D9EAD3;
-}
-
-.case-study {
-    background: #D9D2E9;
-}
-
-blockquote p.comments-section {
-    color: black;
-    font-weight: bold;
-}
-
-/* end callout box styles */
-
-/* styles for row colors */
-
-.orange {
-    background-color: #fe9a85;
-}
-
-/* end styles for row colors */   
-
-/* other custom stuff */
-
-iframe {
-    text-align: center;
-}
-
-/* end custom stuff */  
 
 .cell-width {
 
     width: 30%;
 }
 
-/*  .markdown-section hr {
+.markdown-section hr {
     height: 1px;
     padding: 0;
     margin-top: 0.5em;
     overflow: hidden;
     background-color: black;
-    border: none; */
+    border: none;
+}
 
 .table-format1 {
     background: #c2f0c2;
