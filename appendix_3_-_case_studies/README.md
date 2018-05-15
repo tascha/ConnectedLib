@@ -65,17 +65,6 @@
 |<ul><li><a href="https://www.youtube.com/watch?v=9R54-rfBFTg"><b>YALSA Snack Break: Salvador Avila Connecting Teens & Community</b></a></li><li><a href="https://www.instagram.com/stemdjs/"><b>STEM DJs</b></a> [Instagram account]. (2017, Las Vegas-Clark County Library District).</li><li><a href="http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/"><b>DJing By the Book</b></a> (2016, Amber Sampson). Vegas Seven. </li></ul>|
 
 
-## ConnectedLib Participants 
-
-| New Audiences at the Library |
-|---|
-|Partnerships can be a way to introduce new youth to the library when your partner brings their existing audiences to you.</p><ul><li>A suburban library in the midwest holds STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>Another library's partnership with a high school e-sports club often brings new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring the Parks and Rec visitors into the library.</li></ul>|
-
-
-
-
-<br>
-
 ## YOUMedia Chicago (Chicago Public Library) {#youmedia}
 |The National Veterans Art Museum|
 |---|
