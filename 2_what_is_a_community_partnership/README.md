@@ -18,7 +18,7 @@ Partnerships are not formed by simple client and contractor relationships. Altho
 </div>
 <br>
 
-### PARTNERSHIPS BENEFIT THE COMMUNITY, TOO {#partnerships-benefit-the-community-too}
+### Partnerships benefit the community, too
 
 The community also benefits when libraries join forces with other organizations.
 
