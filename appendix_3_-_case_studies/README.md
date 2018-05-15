@@ -19,11 +19,6 @@
 
 
 
-### Charlotte Mecklenburg Library {#cml}
-| Programs for Youthful Offenders |
-|---|
-|The Mecklenburg County Sheriff's Office had operated a successful library system in the two county jails for years, but administrators saw a need to increase programming for youthful offenders. The jail did not have the staff capacity to handle more specialized programming, so the jail library's director—a former public librarian—reached out to the Charlotte Mecklenburg Library. Administrators at the public library immediately saw the benefits of such a partnership to the jail (better programming for their youth), the library (the ability to reach an audience that was unable to visit the library), and the community (youth would be better prepared for life after release). Library staff were able to use existing youth programming modified slightly for the youth at the jail. For instance, they offered single-session versions of some classes, for youth who were about to be released, and they made connections to other youth programs that were available at the jail. |
-|<ul><li><a href="http://yalsa.ala.org/yals/yalsarchive/volume9/9n1_fall2010.pdf#page=22"><b>High Impact Partnership: Serving Youth Offenders</b></a>. (2010). By Angela Craig. In Young Adult Library Services, 2010(Fall), 20-22.</li></ul>|
 
 ### St. Paul Public Library
 |CREATECH|
@@ -43,16 +38,9 @@
 
 ## A Rural Midwestern Library {#INTK005}
 
-| Local Business Partners |
-|---|
-|Simple partnerships can lead to more extensive collaborations as the relationship develops. In a midwestern town surrounded by rural farmland, a librarian has developed a great relationship with a local game store. The owner donates merchandise to be used as trivia prizes and themed snacks for movie nights (**_“For our Naruto movie, everybody went home with either wasabi candy or ginger candy.”_**) He shares his expertise by running video game tournaments at the library and judging a game-making contest. In return, the store earns exposure and goodwill with the teens, and the library buys gift cards from the store as additional prizes. |
 
-## Denver Public Library {#dpl}
 
-| Community Mapping |
-|---|
-|In 2013, Denver Public Library launched a year-long project to improve their teen services with the help of a community asset mapping project. They identified many teen-related organizations in Denver and interviewed 40 of them, asking them about their work, the teens they serve, potential partnerships with the library, and any gaps they saw in services for teens in the community. They also interviewed library staff and held focus groups with teens. <br/><br/>The interviews with the other youth-serving organizations revealed not just information about the organizations’ services, but also information about key issues facing Denver teens. The resulting report and its recommendations served as a guide as the library began forming partnerships and developing new programs for teens. |
-|<ul><li><a href="http://www.ala.org/pla/sites/ala.org.pla/files/content/about/fellows/TAMFinalReport.pdf"><b>Teen Asset Mapping Report: A Report and Recommendations From the Denver Public Library</b></a>. (Denver Public Library, 2014). </li><li><a href="http://www.slj.com/2016/03/teens-ya/denver-teen-programs-revived-thanks-to-asset-mapping/"><b>Denver Teen Programs Revived, Thanks to Asset Mapping</b></a>. (Linda Jacobson, 2016). School Library Journal. </li></ul>|
+
 
 
 
