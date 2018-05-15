@@ -11,6 +11,14 @@
 |---|
 |For a program about 1920’s fashion, Providence Public Library partnered with the Rhode Island School of Design, a prestigious institution located only a few blocks away. An instructor from the school’s Young Artist program provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a professional designer gave teens an experience that would not have been possible with the library’s resources alone.|
 
+|Learning About History with the Laotian Community Center|
+|---|
+|The executive director of the Laotian Community Center wanted to capture the stories of the seniors in the Laotian community in Providence, Rhode Island, many of whom came to the United States as refugees. Brainstorming with Providence Public Library led to a project to teach teens how to create oral histories. Librarians at PPL were able to adapt an existing workshop to be suitable for the context and participants and conducted a day-long program at the community center with the help of a third partner: a graduate student from nearby Brown University. The program taught the teens history, interview techniques, and media skills, and led to additional collaborations between some of the partners.|
+
+
+
+
+
 ### Charlotte Mecklenburg Library {#cml}
 | Programs for Youthful Offenders |
 |---|
@@ -46,42 +54,37 @@
 |In 2013, Denver Public Library launched a year-long project to improve their teen services with the help of a community asset mapping project. They identified many teen-related organizations in Denver and interviewed 40 of them, asking them about their work, the teens they serve, potential partnerships with the library, and any gaps they saw in services for teens in the community. They also interviewed library staff and held focus groups with teens. <br/><br/>The interviews with the other youth-serving organizations revealed not just information about the organizations’ services, but also information about key issues facing Denver teens. The resulting report and its recommendations served as a guide as the library began forming partnerships and developing new programs for teens. |
 |<ul><li><a href="http://www.ala.org/pla/sites/ala.org.pla/files/content/about/fellows/TAMFinalReport.pdf"><b>Teen Asset Mapping Report: A Report and Recommendations From the Denver Public Library</b></a>. (Denver Public Library, 2014). </li><li><a href="http://www.slj.com/2016/03/teens-ya/denver-teen-programs-revived-thanks-to-asset-mapping/"><b>Denver Teen Programs Revived, Thanks to Asset Mapping</b></a>. (Linda Jacobson, 2016). School Library Journal. </li></ul>|
 
-## YOUMedia Chicago {#youmedia}
-|YOUMedia and the National Veterans Art Museum|
+
+
+## Las Vegas-Clark County Library {#lvcc}
+
+|The Learn to DJ Lab|
+|---|
+|The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Partnerships with local government agencies and organizations like the Girl Scouts of Nevada provide teens with opportunities to showcase their skills before a public audience, and provide the organizations with entertainment for their events.||
+|<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/ukdUrfo6LVM"></iframe>|
+|<ul><li><a href="https://www.youtube.com/watch?v=9R54-rfBFTg"><b>YALSA Snack Break: Salvador Avila Connecting Teens & Community</b></a></li><li><a href="https://www.instagram.com/stemdjs/"><b>STEM DJs</b></a> [Instagram account]. (2017, Las Vegas-Clark County Library District).</li><li><a href="http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/"><b>DJing By the Book</b></a> (2016, Amber Sampson). Vegas Seven. </li></ul>|
+
+
+## ConnectedLib Participants 
+
+| New Audiences at the Library |
+|---|
+|Partnerships can be a way to introduce new youth to the library when your partner brings their existing audiences to you.</p><ul><li>A suburban library in the midwest holds STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>Another library's partnership with a high school e-sports club often brings new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring the Parks and Rec visitors into the library.</li></ul>|
+
+
+
+
+<br>
+
+## YOUMedia Chicago (Chicago Public Library) {#youmedia}
+|The National Veterans Art Museum|
 |---|
 |Chicago Public Library’s YOUmedia program and the <a href="http://www.nvam.org">National Veterans Art Museum</a> made their first connection through Hive Chicago. The museum hosted weekly art programs in the library’s teen space, which was more centrally located and had an established teen community. Museum staff modified their workshop programming to suit YOUmedia’s “drop-in” style.|
 |<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/CkqyRzRehbM"></iframe>|
 | <ul><li><b>A Partnership Tale: YOUMedia and the National Veterans Art Museum</b>. (Christine Bespalec-Davis, 2014). Young Adult Library Services, 2014(Fall), 18–19</li><li><a href="https://www.chipublib.org/news/youmedia-to-visit-the-national-veterans-art-museum/"><b>YOUmedia to Visit the National Veterans Art Museum</b></a>. (2014, Chicago Public Library).</li></ul>|
 
-<br>
-
-
-<div class="table-format"><span class="title"><h5>CASE STUDY: YOUMEDIA AND THE NATIONAL VETERANS ART MUSEUM </h5></span><p>Chicago Public Library’s YOUmedia program and the National Veterans Art Museum made their first connection through Hive Chicago. The museum hosted weekly art programs in the library’s teen space, which was more centrally located and had an established teen community. Museum staff modified their workshop programming to suit YOUmedia’s “drop-in” style. </p><p>[EMBED VIDEO: <a href="https://youtu.be/CkqyRzRehbM">https://youtu.be/CkqyRzRehbM]</a></p><ul><li>The National Veterans Art Museum. Online at: <a href="http://www.nvam.org/">http://www.nvam.org/</a></li><li>A Partnership Tale: YOUMedia and the National Veterans Art Museum (Christine Bespalec-Davis, 2014). Young Adult Library Services, 2014(Fall), 18–19.</li><li>YOUmedia to Visit the National Veterans Art Museum (2014, Chicago Public Library). Available online: <a href="https://www.chipublib.org/news/youmedia-to-visit-the-national-veterans-art-museum/">https://www.chipublib.org/news/youmedia-to-visit-the-national-veterans-art-museum/</a></li></ul></div>
-
-<br>
-
-
-<div class="table-format"><span class="title"><h5>LEARN TO DJ LAB</h5></span><p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Partnerships with local government agencies and organizations like the Girl Scouts of Nevada provide teens with opportunities to showcase their skills before a public audience, and provide the organizations with entertainment for their events.</p><p>[EMBED VIDEO: <a href="https://www.youtube.com/watch?v=ukdUrfo6LVM">https://www.youtube.com/watch?v=ukdUrfo6LVM]</a></p><ul><li>YALSA Snack Break: Salvador Avila Connecting Teens & Community (date?, YALSA and Salvador Avila). Online at: <a href="https://www.youtube.com/watch?v=9R54-rfBFTg">https://www.youtube.com/watch?v=9R54-rfBFTg </a></li><li>STEM DJs [Instagram account] (2017, Las Vegas-Clark County Library District). Online at: https://www.instagram.com/stemdjs/</li><li>DJing By the Book (2016, Amber Sampson). Vegas Seven. Online at: <a href="http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/">http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/</a></li></ul></div>
-
-<br>
-
-
-<div class="table-format"><span class="title"><h5>NEW AUDIENCES AT THE LIBRARY</h5></span><p>Partnerships can be a way to introduce new youth to the library when your partner brings their existing audiences to you.</p><ul><li>INTS_063 holds STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>YAL_2015_11_07’s partnership with a high school e-sports club often brings new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring in the Parks and Rec visitors to the library.</li></ul></div>
-
-<br>
-
-
-
-<div class="table-format"><span class="title"><h5>LEARNING ABOUT HISTORY WITH THE LAOTIAN COMMUNITY CENTER</h5></span>The executive director of the Laotian Community Center wanted to capture the stories of the seniors in the Laotian community in Providence, Rhode Island, many of whom came to the United States as refugees. Brainstorming with Providence Public Library led to a project to teach teens how to create oral histories. Librarians at PPL were able to adapt an existing workshop to be suitable for the context and participants and conducted a day-long program at the community center with the help of a third partner: a graduate student from nearby Brown University. The program taught the teens history, interview techniques, and media skills, and led to additional collaborations between some of the partners.
-</div>
-
-<br>
-
-
-
-<div class="table-format"><span class="title"><h5>ADLER PLANETARIUM AND CHICAGO PUBLIC LIBRARY</h5></span>Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.<br>
-Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [Adobe Connect recording]. Chicago, IL: YALSA. Retrieved from http://www.ala.org/yalsa/yalsamemonly/webinars/webinars
-</div>
-
-<br>
+|Adler Planetarium|
+|---|
+|Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.|
+| <ul><li><a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars"><b>Partner with a local museum to reach more teens!</b></a> [Adobe Connect recording]. Twiggs, K., Freitag, C., & Nichols, M. (2016). Chicago, IL: YALSA.</li></ul>|
 
