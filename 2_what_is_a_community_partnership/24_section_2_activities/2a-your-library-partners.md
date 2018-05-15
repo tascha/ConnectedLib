@@ -13,7 +13,7 @@ What community organizations, businesses, groups, or people does your youth serv
 <th colspan="1">Level of Partnership</th>
 <th colspan="1">Description of collaboration</th>
 </tr>
-<tr>
+<tr height="50">
 <td></td>
 <td></td>
 <td></td>
@@ -23,27 +23,27 @@ What community organizations, businesses, groups, or people does your youth serv
 <td></td>
 <td></td>
 </tr>
-<tr>
+<tr height="50">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr>
+<tr height="50">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr>
+<tr height="50">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr>
+<tr height="50">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr>
+<tr height="50">
 <td></td>
 <td></td>
 <td></td>

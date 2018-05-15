@@ -2,25 +2,24 @@
 
 ## 3.2 Individuals, Businesses, and Community Groups {#3-2-individuals-businesses-and-community-groups}
 
-**_"We think we can train ourselves to be anything and oftentimes miss the point: brilliant people are coming into our buildings every day."_**<sup>22</sup></div>
+**_"We think we can train ourselves to be anything and oftentimes miss the point: brilliant people are coming into our buildings every day."_**[^22]
 
 Private individuals, local businesses, and community groups that are not oriented towards youth or social services may not be obvious potential partners, but they are rich and often untapped assets for a library’s teen services. These types of partnerships are some of the most valuable for providing professional expertise in a variety of areas that teens might be interested in, thus extending the capacity of the library’s youth services without requiring extensive staff training or new hires.
 
-**_"The library is considered not only a foundation to the community, but a good community supporter. We say, &quot;How can the library partner with you?&quot; And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We&#039;re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed." -- Southern Urban Library    _**</div>
-<br>
+**_"The library is considered not only a foundation to the community, but a good community supporter. We say, &quot;How can the library partner with you?&quot; And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We&#039;re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed." -- Southern Urban Library    _**
 
-<br>
-<div class="table-format"><span class="title"><h5>COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT</h5><br><iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/30oAIh5y3gE"></iframe><p>(5m06)<br>Edutopia. Community Partners: Making Student Learning Relevant, 2016. <a href="https://www.youtube.com/watch?v=30oAIh5y3gE">https://www.youtube.com/watch?v=30oAIh5y3gE.</a></p></div>
 
-<br>
+<div class="table-format case-study"><span class="title"><h5>COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT</h5></span>
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/30oAIh5y3gE">
+<p>(5m06)<br>Edutopia. Community Partners: Making Student Learning Relevant, 2016.</p></div>
+
+|**OPPORTUNITIES**|
+|**Materials and equipment**<br/>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3D printers.[^23],[^24] They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.|
+|**Parents and family members**|
+
+
 
 <table class="heading-cell6 no-common-style"><tr>
-<th colspan="2">OPPORTUNITIES</th></tr>
-<tr class="row1">
-<th>MATERIALS AND EQUIPMENT</th>
-<td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3D printers.<sup>23</sup>,<sup>24</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td>
-</tr>
-<tr class="row2">
 <th>COMMUNITY GROUPS</th>
 <td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>25</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>26</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>27</sup></td>
 </tr>

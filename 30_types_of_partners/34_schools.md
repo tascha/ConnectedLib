@@ -5,7 +5,7 @@
 
 
 
-**_“This is such an obvious avenue for partnership that it is sometimes overlooked.” -- Tasha Squires<sup>28</sup>_**
+**_“This is such an obvious avenue for partnership that it is sometimes overlooked.” -- Tasha Squires[^28]_**
 
 Almost all of a community’s youth can be found in local schools at some point. Reaching teens through their schools can get them more involved with the library before the steep drop-off in participation that many librarians have reported with older teens. Partnerships with schools also build bridges between a teen’s formal and informal learning spaces—an important element of connected learning.
 
