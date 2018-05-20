@@ -5,7 +5,7 @@
 
 In this section, you’ll learn how community partnerships can benefit the library, and how the library can in turn help partners achieve their goals. We’ll also discuss how community partnerships can be valuable elements of your strategy to promote connected learning in your library.
 
-<div class="table-format"><span class="title"><h5>LEARNING OUTCOMES</h5></span><h5>After completing Section 2, What is a Community Partnership? you will be able to...</h5><ul><li>Describe the ways that partnerships can benefit libraries</li><li>Explain how libraries can benefit their partners</li><li>Recognize different levels of partnership</li></ul>
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES</h5></span>After completing Section 2, What is a Community Partnership? you will be able to...</h5><ul><li>Describe the ways that partnerships can benefit libraries</li><li>Explain how libraries can benefit their partners</li><li>Recognize different levels of partnership</li></ul>
 </div>
 
 <br>

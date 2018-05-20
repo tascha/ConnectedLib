@@ -1,7 +1,7 @@
 <div style="text-align:center"><img src="/1_introduction/Connectedlib-Logo-Graph.png"></div>
 
 # 1\. Introduction {#1-introduction}
-
+<hr/>
 This section looks at the ways community partnerships can support connected learning.
 
 <div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES</h5></span>
