@@ -10,7 +10,7 @@ Don’t underestimate the value of starting small, with informal conversations, 
 <hr>
 [^1] Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” _American Libraries_, March 2010\. 
 
-[^2] McCarthy, Catherine, and Brad Herring. “Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015\. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.
+[^2] McCarthy, Catherine, and Brad Herring. [“Museum &amp; Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.”](http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf) NISE Network, 2015\.
 
 [^3] Coalition to Advance Learning in Archives, Libraries and Museums. [“Best Practices in Collaboration.”](http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/) Coalition to Advance Learning in Archives, Libraries and Museums, 2016.
 

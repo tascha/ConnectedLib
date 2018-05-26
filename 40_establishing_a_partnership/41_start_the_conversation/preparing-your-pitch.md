@@ -29,7 +29,3 @@ No matter how persuasive and well-crafted your pitch is, you may be turned down.
 [^2] American Library Association. [“Elevator Speech.”](http://www.ala.org/everyday-advocacy/speak-out/elevator-speech) Everyday Advocacy, April 28, 2013.
 
 [^3] Baxter, Kathleen, and Susan M. Haggberg. “Ladies Who Lunch.” _School Library Journal 46_(9).
-
-
-
-[^3] Baxter, Kathleen, and Susan M. Haggberg. “Ladies Who Lunch.” _School Library Journal 46_(9).

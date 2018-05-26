@@ -21,10 +21,7 @@ Private individuals, local businesses, and community groups that are not oriente
 |**Exchanging expertise**<br/>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant writing.|
 
 
-
-
-
-<br>
+<p>&nbsp;</p>
 | CHALLENGES |
 | ------- |
 |**Corporate Policy**<br/>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.[^1] Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.[^3] If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.[^1]|
@@ -35,9 +32,7 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <div class="table-format additional-resources"><h5>ADDITIONAL RESOURCES</h5><ul><li>	<b>Sponsorship 101: How Partnerships can Expand Summer Reading </b>(Steven Engelfried & Angela Reynolds, 2002). American Libraries, 2002(February), 49–50.</li><li><b>Partnerships for Teen Tech Week</b> (Stephanie Iser, 2008). Young Adult Library Services, 2008(Winter), 24.</li><li><b>Beyond Public Exhibits to Partnerships </b>(Norman Morton, 2005). American Libraries, 2005(November), 42–45.</li><li><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers"><b>A Guide to Building Partnerships Between Science Museums and University-Based Research Centers.</b></a> (Carol Lynn Alpert, 2013). Advice for working with universities, researchers, and academics..</li></ul></div>
 
-<br>
-
-<hr>
+<hr/>
 
 
 [^1] Iser, Stephanie. [“Partnerships for Teen Tech Week.”](https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week) _Young Adult Library Services_, 2008.
