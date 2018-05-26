@@ -19,14 +19,18 @@ Private individuals, local businesses, and community groups that are not oriente
 |**Community Groups**<br/>Reach out to community groups like Rotary as well as topical organizations or businesses (astronomy clubs, humanities councils, art studios, etc.) to find individuals who would be willing to volunteer their time to work with youth.|
 |**Parents and family members**<br/>Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups.|
 |**Exchanging expertise**<br/>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant writing.|
+
+
+
 | **CHALLENGES** |
+|---|
 |**Corporate Policy**<br/>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.[^1] Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.[^3] If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.[^1]|
 |**Inexperience with Teens**<br/>The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. A rural western library worker says of working with a retired electrical engineer on a regular robotics program: **“He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”**|
 
 
 <br/>
 
-<div class="table-format additional-resources"><h5>ADDITIONAL RESOURCES</h5><ul><li>	<b>Sponsorship 101: How Partnerships can Expand Summer Reading </b>(Steven Engelfried & Angela Reynolds, 2002). American Libraries, 2002(February), 49–50.</li><li><b>Partnerships for Teen Tech Week</b> (Stephanie Iser, 2008). Young Adult Library Services, 2008(Winter), 24.</li><li><b>Beyond Public Exhibits to Partnerships </b>(Norman Morton, 2005). American Libraries, 2005(November), 42–45.</li><li><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers"><b>A Guide to Building Partnerships Between Science Museums and University-Based Research Centers.</b></a> (Carol Lynn Alpert, 2013). Advice for working with universities, researchers, and academics..</li></ul></div>
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span><ul><li>	<b>Sponsorship 101: How Partnerships can Expand Summer Reading </b>(Steven Engelfried & Angela Reynolds, 2002). American Libraries, 2002(February), 49–50.</li><li><b>Partnerships for Teen Tech Week</b> (Stephanie Iser, 2008). Young Adult Library Services, 2008(Winter), 24.</li><li><b>Beyond Public Exhibits to Partnerships </b>(Norman Morton, 2005). American Libraries, 2005(November), 42–45.</li><li><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers"><b>A Guide to Building Partnerships Between Science Museums and University-Based Research Centers.</b></a> (Carol Lynn Alpert, 2013). Advice for working with universities, researchers, and academics..</li></ul></div>
 
 <hr/>
 

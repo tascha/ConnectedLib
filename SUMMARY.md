@@ -1,6 +1,6 @@
 # Summary
 
-* [Community Partnership](README.md)
+* [Community Partnerships](README.md)
 * [1. Introduction](1_introduction/README.md)
   * [Section 1 Activities](1_introduction/section_1_activities.md)
     * [1A. Community Partnerships KWL](1_introduction/section_1_activities/activity-1a-community-partnerships-kwl.md)
