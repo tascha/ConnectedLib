@@ -5,9 +5,6 @@ Complete this worksheet by first describing your experience (if any) with formin
 
 <a href="/assets/Partnerships_1A.docx" target="_blank" >  <i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>Download  worksheet (MS Word) </a>
 
-<i class="fa fa-file-pdf-o" style="font-size:24px;color:blue;"></i>PDF version TK
-
-<br>
 
 <table class="table-format2"><tr>
 <th colspan="3">What experience do you have with forming or maintaining community partnerships?</th>
