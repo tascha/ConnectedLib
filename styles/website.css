@@ -23,7 +23,9 @@
     background: #fee186;
 }
 
-
+h5 {
+    text-align:center;
+    }
 
 blockquote p.comments-section {
     color: black;

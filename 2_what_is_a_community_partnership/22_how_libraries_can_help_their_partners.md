@@ -18,7 +18,7 @@ As community centers, most libraries can offer partners space to conduct their o
 
 A library with an active teen population can provide a ready-made audience for the partners’ activities. They can also help bridge the “trust gap” that new youth-serving organizations may face when they try to offer new services to an audience that is not familiar with them.[^1]
 
-<div class="table-format case-study"><span class="title"><h5>The National Veterans Art Museum</h5></span>
+<div class="table-format case-study"><span class="title"><h5>THE NATIONAL VETERANS ART MUSEUM</h5></span>
 Chicago Public Library’s YOUmedia program and the <a href="http://www.nvam.org">National Veterans Art Museum</a> made their first connection through Hive Chicago. The museum hosted weekly art programs in the library’s teen space, which was more centrally located and had an established teen community. Museum staff modified their workshop programming to suit YOUmedia’s “drop-in” style.
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/CkqyRzRehbM"></iframe>
 <ul><li><b>A Partnership Tale: YOUMedia and the National Veterans Art Museum</b>. (Christine Bespalec-Davis, 2014). Young Adult Library Services, 2014(Fall), 18–19</li><li><a href="https://www.chipublib.org/news/youmedia-to-visit-the-national-veterans-art-museum/"><b>YOUmedia to Visit the National Veterans Art Museum</b></a>. (2014, Chicago Public Library).</li></ul></div>
@@ -42,17 +42,17 @@ Partners don’t always have to come to the library—libraries can bring their 
 
 Any organization that partners with a library can benefit from increased visibility in the community, but the more the organization interacts with patrons the stronger the potential impact can be. Theater, dance, and arts organizations in particular can use workshops to spark community interest in their productions and exhibits and even recruit new members. Some libraries provide community groups with time and space to be available to teens, particularly organizations that provide services like mental health counseling or legal services.
 
-<div class="table-format case-study"><span class="title"><h5>Partnering with Youth-Serving Organizations at a Suburban Northeast Library</h5></span>
+<div class="table-format case-study"><span class="title"><h5>YOUTH-SERVING PARTNERS AT A SUBURBAN NORTHEAST LIBRARY</h5></span>
 To help address the needs of teens in a high-poverty area, the library hosts community organizations to make them more accessible to teens. <b>“We work with other youth organizations who are serving youth… We have a mobile legal team who comes in on a monthly basis to provide free legal support to teens who need it. There are LGBTQ organizations for youth whose information we keep on display regularly. We have community partners from various areas kind of come in and do tabling. Because of the nature of our space, no one's giving presentations but they have access to the teens... We have access to youth, they need access to youth, and we provide them with that access and they provide our youth with resources. It's a beautiful relationship where everyone's benefiting. And just making sure that the relationship is always a two-way beneficial relationship is the key to [sustaining the relationship]."</b></div>
 
 ### Libraries can provide or facilitate service opportunities
 
 Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.[^2] Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library.
 
-<div class="table-format case-study"><span class="title"><h5>Adult Volunteers at a Rural Midwestern Library</h5></span>
+<div class="table-format case-study"><span class="title"><h5>ADULT VOLUNTEERS AT A RURAL MIDWESTERN LIBRARY</h5></span>
 Adult community members are a rich source of expertise for many libraries. Library staff we interviewed spoke highly of their many adult volunteers who work with teens. They use personal connections and relationships to recruit both adult and teen volunteers. <b>“I try my best to remember everybody's name… I build this relationship with every single person that I come in contact with and the next thing you know, they lead me to another person, they lead me to another thing and then we just have so many different partnerships right now. It's awesome. And because we have so much good families, good sentiment where everybody's pitching in, we can do so much more.”</b><p/><p/>One of the biggest benefits to come from this relationship building is the expertise of a retired electrical engineer who was working with the local high school’s computer club. <b>“Somebody mentioned to us that he'd be interested in helping you with the Lego robotics because he likes anything techy and he likes to work with older kids."</b> The librarian invited him to volunteer at the library as well, and he now runs weekly Lego robotics workshops when he’s not enjoying retirement by traveling. The librarian helps by managing the teens. <b>“He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”</b></div>
 
-<hr>
+<hr/>
 
 [^1] Eggers, Dave. _<a href="https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school">My Wish: Once upon a School</a>_. TED, 2008. 
 

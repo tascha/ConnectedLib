@@ -19,11 +19,7 @@ Private individuals, local businesses, and community groups that are not oriente
 |**Community Groups**<br/>Reach out to community groups like Rotary as well as topical organizations or businesses (astronomy clubs, humanities councils, art studios, etc.) to find individuals who would be willing to volunteer their time to work with youth.|
 |**Parents and family members**<br/>Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups.|
 |**Exchanging expertise**<br/>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant writing.|
-
-
-<p>&nbsp;</p>
-| CHALLENGES |
-| ------- |
+| **CHALLENGES** |
 |**Corporate Policy**<br/>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.[^1] Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.[^3] If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.[^1]|
 |**Inexperience with Teens**<br/>The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. A rural western library worker says of working with a retired electrical engineer on a regular robotics program: **“He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”**|
 
