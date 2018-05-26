@@ -4,7 +4,7 @@
 ## 2.1 How Partners Can Help Teen Services Librarians {#2-1-how-partners-can-help-teen-services-librarians}
 
 
-**_“We believe that being the best we can at what we do means not trying to be all things to all people by not trying to do it alone.” — Ali Turner[^5]_**
+**_“We believe that being the best we can at what we do means not trying to be all things to all people by not trying to do it alone.” — Ali Turner[^1]_**
 
 There are many ways that community partnerships can benefit libraries. Partners can broaden the opportunities available to youth and can even increase the youth audience of the library by bringing the library and its services to youth who might not have experienced them otherwise.
 
@@ -23,7 +23,7 @@ Partnerships can be a way to introduce new youth to the library when your partne
 
 ### Partners can bring the library to new audiences
 
-Youth services librarians need to get out of the library building and go to teens “where they are, rather than waiting for teens to to find a way to get to the physical library space.”[^6] Partners might have spaces that youth are already using where you can bring programs. Look back at the list in the previous section—these same organizations might have spaces where you can take your programming.
+Youth services librarians need to get out of the library building and go to teens “where they are, rather than waiting for teens to to find a way to get to the physical library space.”[^2] Partners might have spaces that youth are already using where you can bring programs. Look back at the list in the previous section—these same organizations might have spaces where you can take your programming.
 
 <div class="table-format case-study"><span class="title"><h5>Programs for Youthful Offenders</h5></span>
 The Mecklenburg County Sheriff's Office had operated a successful library system in the two county jails for years, but administrators saw a need to increase programming for youthful offenders. The jail did not have the staff capacity to handle more specialized programming, so the jail library's director—a former public librarian—reached out to the Charlotte Mecklenburg Library. Administrators at the public library immediately saw the benefits of such a partnership to the jail (better programming for their youth), the library (the ability to reach an audience that was unable to visit the library), and the community (youth would be better prepared for life after release). Library staff were able to use existing youth programming modified slightly for the youth at the jail. For instance, they offered single-session versions of some classes, for youth who were about to be released, and they made connections to other youth programs that were available at the jail.
@@ -45,6 +45,6 @@ Simple partnerships can lead to more extensive collaborations as the relationshi
 
 <hr/>
 
-[^5] Turner, Ali. “<a href="http://leonline.com/yals/12n1_fall2013.pdf">Bring Your Dreams to the Library</a>.” _Young Adult Library Services_, 2013. 
+[^1] Turner, Ali. “<a href="http://leonline.com/yals/12n1_fall2013.pdf#page=47">Bring Your Dreams to the Library</a>.” _Young Adult Library Services_, 2013. 
 
-[^6] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “<a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report">The Future of Library Services for and with Teens: A Call to Action</a>.” Chicago, IL: YALSA, 2014, 16.
+[^2] Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “<a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report">The Future of Library Services for and with Teens: A Call to Action</a>.” Chicago, IL: YALSA, 2014, 16.

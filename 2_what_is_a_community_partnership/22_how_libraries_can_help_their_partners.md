@@ -3,7 +3,8 @@
 
 ## 2.2 How Libraries Can Help Their Partners {#2-2-how-libraries-can-help-their-partners}
 
-**_“I've been most recently working with the Boys &amp; Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.” -- Suburban Midwest Library_**
+>“I've been most recently working with the Boys &amp; Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.” <br/>
+-- Suburban Midwest Library
 
 The benefits of a partnership to the library are clear, but what about the benefit to the partnering organization or individual? Remember that a partnership supports the goals of both organizations, not just the library. When you approach a potential partner you should present the ways they will benefit as well as what the library and the youth stand to gain.
 
@@ -15,7 +16,7 @@ As community centers, most libraries can offer partners space to conduct their o
 
 ### Libraries can provide a new audience for partners
 
-A library with an active teen population can provide a ready-made audience for the partners’ activities. They can also help bridge the “trust gap” that new youth-serving organizations may face when they try to offer new services to an audience that is not familiar with them.[^7]
+A library with an active teen population can provide a ready-made audience for the partners’ activities. They can also help bridge the “trust gap” that new youth-serving organizations may face when they try to offer new services to an audience that is not familiar with them.[^1]
 
 <div class="table-format case-study"><span class="title"><h5>The National Veterans Art Museum</h5></span>
 Chicago Public Library’s YOUmedia program and the <a href="http://www.nvam.org">National Veterans Art Museum</a> made their first connection through Hive Chicago. The museum hosted weekly art programs in the library’s teen space, which was more centrally located and had an established teen community. Museum staff modified their workshop programming to suit YOUmedia’s “drop-in” style.
@@ -46,13 +47,13 @@ To help address the needs of teens in a high-poverty area, the library hosts com
 
 ### Libraries can provide or facilitate service opportunities
 
-Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.[^8] Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library.
+Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.[^2] Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library.
 
 <div class="table-format case-study"><span class="title"><h5>Adult Volunteers at a Rural Midwestern Library</h5></span>
 Adult community members are a rich source of expertise for many libraries. Library staff we interviewed spoke highly of their many adult volunteers who work with teens. They use personal connections and relationships to recruit both adult and teen volunteers. <b>“I try my best to remember everybody's name… I build this relationship with every single person that I come in contact with and the next thing you know, they lead me to another person, they lead me to another thing and then we just have so many different partnerships right now. It's awesome. And because we have so much good families, good sentiment where everybody's pitching in, we can do so much more.”</b><p/><p/>One of the biggest benefits to come from this relationship building is the expertise of a retired electrical engineer who was working with the local high school’s computer club. <b>“Somebody mentioned to us that he'd be interested in helping you with the Lego robotics because he likes anything techy and he likes to work with older kids."</b> The librarian invited him to volunteer at the library as well, and he now runs weekly Lego robotics workshops when he’s not enjoying retirement by traveling. The librarian helps by managing the teens. <b>“He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”</b></div>
 
 <hr>
 
-[^7] Eggers, Dave. _<a href="https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school">My Wish: Once upon a School_</a>. TED, 2008. 
+[^1] Eggers, Dave. _<a href="https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school">My Wish: Once upon a School</a>_. TED, 2008. 
 
-[^8] Mulder, Natalie. “<a href="https://www.questia.com/library/journal/1G1-272078177/encouraging-community-service-in-the-public-library">Encouraging Community Service in the Public Library</a>.” _Young Adult Library Services_, 2011. 
+[^2] Mulder, Natalie. “<a href="https://www.questia.com/library/journal/1G1-272078177/encouraging-community-service-in-the-public-library">Encouraging Community Service in the Public Library</a>.” _Young Adult Library Services_, 2011. 

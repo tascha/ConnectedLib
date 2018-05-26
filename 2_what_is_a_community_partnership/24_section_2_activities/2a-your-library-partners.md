@@ -4,7 +4,7 @@
 
 What community organizations, businesses, groups, or people does your youth services department partner with already? Who has partnered with your department in the past? List the partnerships on the worksheet provided, indicating the level of partnership. Then provide a short description of each partnership, making sure to include 1) what the library contributed to the partnership and 2) what the partner contributed.
 
-<a href="docs/Partnerships_2A.doc" target="_blank"> <i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>Download worksheet (MS Word)</a>
+<a href="/docs/Partnerships_2A.doc" target="_blank"> <i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>Download worksheet (MS Word)</a>
 
 <i class="fa fa-file-pdf-o" style="font-size:24px;color:blue;"></i>PDF version TK
 
