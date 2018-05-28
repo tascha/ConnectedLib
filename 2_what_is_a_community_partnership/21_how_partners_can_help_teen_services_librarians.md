@@ -21,7 +21,7 @@ One of the most powerful ways partners can help libraries is by letting teens ex
 Partners who have already built a youth community can introduce them to the library and its resources. Organizations with established audiences might include: scouts or 4-H clubs, YMCA/YWCA, schools, school clubs (e.g. the robotics club or Lego Mindstorm club), other youth-serving organizations, and city facilities like rec centers.
 
 <div class="table-format case-study"><span class="title"><h5>NEW AUDIENCES AT THE LIBRARY</h5></span>
-<p>Partnerships can be a way to introduce new youth to the library when your partner brings their existing audiences to you.</p><ul><li>A suburban library in the midwest holds STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>Another library's partnership with a high school e-sports club often brings new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring the Parks and Rec visitors into the library.</li></ul></div>
+<p>Partnerships can be a way to introduce new youth to the library when your partner brings their existing audiences to you.</p><ul><li>A suburban library in the midwest held STEAM programming for the local Boy Scout troop, bringing all the scouts in the library, along with some parents and siblings. </li><li>Another library's partnership with a high school e-sports club often brought new teens into the library.</li><li>Many libraries partner with Parks and Recreation departments--sometimes even sharing facilities--to bring the Parks and Rec visitors into the library.</li></ul></div>
 
 ### Partners can bring the library to new audiences
 
@@ -43,7 +43,7 @@ Even if library staff do a great and thorough job of getting to know the teens t
 Simply donating money or materials in return for a public “thank you” from the library is an easy entry point to partnership for many organizations, particularly local businesses.
 
 <div class="table-format case-study"><span class="title"><h5>PARTNERING WITH LOCAL BUSINESSES</h5></span>
-<p>Simple partnerships can lead to more extensive collaborations as the relationship develops. In a midwestern town surrounded by rural farmland, a librarian has developed a great relationship with a local game store. The owner donates merchandise to be used as trivia prizes and themed snacks for movie nights (<b>“For our Naruto movie, everybody went home with either wasabi candy or ginger candy.”</b>) He shares his expertise by running video game tournaments at the library and judging a game-making contest. In return, the store earns exposure and goodwill with the teens, and the library buys gift cards from the store as additional prizes.</p></div>
+<p>Simple partnerships can lead to more extensive collaborations as the relationship develops. In a midwestern town surrounded by rural farmland, a librarian developed a great relationship with a local game store. The owner donated merchandise to be used as trivia prizes and themed snacks for movie nights (<b>“For our Naruto movie, everybody went home with either wasabi candy or ginger candy.”</b>) He shared his expertise by running video game tournaments at the library and judging a game-making contest. In return, the store earned exposure and goodwill with the teens, and the library bought gift cards from the store as additional prizes.</p></div>
 
 <hr/>
 
