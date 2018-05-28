@@ -18,7 +18,7 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <table class="table-format">
 <tr><th colspan="2">OPPORTUNITIES</th></tr>
-<tr><th>AFTERSCHOOL PARTNERSHIPS</th><td>Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building.</td></tr>
+<tr><th>AFTERSCHOOL PARTNERSHIPS</th><td>Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building. <p><b>“We really appreciate those partnerships because it allows us to go into the schools, but it also allows us to reach those students that are underserved. Most likely, if they are at an afterschool program, their parents might not have as much opportunity to get to the library. So their students won't have as much opportunity to take advantage of those summer reading programs or those story times, or the programs we offer at the libraries. So being able to take those technologies and take those fun things and expose those kids to them, I think really helps and it also let the schools know what we are able to offer them a legitimate and valuable service as well.” -- Rural Western Library</b></p></td></tr>
 </table>
 
 <table class="heading-cell6 no-common-style">
