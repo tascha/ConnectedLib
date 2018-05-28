@@ -18,7 +18,7 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <table class="table-format">
 <tr><th colspan="2">OPPORTUNITIES</th></tr>
-<tr><td>1</td><td>2</td></tr>
+<tr><th>AFTERSCHOOL PARTNERSHIPS</th><td>Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building.</td></tr>
 </table>
 
 <table class="heading-cell6 no-common-style">
