@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png" alt=""></div>
+
+
 
 
 ## 2.3 Levels of Partnership {#2-3-levels-of-partnership}

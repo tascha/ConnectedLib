@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png" alt=""></div>
+
+
 
 
 # 3.0 Types of Partners {#3-0-types-of-partners}

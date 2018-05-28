@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/logo/ConnectedLib-Logo and slogan.png" width="75%"></div>
+<div style="text-align:center"><img src="/logo/ConnectedLib-Logo and slogan.png" width="75%" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"></div>
 
 #Community Partnerships {#Community Partnerships}
 

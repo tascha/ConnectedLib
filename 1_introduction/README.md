@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="/1_introduction/Connectedlib-Logo-Graph.png"></div>
+<div style="text-align:center"><img src="/logo/ConnectedLib-Logo and slogan.png" width="90%" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"></div>
+
+
 
 # 1\. Introduction {#1-introduction}
 <hr/>

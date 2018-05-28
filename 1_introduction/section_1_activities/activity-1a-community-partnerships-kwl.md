@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png" alt=""></div>
 
 ## 1A. Community Partnerships KWL
 Complete this worksheet by first describing your experience (if any) with forming or maintaining a community partnership. Then create a list of what you already know (the K in KWL) about community partnerships. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.

@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png" alt=""></div>
+
+
 
 
 ## 2.2 How Libraries Can Help Their Partners {#2-2-how-libraries-can-help-their-partners}
@@ -19,8 +21,10 @@ As community centers, most libraries can offer partners space to conduct their o
 A library with an active teen population can provide a ready-made audience for the partners’ activities. They can also help bridge the “trust gap” that new youth-serving organizations may face when they try to offer new services to an audience that is not familiar with them.[^1]
 
 <div class="table-format case-study"><span class="title"><h5>THE NATIONAL VETERANS ART MUSEUM</h5></span>
-Chicago Public Library’s YOUmedia program and the <a href="http://www.nvam.org">National Veterans Art Museum</a> made their first connection through Hive Chicago. The museum hosted weekly art programs in the library’s teen space, which was more centrally located and had an established teen community. Museum staff modified their workshop programming to suit YOUmedia’s “drop-in” style.
+<p>Chicago Public Library’s YOUmedia program and the <a href="http://www.nvam.org">National Veterans Art Museum</a> made their first connection through Hive Chicago. The museum hosted weekly art programs in the library’s teen space, which was more centrally located and had an established teen community. Museum staff modified their workshop programming to suit YOUmedia’s “drop-in” style.</p>
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/CkqyRzRehbM"></iframe>
+<p style="text-align:center;">inPOINTS, "<a href="https://www.youtube.com/embed/CkqyRzRehbM"><b>Connected Learning is: Shared Purpose</b></a>," 4:07, 2015.</p>
+
 <ul><li><b>A Partnership Tale: YOUMedia and the National Veterans Art Museum</b>. (Christine Bespalec-Davis, 2014). Young Adult Library Services, 2014(Fall), 18–19</li><li><a href="https://www.chipublib.org/news/youmedia-to-visit-the-national-veterans-art-museum/"><b>YOUmedia to Visit the National Veterans Art Museum</b></a>. (2014, Chicago Public Library).</li></ul></div>
 
 ### Libraries can provide resources for partners
@@ -54,6 +58,9 @@ Teens aren’t the only ones who need or want to volunteer. Libraries provide op
 <div class="table-format case-study"><span class="title"><h5>THE LEARN TO DJ LAB</h5></span>
 The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Partnerships with local government agencies and organizations like the Girl Scouts of Nevada provide teens with opportunities to showcase their skills before a public audience, and provide the organizations with entertainment for their events.
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/ukdUrfo6LVM"></iframe>
+
+<p style="text-align:center;">KSNV & Salvador Avila, "<a href="https://www.youtube.com/embed/ukdUrfo6LVM"><b>Channel 3 Learn to DJ</b></a>," 4:01, 2016.</p>
+
 <ul><li><a href="https://www.youtube.com/watch?v=9R54-rfBFTg"><b>YALSA Snack Break: Salvador Avila Connecting Teens & Community</b></a></li><li><a href="https://www.instagram.com/stemdjs/"><b>STEM DJs on Instagram</b></a></li><li><a href="http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/"><b>DJing By the Book</b></a> (2016, Amber Sampson). Vegas Seven. </li></ul></div>
 
 

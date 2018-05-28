@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png" alt=""></div>
+
+
 
 ## 3.2 Individuals, Businesses, and Community Groups {#3-2-individuals-businesses-and-community-groups}
 
@@ -10,8 +12,9 @@ Private individuals, local businesses, and community groups that are not oriente
 
 
 <div class="table-format case-study"><span class="title"><h5>COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT</h5></span>
-<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/30oAIh5y3gE">
-<p>(5m06)<br>Edutopia. Community Partners: Making Student Learning Relevant, 2016.</p></div>
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/30oAIh5y3gE"></iframe>
+<p style="text-align:center;">Edutopia, "<a href="https://www.youtube.com/embed/30oAIh5y3gE"><b>Community Partners: Making Student Learning Relevant</b></a>," 5:06, 2016.</p></div>
+
 
 
 

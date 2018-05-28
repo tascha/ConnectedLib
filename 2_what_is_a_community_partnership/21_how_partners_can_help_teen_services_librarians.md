@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
+<div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png" alt=""></div>
+
+
 
 
 ## 2.1 How Partners Can Help Teen Services Librarians {#2-1-how-partners-can-help-teen-services-librarians}
@@ -41,7 +43,7 @@ Even if library staff do a great and thorough job of getting to know the teens t
 Simply donating money or materials in return for a public “thank you” from the library is an easy entry point to partnership for many organizations, particularly local businesses.
 
 <div class="table-format case-study"><span class="title"><h5>PARTNERING WITH LOCAL BUSINESSES</h5></span>
-Simple partnerships can lead to more extensive collaborations as the relationship develops. In a midwestern town surrounded by rural farmland, a librarian has developed a great relationship with a local game store. The owner donates merchandise to be used as trivia prizes and themed snacks for movie nights (<b>“For our Naruto movie, everybody went home with either wasabi candy or ginger candy.”</b>) He shares his expertise by running video game tournaments at the library and judging a game-making contest. In return, the store earns exposure and goodwill with the teens, and the library buys gift cards from the store as additional prizes.</div>
+<p>Simple partnerships can lead to more extensive collaborations as the relationship develops. In a midwestern town surrounded by rural farmland, a librarian has developed a great relationship with a local game store. The owner donates merchandise to be used as trivia prizes and themed snacks for movie nights (<b>“For our Naruto movie, everybody went home with either wasabi candy or ginger candy.”</b>) He shares his expertise by running video game tournaments at the library and judging a game-making contest. In return, the store earns exposure and goodwill with the teens, and the library buys gift cards from the store as additional prizes.</p></div>
 
 <hr/>
 
