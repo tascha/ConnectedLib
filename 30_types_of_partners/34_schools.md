@@ -24,18 +24,14 @@ Partnering with schools is particularly challenging for most of the librarians a
 <p>&nbsp;</p>
 <table class="table-format">
 <tr><th colspan="2">CHALLENGES<th></tr>
-<tr><th>NO TIME FOR EXTRAS</th><td>Teachers and school librarians are notoriously busy. Along with their full daily schedules, their curricula are also “busy”—full of requirements and necessary lessons, activities, and tests. They may not have classroom time to spare for library-related activities. To justify the time and effort required for a library and school to work together, you should be able present a very clear benefit.</td></tr>
+<tr><th class="orange">NO TIME FOR EXTRAS</th><td>Teachers and school librarians are notoriously busy. Along with their full daily schedules, their curricula are also “busy”—full of requirements and necessary lessons, activities, and tests. They may not have classroom time to spare for library-related activities. To justify the time and effort required for a library and school to work together, you should be able present a very clear benefit.</td></tr>
+<tr><th class="blue">THE LIBRARY SHOULDN'T FEEL LIKE SCHOOL</th><td>One of the strengths of the public library as an informal learning space is that it’s not school. As INTK_059 put it, “School comes with a lot of negative feelings oftentimes, and this is a much more open-ended space of imagination and freedom.” A library-school partnership shouldn’t make teens feel like they are spending even more time in school.</td></tr>
 </table>
 
 <table class="heading-cell6 no-common-style">
-<tr><th colspan="2">CHALLENGES</th></tr>
-<tr class="row1">
-<th>NO TIME FOR EXTRAS</th>
-<td>Teachers and school librarians are notoriously busy. Along with their full daily schedules, their curricula are also “busy”—full of requirements and necessary lessons, activities, and tests. They may not have classroom time to spare for library-related activities. To justify the time and effort required for a library and school to work together, you should be able present a very clear benefit.</td>
-</tr>
 <tr class="row2">
 <th>THE LIBRARY SHOULDN’T FEEL LIKE SCHOOL</th>
-<td>One of the strengths of the public library as an informal learning space is that it’s not school. As INTK_059 put it, “School comes with a lot of negative feelings oftentimes, and this is a much more open-ended space of imagination and freedom.” A library-school partnership shouldn’t make teens feel like they are spending even more time in school.</td>
+<td></td>
 </tr>
 <tr class="row3">
 <th>YEARLY SCHEDULES CONFLICT</th>
