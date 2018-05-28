@@ -31,5 +31,4 @@
   * [Section 4 Activities](40_establishing_a_partnership/45_activities.md)
     * [4A. Community Partnerships KWL](40_establishing_a_partnership/45_activities/4a-community-partnerships-kwl.md)
     * [4B. Share What You Learned](40_establishing_a_partnership/45_activities/4b-share-what-you-learned.md)
-* [Appendix: Case Studies](appendix_3_-_case_studies/README.md)
 

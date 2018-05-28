@@ -49,8 +49,14 @@ To help address the needs of teens in a high-poverty area, the library hosts com
 
 Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.[^2] Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library.
 
-<div class="table-format case-study"><span class="title"><h5>ADULT VOLUNTEERS AT A RURAL MIDWESTERN LIBRARY</h5></span>
-Adult community members are a rich source of expertise for many libraries. Library staff we interviewed spoke highly of their many adult volunteers who work with teens. They use personal connections and relationships to recruit both adult and teen volunteers. <b>“I try my best to remember everybody's name… I build this relationship with every single person that I come in contact with and the next thing you know, they lead me to another person, they lead me to another thing and then we just have so many different partnerships right now. It's awesome. And because we have so much good families, good sentiment where everybody's pitching in, we can do so much more.”</b><p/><p/>One of the biggest benefits to come from this relationship building is the expertise of a retired electrical engineer who was working with the local high school’s computer club. <b>“Somebody mentioned to us that he'd be interested in helping you with the Lego robotics because he likes anything techy and he likes to work with older kids."</b> The librarian invited him to volunteer at the library as well, and he now runs weekly Lego robotics workshops when he’s not enjoying retirement by traveling. The librarian helps by managing the teens. <b>“He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”</b></div>
+Teens aren’t the only ones who need or want to volunteer. Libraries provide opportunities for adults, often retirees, to share their professional skills and knowledge with youth. Librarians interviewed for the ConnectedLib project mentioned individuals in their community who found fulfillment through volunteering to work with youth in areas as diverse as robotics, programming, and knitting.
+
+<div class="table-format case-study"><span class="title"><h5>THE LEARN TO DJ LAB</h5></span>
+The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Partnerships with local government agencies and organizations like the Girl Scouts of Nevada provide teens with opportunities to showcase their skills before a public audience, and provide the organizations with entertainment for their events.
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/ukdUrfo6LVM"></iframe>
+<ul><li><a href="https://www.youtube.com/watch?v=9R54-rfBFTg"><b>YALSA Snack Break: Salvador Avila Connecting Teens & Community</b></a></li><li><a href="https://www.instagram.com/stemdjs/"><b>STEM DJs on Instagram</b></a></li><li><a href="http://vegasseven.com/2016/05/04/salvador-avila-djing-by-the-book/"><b>DJing By the Book</b></a> (2016, Amber Sampson). Vegas Seven. </li></ul></div>
+
+
 
 <hr/>
 

@@ -13,6 +13,8 @@ Private individuals, local businesses, and community groups that are not oriente
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/30oAIh5y3gE">
 <p>(5m06)<br>Edutopia. Community Partners: Making Student Learning Relevant, 2016.</p></div>
 
+
+
 |**OPPORTUNITIES**|
 |---|
 |**Materials and equipment**<br/>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3D printers.[^1],[^2] They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.|
@@ -25,7 +27,11 @@ Private individuals, local businesses, and community groups that are not oriente
 | **CHALLENGES** |
 |---|
 |**Corporate Policy**<br/>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.[^1] Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.[^3] If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.[^1]|
-|**Inexperience with Teens**<br/>The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. A rural western library worker says of working with a retired electrical engineer on a regular robotics program: **“He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”**|
+|**Inexperience with Teens**<br/>The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. The case study below describes how a rural western library worker and a retired engineer combine their talents for a robotics program.|
+
+<div class="table-format case-study"><span class="title"><h5>ADULT VOLUNTEERS AT A RURAL MIDWESTERN LIBRARY</h5></span>
+Adult community members are a rich source of expertise for many libraries. Library staff we interviewed spoke highly of their many adult volunteers who work with teens. They use personal connections and relationships to recruit both adult and teen volunteers. <b>“I try my best to remember everybody's name… I build this relationship with every single person that I come in contact with and the next thing you know, they lead me to another person, they lead me to another thing and then we just have so many different partnerships right now. It's awesome. And because we have so much good families, good sentiment where everybody's pitching in, we can do so much more.”</b><p/><p/>One of the biggest benefits to come from this relationship building is the expertise of a retired electrical engineer who was working with the local high school’s computer club. <b>“Somebody mentioned to us that he'd be interested in helping you with the Lego robotics because he likes anything techy and he likes to work with older kids."</b> The librarian invited him to volunteer at the library as well, and he now runs weekly Lego robotics workshops when he’s not enjoying retirement by traveling. The librarian helps by managing the teens. <b>“He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”</b></div>
+
 
 
 <br/>
