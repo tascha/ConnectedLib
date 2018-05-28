@@ -1,9 +1,7 @@
 <div style="text-align:center"><img src="/logo/Connectedlib-Logo-Graph.png"></div>
 
 
-## 3.4 Schools {#3-4-schools}
-
-
+## 3.4 Schools 
 
 >"This is such an obvious avenue for partnership that it is sometimes overlooked.” -- Tasha Squires in _Library Partnerships: Making Connections Between School and Public Libraries_[^1]
 
@@ -22,6 +20,11 @@ Partnering with schools is particularly challenging for most of the librarians a
 <tr><th class="blue">TOPICAL RESOURCES</th><td>Libraries can provide resources and information literacy programs for students, particularly when the school’s library is under-equipped. Themed presentations or online resources on evergreen subjects like health or history may be valuable to teachers, and library staff can help students learn to use library resources and equipment for science fairs or special projects. Schools with special focuses­—technology, or the arts—may also be receptive to specialized, relevant programming.</td></tr>
 <tr><th class="orange">COMMUNITY SERVICE OPPORTUNITIES</th><td>Many schools require students to perform community service. Libraries can offer service opportunities, but can also facilitate connections between students and other community organizations in need of volunteers.</td></tr>
 <tr><th class="blue">BOLSTER SERVICES BY COMBINING FORCES</th><td>Partnering with a school or school library can help you provide better services and resources to teens who are underserved, marginalized, at-risk, or otherwise disadvantaged. For instance, one library in Virginia allowed rotating portions of their audiobook collection to be housed at a school for the benefit of blind students.</td></tr>
+</table>
+<p>&nbsp;</p>
+<table class="table-format">
+<tr><th colspan="2">CHALLENGES<th></tr>
+<tr><th>NO TIME FOR EXTRAS</th><td>Teachers and school librarians are notoriously busy. Along with their full daily schedules, their curricula are also “busy”—full of requirements and necessary lessons, activities, and tests. They may not have classroom time to spare for library-related activities. To justify the time and effort required for a library and school to work together, you should be able present a very clear benefit.</td></tr>
 </table>
 
 <table class="heading-cell6 no-common-style">
