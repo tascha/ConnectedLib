@@ -30,7 +30,7 @@ Partnering with schools is particularly challenging for most of the librarians a
 <tr><th class="blue">DAILY SCHEDULES CONFLICT</th><td>Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can.</td></tr>
 </table>
 
-<br>
+<br/>
 
 <div class="table-format sidebar"><span class="title"><h5>GETTING STARTED: PARTNERING WITH SCHOOLS </h5></span><ul>❏ Brainstorm. Think of five ideas that you and your library can use in establishing, sustaining, or improving your relationship with local schools. Use the related readings, including this list of school and public library cooperative activities from the Association for Library Service to Children (ALSC), for inspiration. Write a few sentences for each idea, describing the concept and how your library might implement it.   <br>❏ Reach out to someone at the PTA. You can reach out to parent-teacher associations as well. They may be planning events the library can participate in, or have other ideas about how the library and the school can work together. And crucially, they may have more spare time than school employees.
 <br>❏ Develop a way to stay in touch with teachers. Keeping teachers abreast of the latest library resources and programs for youth through a newsletter or email can help remind them to stay in touch with you about upcoming lessons and assignments.
