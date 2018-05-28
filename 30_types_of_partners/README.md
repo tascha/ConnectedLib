@@ -18,5 +18,5 @@ In this section, we will look more closely at four common types of partners:
 
 You may find some overlap between these categories (for instance, a community group may be formed around serving homeless youth).
 <br>
-<div class="table-format sidebar"><span class="title"><h5>IDENTIFYING POTENTIAL PARTNERS</h5></span><p>You probably already have some potential partners in mind, but a community mapping project can help you identify more. See the <a href="../../community-mapping/details"><b>Community Mapping Module</b></a> for more. </p></div>
+<div class="table-format sidebar"><span class="title"><h5>IDENTIFYING POTENTIAL PARTNERS</h5></span><p>You probably already have some potential partners in mind, but a community mapping project can help you identify more. See the <a href="../../../community-mapping/details"><b>Community Mapping Module</b></a> for more. </p></div>
 
