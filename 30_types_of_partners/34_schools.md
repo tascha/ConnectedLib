@@ -11,29 +11,15 @@ Almost all of a community’s youth can be found in local schools at some point.
 
 Partnering with schools is particularly challenging for most of the librarians and library workers we spoke to. Very few reported having any collaborative relationship at all with their local schools, let alone a thriving partnership.
 
-<div class="table-format case-study"><span class="title"><h5>YALSA SNACK BREAK WITH AUDREY HOPKINS</h5></span>
+<div class="table-format case-study"><span class="title"><h5>YALSA SNACK BREAK WITH AUDREY HOPKINS</h5></span><iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/vJpQJKUoXio">
+</iframe><p>Audrey Hopkins &amp; YALSA, "<a href="https://www.youtube.com/watch?v=vJpQJKUoXio"><b>YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success</b></a>," 5:20, 2016.</p></div>
 
-<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/vJpQJKUoXio">
-</iframe>
-
-<p>Audrey Hopkins & YALSA, "<a href="https://www.youtube.com/watch?v=vJpQJKUoXio"><b>YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success</b></a>," 5:20, 2016.</p></div>
-
-
->"We have to go looking for the information, and most the time when we do go looking for the information, there are district employees, or teachers, or librarians that will work with us. But we have to do a lot of digging to make that happen, and that once again comes down to the resources at our disposal and also the staff time it takes to make those in-roads."<br/>-- Rural Western Library
+>"We have to go looking for the information, and most the time when we do go looking for the information, there are district employees, or teachers, or librarians that will work with us. But we have to do a lot of digging to make that happen, and that once again comes down to the resources at our disposal and also the staff time it takes to make those in-roads." -- Rural Western Library
 
 <table class="heading-cell6 no-common-style"><tr>
-<th colspan="2">OPPORTUNITIES</th></tr>
-<tr class="row1">
-<th>AFTERSCHOOL PARTNERSHIPS</th>
-<td>Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building.
-<p><b>“We really appreciate those partnerships because it allows us to go into the schools, but it also allows us to reach those students that are underserved. Most likely, if they are at an afterschool program, their parents might not have as much opportunity to get to the library. So their students won't have as much opportunity to take advantage of those summer reading programs or those story times, or the programs we offer at the libraries. So being able to take those technologies and take those fun things and expose those kids to them, I think really helps and it also let the schools know what we are able to offer them a legitimate and valuable service as well.” -- Rural  Western Library</b></p> </td>
-
-
-
-</tr>
-<tr class="row2">
-<th>TOPICAL RESOURCES</th>
-<td>Libraries can provide resources and information literacy programs for students, particularly when the school’s library is under-equipped. Themed presentations or online resources on evergreen subjects like health or history may be valuable to teachers, and library staff can help students learn to use library resources and equipment for science fairs or special projects. Schools with special focuses­—technology, or the arts—may also be receptive to specialized, relevant programming.</td>
+<th colspan="2">OPPORTUNITIES</th></tr><tr class="row1">
+<th>AFTERSCHOOL PARTNERSHIPS</th><td>Libraries can offer their space to afterschool programs, or conduct their own. Conducting afterschool programs on the school campus itself can help libraries reach underserved youth who might not be able to travel to the library building.<p><b>“We really appreciate those partnerships because it allows us to go into the schools, but it also allows us to reach those students that are underserved. Most likely, if they are at an afterschool program, their parents might not have as much opportunity to get to the library. So their students won't have as much opportunity to take advantage of those summer reading programs or those story times, or the programs we offer at the libraries. So being able to take those technologies and take those fun things and expose those kids to them, I think really helps and it also let the schools know what we are able to offer them a legitimate and valuable service as well.” -- Rural  Western Library</b></p> </td></tr>
+<tr class="row2"><th>TOPICAL RESOURCES</th><td>Libraries can provide resources and information literacy programs for students, particularly when the school’s library is under-equipped. Themed presentations or online resources on evergreen subjects like health or history may be valuable to teachers, and library staff can help students learn to use library resources and equipment for science fairs or special projects. Schools with special focuses­—technology, or the arts—may also be receptive to specialized, relevant programming.</td>
 </tr>
 <tr class="row3">
 <th>COMMUNITY SERVICE OPPORTUNITIES</th>
@@ -69,10 +55,9 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <div class="table-format sidebar"><span class="title"><h5>GETTING STARTED: PARTNERING WITH SCHOOLS </h5></span><ul>❏ Brainstorm. Think of five ideas that you and your library can use in establishing, sustaining, or improving your relationship with local schools. Use the related readings, including this list of school and public library cooperative activities from the Association for Library Service to Children (ALSC), for inspiration. Write a few sentences for each idea, describing the concept and how your library might implement it.   <br>❏ Reach out to someone at the PTA. You can reach out to parent-teacher associations as well. They may be planning events the library can participate in, or have other ideas about how the library and the school can work together. And crucially, they may have more spare time than school employees.
 <br>❏ Develop a way to stay in touch with teachers. Keeping teachers abreast of the latest library resources and programs for youth through a newsletter or email can help remind them to stay in touch with you about upcoming lessons and assignments.
-<br>❏  Start small. Working together on a one-time event can benefit both school and public library, and requires less time commitment than an ongoing partnership.<sup>29</sup> (Cooksey, 2017).<br>❏	Be in it for the long haul. If a partnership with the school just doesn’t materialize, consider building that relationship anyway by simply helping out—you could assist with an event, volunteer to help in the library, or support advocacy efforts for the school and the school library. This will help you learn more about the school and its needs, and may end up blossoming into a real partnership down the line.
+<br>❏  Start small. Working together on a one-time event can benefit both school and public library, and requires less time commitment than an ongoing partnership.<sup>2</sup><br>❏	Be in it for the long haul. If a partnership with the school just doesn’t materialize, consider building that relationship anyway by simply helping out—you could assist with an event, volunteer to help in the library, or support advocacy efforts for the school and the school library. This will help you learn more about the school and its needs, and may end up blossoming into a real partnership down the line.
 </ul>
 </div>
-<br>
 
 <div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span><ul><li>Library Partnerships: Making Connections Between School and Public Libraries (Tasha Squires, 2009). Information Today, Inc. <a href="http://books.infotoday.com/books/Squires/Squires_Chapter1.pdf"><b>First chapter available online</b></a>.</li><li><a href="http://www.ala.org/alsc/schoolplcoop"><b>School/Public Library Cooperative Programs</b></a> (Association for Library Service to Children).</li><li><a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report"><b>The Future of Library Services For and With Teens: A Call to Action</b></a> (Linda Braun, M. L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, & Beth Yoke, 2014). Chicago, IL: YALSA. Contains a review of the literature on public library and school library partnerships on pp. 48-49.</li><li><a href="https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/"><b>Partnerships Beyond Four Walls</b></a> (Ashley J. Cooksey, 2017). American Libraries Magazine. </li><li>Encouraging Community Service in the Public Library (N. Mulder, 2011). Young Adult Library Services, 2011(Fall), 25–27.</li><li><a href="http://www.ala.org/yalsa/yalsamemonly/webinars/yell-yalsa-e-learning-library-date"><b>Community Collaborations: School and Public Library Partnerships</b></a> [Requires YALSA membership]. (Jenna Nemec-Loise, 2015). Discusses the challenges and opportunities of partnerships from the perspective of both school libraries and public libraries.</li></ul></div>
 
