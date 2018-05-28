@@ -23,25 +23,13 @@ Partnering with schools is particularly challenging for most of the librarians a
 </table>
 <p>&nbsp;</p>
 <table class="table-format">
-<tr><th colspan="2">CHALLENGES<th></tr>
+<tr><th colspan="2">CHALLENGES</th></tr>
 <tr><th class="orange">NO TIME FOR EXTRAS</th><td>Teachers and school librarians are notoriously busy. Along with their full daily schedules, their curricula are also “busy”—full of requirements and necessary lessons, activities, and tests. They may not have classroom time to spare for library-related activities. To justify the time and effort required for a library and school to work together, you should be able present a very clear benefit.</td></tr>
-<tr><th class="blue">THE LIBRARY SHOULDN'T FEEL LIKE SCHOOL</th><td>One of the strengths of the public library as an informal learning space is that it’s not school. As INTK_059 put it, “School comes with a lot of negative feelings oftentimes, and this is a much more open-ended space of imagination and freedom.” A library-school partnership shouldn’t make teens feel like they are spending even more time in school.</td></tr>
+<tr><th class="blue">THE LIBRARY SHOULDN'T FEEL LIKE SCHOOL</th><td>One of the strengths of the public library as an informal learning space is that it’s not school. As an urban western library worker put it, “School comes with a lot of negative feelings oftentimes, and this is a much more open-ended space of imagination and freedom.” A library-school partnership shouldn’t make teens feel like they are spending even more time in school.</td></tr>
+<tr><th class="orange">YEARLY SCHEDULES CONFLICT</th><td>“It’s all about the timing,” says Tasha Squires. Teachers and school librarians are particularly busy around the end of the school year, just as public librarians approach a flurry of summer learning activities. Squires recommends discussing potential partnerships around the beginning of the school year, which may be stressful but is a time when “people tend to be fresh and optimistic.”</td></tr>
+<tr><th class="blue">DAILY SCHEDULES CONFLICT</th><td>Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can.</td></tr>
 </table>
 
-<table class="heading-cell6 no-common-style">
-<tr class="row2">
-<th>THE LIBRARY SHOULDN’T FEEL LIKE SCHOOL</th>
-<td></td>
-</tr>
-<tr class="row3">
-<th>YEARLY SCHEDULES CONFLICT</th>
-<td>“It’s all about the timing,” says Tasha Squires. Teachers and school librarians are particularly busy around the end of the school year, just as public librarians approach a flurry of summer learning activities. Squires recommends discussing potential partnerships around the beginning of the school year, which may be stressful but is a time when “people tend to be fresh and optimistic.” </td>
-</tr>
-<tr class="row4">
-<th>DAILY SCHEDULES CONFLICT</th>
-<td>Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can. </td>
-</tr>
-</table>
 <br>
 
 <div class="table-format sidebar"><span class="title"><h5>GETTING STARTED: PARTNERING WITH SCHOOLS </h5></span><ul>❏ Brainstorm. Think of five ideas that you and your library can use in establishing, sustaining, or improving your relationship with local schools. Use the related readings, including this list of school and public library cooperative activities from the Association for Library Service to Children (ALSC), for inspiration. Write a few sentences for each idea, describing the concept and how your library might implement it.   <br>❏ Reach out to someone at the PTA. You can reach out to parent-teacher associations as well. They may be planning events the library can participate in, or have other ideas about how the library and the school can work together. And crucially, they may have more spare time than school employees.
