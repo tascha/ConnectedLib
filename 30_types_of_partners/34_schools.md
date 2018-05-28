@@ -17,7 +17,8 @@ Partnering with schools is particularly challenging for most of the librarians a
 </iframe><p>Audrey Hopkins &amp; YALSA, "<b><a href="https://www.youtube.com/watch?v=vJpQJKUoXio">YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success</a></b>," 5:20, 2016.</p></div>
 
 <table class="table-format">
-<tr><td>OPPORTUNITIES</td></tr>
+<tr><th colspan="2">OPPORTUNITIES</th></tr>
+<tr><td>1</td><td>2</td></tr>
 </table>
 
 <table class="heading-cell6 no-common-style">
